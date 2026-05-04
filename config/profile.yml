@@ -1,0 +1,80 @@
+# Career-Ops Profile Configuration
+# Copy this file to config/profile.yml and fill in your details.
+# This is the single source of truth for your personal data across all modes.
+
+candidate:
+  full_name: "Andrea Gurgone"
+  email: "andrea.gurgone@gmail.com"
+  phone: "+447900734138"
+  location: "Oxford, UK"
+  linkedin: "linkedin.com/in/agurgo"
+  portfolio_url: "https://agurgone.github.io/"
+  github: "https://github.com/agurgone"
+  # twitter: "https://x.com/janesmith"
+  # (Optional) Canva resume design ID for visual CV generation via /career-ops pdf.
+  # Find it in your Canva design URL: https://www.canva.com/design/DAxxxxxxx/...
+  # The ID starts with "D" and is 11 characters long.
+  # canva_resume_design_id: "DAxxxxxxxxx"
+target_roles:
+  # Your North Star roles — what you're optimizing for
+  primary:
+    - "Macro Strategist (Asset Management / Hedge Fund)"
+    - "Central Bank Economist (Monetary Analysis / Financial Stability)"
+    - "Economic Advisor (long-term trajectory)"
+  # Archetypes help the evaluation system score fit
+  archetypes:
+    - name: "Macro Strategist"
+      level: "Mid-Senior"
+      fit: "primary"        # primary = closest to long-term goal
+    - name: "Central Bank Economist"
+      level: "Economist / Senior Economist"
+      fit: "primary"
+    - name: "Policy Economist (IMF / ECB / ESRB)"
+      level: "Mid-Senior"
+      fit: "secondary"
+    - name: "Economic Consultant (Strategy / Think Tank)"
+      level: "Mid-Senior"
+      fit: "secondary"
+    - name: "Macroeconomic Model Developer"
+      level: "Mid-Senior"
+      fit: "adjacent"      # good fit but risk of being too technical
+
+narrative:
+  # Your professional headline (1 line)
+  headline: "Macroeconomist combining modelling, policy analysis, and forward-looking economic insights"
+  # Your exit story — what makes you unique
+  exit_story: "PhD economist with experience across central banking, consulting, and research, focused on macro-financial dynamics and translating them into policy-relevant and forward-looking insights."
+  # Your top 3-5 superpowers
+  superpowers:
+    - "Macro-financial modelling and policy analysis"
+    - "Linking micro behaviour to macro outcomes"
+    - "Scenario analysis and economic forecasting frameworks"
+    - "Translating complex models into intuitive insights"
+  # Proof points — projects, articles, case studies with measurable impact
+  proof_points:
+    - name: "Central Bank of Ireland – Macroprudential Analysis"
+      url: ""
+      hero_metric: "Analysed mortgage markets and macroprudential tools using borrower- and bank-level data"
+    - name: "Global Labour Resilience Index (Whiteshield)"
+      url: ""
+      hero_metric: "Led flagship cross-country policy report and analytical framework"
+    - name: "Agent-Based Macroeconomic Model (Oxford)"
+      url: ""
+      hero_metric: "Developing large-scale model integrating microdata to analyse policy shock transmission"
+    - name: "Research Publications"
+      url: "https://scholar.google.com"
+      hero_metric: "Peer-reviewed publications on macro-financial stability and network models"
+
+compensation:
+  target_range: "£90K-150K / €90K-140K / $120K-180K"     # realistic across policy and market roles
+  currency: "Flexible (GBP/EUR/USD)"
+  minimum: "£70K / €70K / $100K"                        # walk-away threshold
+  location_flexibility: "Prefer UK/EU; open to relocation (US/Canada) for strong roles; moderate travel acceptable"
+
+location:
+  country: "United Kingdom"
+  city: "Oxford"
+  timezone: "GMT/BST"
+  visa_status: "Global Talent Visa (UK)"
+  # For remote roles outside your country:
+  # onsite_availability: "1 week/month in any city"

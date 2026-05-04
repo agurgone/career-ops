@@ -1,0 +1,343 @@
+# Portal Scanner Configuration
+# Used by /career-ops scan to discover new offers automatically.
+#
+# Strategy (3 levels):
+#   1. Playwright → careers_url of each company (real-time, reliable)
+#   2. Greenhouse API → structured JSON (fast, Greenhouse-only)
+#   3. WebSearch with site: filters (broad discovery, may be stale)
+#
+# IMPORTANT: Each company in tracked_companies MUST have careers_url.
+#
+# HOW TO CUSTOMIZE:
+#   1. Copy this file to portals.yml in the project root
+#   2. Edit title_filter.positive with YOUR target role keywords
+#   3. Add/remove companies in tracked_companies
+#   4. Adjust search_queries for your preferred job boards
+#   5. Set enabled: false on companies you don't care about
+# Portal Scanner Configuration
+# Customised for macroeconomist / policy / strategist roles
+
+# -- Title filter --
+# The scanner uses these keywords to decide if a title is relevant.
+# At least 1 positive must match AND 0 negatives must match.
+# Customised for macroeconomist / policy / strategist roles
+
+title_filter:
+  positive:
+    - "Economist"
+    - "Senior Economist"
+    - "Macroeconomist"
+    - "Policy Economist"
+    - "Research Economist"
+
+    - "Monetary"
+    - "Macroprudential"
+    - "Financial Stability"
+    - "Inflation"
+    - "Economic Analysis"
+    - "Projection"
+    - "Forecast"
+
+    - "Strategist"
+    - "Macro Strategist"
+    - "Global Macro"
+    - "Investment Strategist"
+
+    - "Model Development"
+    - "Macroeconomic Modelling"
+    - "DSGE"
+    - "Agent-Based"
+    - "Quantitative Economist"
+
+    - "Economic Consultant"
+    - "Economic Advisory"
+    - "Policy Advisor"
+
+  negative:
+    - "Intern"
+    - "Internship"
+    - "Graduate Programme"
+    - "Assistant (Admin)"
+    - "Software Engineer"
+    - "Frontend"
+    - "Backend"
+    - "Full Stack"
+    - "DevOps"
+    - "Sales"
+    - "Marketing"
+    - "HR"
+    - "Recruiter"
+    - "Customer Success"
+    - "Blockchain"
+    - "Crypto"
+    - "Game"
+    - "Gaming"
+
+  seniority_boost:
+    - "Senior"
+    - "Principal"
+    - "Lead"
+    - "Advisor"
+    - "Head"
+    - "Director"
+
+# -- Search queries --
+
+search_queries:
+  - name: ECB roles
+    query: 'site:ecb.europa.eu "Economist" OR "Monetary" OR "Financial Stability"'
+    enabled: true
+
+  - name: IMF roles
+    query: 'site:imf.wd1.myworkdayjobs.com "Economist" OR "Macro"'
+    enabled: true
+
+  - name: Central bank broad
+    query: '"Economist" "central bank" OR "Bank of" macroeconomics'
+    enabled: true
+
+  - name: Macro strategist roles
+    query: '"Macro Strategist" OR "Global Macro" OR "Investment Strategist" London'
+    enabled: true
+
+  - name: Economic consulting
+    query: '"Economic Consultant" OR "Policy Economist" OR "Economic Advisory"'
+    enabled: true
+
+  - name: Macro modelling roles
+    query: '"Model Development" macro OR DSGE OR "macroeconomic modelling"'
+    enabled: true
+
+  - name: ImpactPool
+    query: 'site:impactpool.org "Economist" OR "Macroeconomics"'
+    enabled: true
+
+  - name: UN Jobs
+    query: 'site:unjobs.org "Economist" OR "Financial Stability"'
+    enabled: true
+
+  - name: eFinancialCareers
+    query: 'site:efinancialcareers.co.uk "Macro" OR "Economist" OR "Strategist"'
+    enabled: true
+
+# -- Tracked companies --
+
+tracked_companies:
+
+  # Central banks & institutions
+  - name: ECB
+    careers_url: https://talent.ecb.europa.eu/
+    enabled: true
+
+  - name: Bank of England
+    careers_url: https://www.bankofengland.co.uk/careers
+    enabled: true
+
+  - name: Central Bank of Ireland
+    careers_url: https://www.centralbank.ie/careers
+    enabled: true
+
+  - name: Bank of Canada
+    careers_url: https://www.bankofcanada.ca/careers
+    enabled: true
+
+  - name: BIS
+    careers_url: https://www.bis.org/careers
+    enabled: true
+
+  - name: ESRB
+    careers_url: https://www.esrb.europa.eu/about/careers
+    enabled: true
+
+  - name: FCA
+    careers_url: https://www.fca.org.uk/careers
+    enabled: true
+
+  - name: European Commission
+    careers_url: https://eu-careers.europa.eu/
+    enabled: true
+
+  - name: EBA
+    careers_url: https://www.eba.europa.eu/about-us/careers
+    enabled: true
+
+  # International organisations
+  - name: IMF
+    careers_url: https://www.imf.org/en/about/recruitment
+    enabled: true
+
+  - name: World Bank
+    careers_url: https://www.worldbank.org/en/about/careers
+    enabled: true
+
+  - name: OECD
+    careers_url: https://www.oecd.org/en/about/careers.html
+    enabled: true
+
+  - name: WTO
+    careers_url: https://www.wto.org/english/thewto_e/vacan_e/vacan_e.htm
+    enabled: true
+
+  - name: United Nations
+    careers_url: https://careers.un.org/
+    enabled: true
+
+  # Development banks
+  - name: EBRD
+    careers_url: https://www.ebrd.com/careers
+    enabled: true
+
+  - name: EIB
+    careers_url: https://www.eib.org/en/about/careers
+    enabled: true
+
+  # Macro advisory & consulting
+  - name: Frontier Economics
+    careers_url: https://www.frontier-economics.com/careers
+    enabled: true
+
+  - name: Oxera
+    careers_url: https://careers.oxera.com/
+    enabled: true
+
+  - name: London Economics
+    careers_url: https://londoneconomics.co.uk/recruitment/
+    enabled: true
+
+  - name: Cambridge Econometrics
+    careers_url: https://www.camecon.com/careers/
+    enabled: true
+
+  - name: Aurora Energy Research
+    careers_url: https://auroraer.com/careers/
+    enabled: true
+
+  - name: Macro Advisory Partners
+    careers_url: https://macroadvisorypartners.com/
+    enabled: true
+
+  - name: TS Lombard
+    careers_url: https://www.tslombard.com/careers
+    enabled: true
+
+  - name: Capital Economics
+    careers_url: https://www.capitaleconomics.com/careers
+    enabled: true
+
+  - name: Pantheon Macroeconomics
+    careers_url: https://www.pantheonmacro.com/
+    enabled: true
+
+  - name: Fathom Consulting
+    careers_url: https://www.fathom-consulting.com/careers
+    enabled: true
+
+  # Think tanks / research
+  - name: Bruegel
+    careers_url: https://www.bruegel.org/careers
+    enabled: true
+
+  - name: NIESR
+    careers_url: https://www.niesr.ac.uk/vacancies
+    enabled: true
+
+  - name: IFS
+    careers_url: https://ifs.org.uk/about/jobs
+    enabled: false
+
+  - name: CEPR
+    careers_url: https://cepr.org/about/jobs-at-cepr
+    enabled: false
+
+  # Asset managers & macro strategy
+  - name: BlackRock
+    careers_url: https://careers.blackrock.com
+    enabled: true
+
+  - name: PIMCO
+    careers_url: https://careers.pimco.com
+    enabled: true
+
+  - name: AQR
+    careers_url: https://www.aqr.com/careers
+    enabled: true
+
+  - name: Man Group
+    careers_url: https://www.man.com/careers
+    enabled: true
+
+  - name: Winton
+    careers_url: https://www.winton.com/careers
+    enabled: true
+
+  - name: Schroders
+    careers_url: https://www.schroders.com/en/careers/
+    enabled: true
+
+  - name: Amundi
+    careers_url: https://www.amundi.com/corporate/careers
+    enabled: true
+
+  # Banks / macro research
+  - name: Goldman Sachs
+    careers_url: https://www.goldmansachs.com/careers/
+    enabled: true
+
+  - name: J.P. Morgan
+    careers_url: https://careers.jpmorgan.com/
+    enabled: true
+
+  - name: BNP Paribas
+    careers_url: https://group.bnpparibas/en/careers
+    enabled: true
+
+  - name: Deutsche Bank
+    careers_url: https://careers.db.com/
+    enabled: true
+
+  - name: HSBC
+    careers_url: https://www.hsbc.com/careers
+    enabled: true
+
+  - name: Barclays
+    careers_url: https://home.barclays/careers/
+    enabled: true
+
+  - name: Citigroup
+    careers_url: https://careers.citigroup.com/
+    enabled: true
+
+  # Data / analytics
+  - name: Moody's Analytics
+    careers_url: https://careers.moodys.com/
+    enabled: true
+
+  - name: MSCI
+    careers_url: https://www.msci.com/careers
+    enabled: true
+
+  - name: LSEG
+    careers_url: https://www.lseg.com/careers
+    enabled: true
+
+  - name: ICE Data Services
+    careers_url: https://www.ice.com/careers
+    enabled: true
+
+  # Fintech (selective)
+  - name: Wise
+    careers_url: https://wise.jobs/
+    enabled: true
+
+  - name: Adyen
+    careers_url: https://careers.adyen.com/
+    enabled: true
+
+  - name: Revolut
+    careers_url: https://www.revolut.com/careers/
+    enabled: true
+
+  # Academic market (optional)
+  - name: EconJobMarket
+    careers_url: https://econjobmarket.org
+    enabled: false
