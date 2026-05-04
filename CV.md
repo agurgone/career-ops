@@ -1,13 +1,13 @@
 # ANDREA GURGONE, Ph.D.
 ### Macroeconomist
 
-**Location:** Oxford &nbsp;|&nbsp; **Phone:** +447900734138 &nbsp;|&nbsp; **Email:** andrea.gurgone@gmail.com &nbsp;|&nbsp; **LinkedIn:** [linkedin.com/in/agurgo](https://linkedin.com/in/agurgo) &nbsp;|&nbsp; **Google Scholar:** [Profile](https://scholar.google.com/citations?user=tf0pIrMAAAAJ&hl=en)
+**Location:** Oxford &nbsp;|&nbsp; **Phone:** +447900734138 &nbsp;|&nbsp; **Email:** andrea.gurgone@gmail.com &nbsp;|&nbsp; **LinkedIn:** [linkedin.com/in/agurgo](https://linkedin.com/in/agurgo) &nbsp;|&nbsp; **Portfolio:** [agurgone.github.io](https://agurgone.github.io/) &nbsp;|&nbsp; **Google Scholar:** [Profile](https://scholar.google.com/citations?user=tf0pIrMAAAAJ&hl=en)
 
 ---
 
 ## Personal Statement
 
-Macroeconomist with experience spanning central banking, consulting, and academic research. My work develops quantitative macroeconomic models with heterogeneous agents and financial blocks, currently focusing on household consumption and saving, and how policy shocks propagate through it. I have applied experience in data analysis and using models to support scenario analysis and policy insights. My research profile sits at the intersection between economics and computer science, combining theory, data, and computational methods. I am interested in contributing to the development of next-generation macroeconomic frameworks.
+PhD macroeconomist with a track record across central banking (Central Bank of Ireland), applied policy consulting (Whiteshield Advisory), and frontier academic research (Oxford/INET). My work focuses on macro-financial dynamics: building agent-based and heterogeneous-agent models that simulate how policy shocks propagate through households, banks, and financial systems, and translating complex quantitative analysis into insights for policymakers and strategic decision-makers.
 
 ---
 
@@ -35,13 +35,13 @@ Macroeconomist with experience spanning central banking, consulting, and academi
 
 **Senior Research Associate**, Dept. of Computer Science, and **Senior Research Fellow**, INET — *University of Oxford*
 *September 2024 – September 2026*
-- Lead development of a large-scale macroeconomic model simulating consumption under policy and behavioural uncertainty (UKRI grant "The Large Agent Collider", PI: Prof. M. Wooldridge), integrating household-level microdata into macroeconomic simulations.
+- Lead the consumption-saving module of a large-scale agent-based model capable of simulating the French economy at 1:1 scale (~6M households, ~4M firms), integrating HFCS, ICIO, and macro timeseries (WB, OECD) into simulations of policy shock transmission. Part of UKRI £3.5M grant "The Large Agent Collider" (PI: Prof. M. Wooldridge).
 - Collaborate with computer scientists and economists in a cross-functional setting, contributing to research strategy, model design, and dissemination.
 - Class tutor for Computational Game Theory.
 
 **Senior Economist** — *Whiteshield Advisory, Dubai*
 *June 2023 – September 2024*
-- Led a flagship policy report on labour resilience across countries, including data processing, indicator revision, and benchmarking countries by labour market resilience.
+- Led (with a team of 2) the Global Labour Resilience Index: collected, cleaned, and harmonised data across 136 countries and 92 indicators; generated model results, extracted insights, and authored the full report and executive summary; process included academic peer review. Report launched at the World Economic Forum (Davos) and used to advise UAE government ministries.
 - Advised local governments and public entities on labour markets, resilience, and economic performance using quantitative analysis and bespoke indicators.
 - Translated quantitative analysis into policy narratives and recommendations in reports, slide decks, and presentations for senior public-sector stakeholders.
 
@@ -53,7 +53,7 @@ Macroeconomist with experience spanning central banking, consulting, and academi
 
 **Ph.D. Researcher** — *Central Bank of Ireland, Dublin*
 *October 2018 – November 2019*
-- Conducted research on the Irish mortgage market and macroprudential policy using borrower-level and bank-level data, focusing on the impact and interaction of borrower-targeted macroprudential tools.
+- Conducted research on the Irish mortgage market and macroprudential policy using a dataset of 800,000+ household-level mortgage records (2000–2018), focusing on the impact and interaction of borrower-targeted macroprudential tools; findings published as a working paper (SSRN).
 - Contributed to internal discussion on systemic risk and regulatory policy design.
 - Presented findings to central bank officials and academic audiences.
 
@@ -70,6 +70,15 @@ Macroeconomist with experience spanning central banking, consulting, and academi
 - **PhD in Economics and Finance** — Catholic University of Milan, 2017
 - **MA in Economics** — University of Milano-Bicocca, 2013
 - **BA in Economics and Business Studies** — University of Bergamo, 2009
+
+---
+
+## Languages
+
+- **Italian:** Native
+- **English:** Fluent
+- **German:** Basic
+- **Spanish:** Basic
 
 ---
 

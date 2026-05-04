@@ -18,17 +18,22 @@ candidate:
 target_roles:
   # Your North Star roles — what you're optimizing for
   primary:
-    - "Macro Strategist (Asset Management / Hedge Fund)"
     - "Central Bank Economist (Monetary Analysis / Financial Stability)"
+    - "Quant Researcher (Macro / Systematic Trading)"
     - "Economic Advisor (long-term trajectory)"
+  secondary:
+    - "Macro Trader / Systematic Strategist (entry-level lateral move)"
   # Archetypes help the evaluation system score fit
   archetypes:
-    - name: "Macro Strategist"
-      level: "Mid-Senior"
-      fit: "primary"        # primary = closest to long-term goal
     - name: "Central Bank Economist"
       level: "Economist / Senior Economist"
       fit: "primary"
+    - name: "Quant Researcher (Macro / Systematic)"
+      level: "Mid-Senior"
+      fit: "primary"        # strong fit: modeling + coding + macro expertise = direct translation
+    - name: "Macro Trader / Systematic Strategist"
+      level: "Mid-Senior"
+      fit: "secondary"      # achievable with ramp-up; research + macro knowledge = foundation
     - name: "Policy Economist (IMF / ECB / ESRB)"
       level: "Mid-Senior"
       fit: "secondary"
@@ -38,6 +43,9 @@ target_roles:
     - name: "Macroeconomic Model Developer"
       level: "Mid-Senior"
       fit: "adjacent"      # good fit but risk of being too technical
+    - name: "Macro Strategist (Asset Management / Hedge Fund)"
+      level: "Mid-Senior"
+      fit: "adjacent"      # future goal after quant research experience
 
 narrative:
   # Your professional headline (1 line)
@@ -53,17 +61,17 @@ narrative:
   # Proof points — projects, articles, case studies with measurable impact
   proof_points:
     - name: "Central Bank of Ireland – Macroprudential Analysis"
-      url: ""
-      hero_metric: "Analysed mortgage markets and macroprudential tools using borrower- and bank-level data"
+      url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3708904"
+      hero_metric: "Analysed 800,000+ household-level mortgage records (2000–2018) to assess the impact and interaction of borrower-targeted macroprudential tools; published as SSRN working paper"
     - name: "Global Labour Resilience Index (Whiteshield)"
-      url: ""
-      hero_metric: "Led flagship cross-country policy report and analytical framework"
+      url: "https://whiteshield.ai/wp-content/uploads/2024/01/ws_glri_2024.pdf"
+      hero_metric: "Led (team of 3) data collection, harmonisation, modelling, and authorship of the GLRI: 136 countries, 92 indicators; launched at the World Economic Forum (Davos); used to advise UAE government ministries"
     - name: "Agent-Based Macroeconomic Model (Oxford)"
-      url: ""
-      hero_metric: "Developing large-scale model integrating microdata to analyse policy shock transmission"
+      url: "https://agurgone.github.io/research/WP6"
+      hero_metric: "Leading consumption-saving module of an ABM capable of 1:1 scale simulation (~6M households, ~4M firms for France), integrating HFCS and ICIO microdata; part of UKRI £3.5M grant 'The Large Agent Collider'"
     - name: "Research Publications"
-      url: "https://scholar.google.com"
-      hero_metric: "Peer-reviewed publications on macro-financial stability and network models"
+      url: "https://scholar.google.com/citations?user=tf0pIrMAAAAJ&hl=en"
+      hero_metric: "4 peer-reviewed journal articles (JEDC ×2, JRFM, EJF), 1 book chapter, 2 working papers; 136 citations on Google Scholar; topics: macro-financial stability, heterogeneous-agent models, network models, macroprudential policy"
 
 compensation:
   target_range: "£90K-150K / €90K-140K / $120K-180K"     # realistic across policy and market roles
