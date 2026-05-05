@@ -24,7 +24,7 @@
 
 title_filter:
   positive:
-    # Economist roles
+    # --- Macro / Policy (existing) ---
     - "Economist"
     - "Senior Economist"
     - "Macroeconomist"
@@ -74,6 +74,22 @@ title_filter:
     - "Macro Trader"
     - "Systematic Trading"
 
+    # --- Quant Research / Systematic Trading (new) ---
+    - "Quant Researcher"
+    - "Quantitative Researcher"
+    - "Quant Research"
+    - "Research Scientist"
+    - "Systematic Macro"
+    - "Macro Research"
+    - "Alpha Research"
+    - "Signal Research"
+    - "Systematic Researcher"
+    - "Quant Strategist"
+    - "Quantitative Strategist"
+    - "Portfolio Researcher"
+    - "Macro Modeller"
+    - "Systematic Analyst"
+
   negative:
     - "Intern"
     - "Internship"
@@ -93,6 +109,8 @@ title_filter:
     - "Crypto"
     - "Game"
     - "Gaming"
+    - "Quant Developer"
+    - "Quant Engineer"
     # Exclude roles requiring trading/fund mgmt experience (not yet credible)
     - "Portfolio Manager (5+ years)"
     - "P&L responsibility"
@@ -149,8 +167,29 @@ search_queries:
     query: 'site:efinancialcareers.co.uk "Macro" OR "Economist" OR "Strategist"'
     enabled: true
 
+  # --- Quant Research / Systematic Trading ---
   - name: eFinancialCareers - Quant
     query: 'site:efinancialcareers.co.uk "Quant" OR "Quantitative Analyst" OR "Quantitative Researcher"'
+    enabled: true
+
+  - name: eFinancialCareers quant
+    query: 'site:efinancialcareers.co.uk "Quant Researcher" OR "Quantitative Researcher" OR "Systematic Macro"'
+    enabled: true
+
+  - name: Quant researcher hedge funds
+    query: '"Quant Researcher" OR "Quantitative Researcher" macro systematic hedge fund'
+    enabled: true
+
+  - name: Systematic macro roles Ashby
+    query: 'site:jobs.ashbyhq.com "Quant Researcher" OR "Systematic Macro" OR "Macro Research"'
+    enabled: true
+
+  - name: Systematic macro roles Greenhouse
+    query: 'site:job-boards.greenhouse.io "Quant Researcher" OR "Systematic" OR "Macro Research"'
+    enabled: true
+
+  - name: Systematic macro roles Lever
+    query: 'site:jobs.lever.co "Quant Researcher" OR "Macro Research" OR "Systematic"'
     enabled: true
 
   - name: Quant hedge funds
@@ -241,6 +280,10 @@ tracked_companies:
     enabled: true
 
   # Macro advisory & consulting
+  - name: Oxford Economics
+    careers_url: https://www.oxfordeconomics.com/about/careers/
+    enabled: true
+
   - name: Frontier Economics
     careers_url: https://www.frontier-economics.com/careers
     enabled: true
@@ -333,6 +376,63 @@ tracked_companies:
 
   - name: Federal Reserve Bank of Boston
     careers_url: https://www.bostonfed.org/careers
+    enabled: true
+
+  # Quant / Systematic hedge funds
+  - name: Citadel
+    careers_url: https://www.citadel.com/careers/
+    enabled: true
+
+  - name: Two Sigma
+    careers_url: https://careers.twosigma.com/
+    enabled: true
+
+  - name: D.E. Shaw
+    careers_url: https://www.deshaw.com/careers/
+    enabled: true
+
+  - name: Millennium Management
+    careers_url: https://www.mlp.com/careers/
+    enabled: true
+
+  - name: Point72
+    careers_url: https://careers.point72.com/
+    enabled: true
+
+  - name: Bridgewater
+    careers_url: https://www.bridgewater.com/careers
+    enabled: true
+
+  - name: Balyasny Asset Management
+    careers_url: https://www.balyasny.com/careers
+    enabled: true
+
+  - name: Marshall Wace
+    careers_url: https://www.marshall-wace.com/careers
+    enabled: true
+
+  - name: Systematica Investments
+    careers_url: https://www.systematica.com/careers
+    enabled: true
+
+  - name: Aspect Capital
+    careers_url: https://www.aspectcapital.com/careers
+    enabled: true
+
+  - name: Qube Research & Technologies
+    careers_url: https://www.qube-rt.com/careers
+    enabled: true
+
+  - name: Squarepoint Capital
+    careers_url: https://www.squarepointcap.com/careers
+    enabled: true
+
+  - name: WorldQuant
+    careers_url: https://www.worldquant.com/career-listing/
+    enabled: true
+
+  - name: Tudor Investment Corp
+    careers_url: https://www.tudor.com/careers
     enabled: true
 
   # Asset managers & macro strategy
