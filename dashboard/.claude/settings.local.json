@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/andone/Documents/python_projects/career-ops/**)",
+      "Bash(node update-system.mjs check)",
+      "WebFetch(domain:talent.ecb.europa.eu)",
+      "WebFetch(domain:ifs.org.uk)",
+      "WebFetch(domain:www.resolutionfoundation.org)",
+      "WebSearch",
+      "WebFetch(domain:www.federalreserve.gov)",
+      "WebFetch(domain:www.bis.org)",
+      "WebFetch(domain:careers.oxera.com)",
+      "WebFetch(domain:www.frontier-economics.com)",
+      "WebFetch(domain:careers.chathamhouse.org)",
+      "Bash(node merge-tracker.mjs)",
+      "Skill(schedule)"
+    ]
+  }
+}
