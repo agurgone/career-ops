@@ -90,6 +90,15 @@ title_filter:
     - "Macro Modeller"
     - "Systematic Analyst"
 
+    # --- Tech / Cross-domain roles ---
+    - "Economic Researcher"
+    - "Policy Researcher"
+    - "Regulatory Analyst"
+    - "Strategy Economist"
+    - "Research Manager"
+    - "Data Economist"
+    - "Risk Researcher"
+
   negative:
     - "Intern"
     - "Internship"
@@ -750,4 +759,117 @@ tracked_companies:
 
   - name: jobs.ac.uk Economics
     careers_url: https://www.jobs.ac.uk/search/?keywords=economist+quantitative&location=United+Kingdom
+    enabled: true
+
+  # --- Tech companies (policy, strategy, economic research) ---
+  - name: Anthropic
+    careers_url: https://www.anthropic.com/careers
+    enabled: true
+
+  - name: OpenAI
+    careers_url: https://openai.com/careers
+    enabled: true
+
+  - name: Google (Economics/Policy)
+    careers_url: https://careers.google.com/
+    enabled: true
+
+  - name: Meta (Economics/Policy)
+    careers_url: https://www.metacareers.com/
+    enabled: true
+
+  - name: Amazon (Economics/Strategy)
+    careers_url: https://www.amazon.jobs/
+    enabled: true
+
+  - name: Microsoft (Economics/Policy)
+    careers_url: https://careers.microsoft.com/
+    enabled: true
+
+  # --- Fintech & Payments ---
+  - name: Wise
+    careers_url: https://wise.jobs/
+    enabled: true
+
+  - name: Revolut
+    careers_url: https://www.revolut.com/careers/
+    enabled: true
+
+  - name: Square
+    careers_url: https://careers.squareup.com/
+    enabled: true
+
+  - name: Stripe
+    careers_url: https://stripe.com/jobs
+    enabled: true
+
+  - name: Checkout.com
+    careers_url: https://www.checkout.com/careers
+    enabled: true
+
+  - name: Flywire
+    careers_url: https://careers.flywire.com/
+    enabled: true
+
+  # --- Data & Analytics Platforms ---
+  - name: Refinitiv
+    careers_url: https://careers.refinitiv.com/
+    enabled: true
+
+  - name: Bloomberg (Economics/Data)
+    careers_url: https://www.bloomberg.com/careers
+    enabled: true
+
+  - name: MSCI
+    careers_url: https://www.msci.com/careers
+    enabled: true
+
+  - name: FactSet
+    careers_url: https://www.factset.com/careers
+    enabled: true
+
+  - name: Morningstar (Economics/Research)
+    careers_url: https://careers.morningstar.com/
+    enabled: true
+
+  # --- Policy Tech & Regulatory ---
+  - name: Evident
+    careers_url: https://www.evident.ai/careers
+    enabled: true
+
+  - name: Numerai
+    careers_url: https://numerai.com/careers
+    enabled: true
+
+  - name: Secondmind
+    careers_url: https://www.secondmind.io/careers
+    enabled: true
+
+  # --- Search Queries: Tech + Econ ---
+  - name: Tech companies - Economist roles
+    query: '"Economist" site:anthropic.com OR site:openai.com OR site:google.com OR site:meta.com OR site:amazon.com'
+    enabled: true
+
+  - name: Tech + Macro strategy
+    query: '"Macro" OR "Economic" OR "Policy" "Researcher" OR "Analyst" site:openai.com OR site:google.com OR site:meta.com'
+    enabled: true
+
+  - name: Fintech - Economist / Risk
+    query: '"Economist" OR "Risk Analyst" OR "Quantitative" site:wise.jobs OR site:revolut.com OR site:stripe.com OR site:checkout.com'
+    enabled: true
+
+  - name: Fintech - Macro / Risk roles
+    query: '"Macro" OR "Risk" OR "Economic" "Analyst" OR "Researcher" fintech OR payments OR "financial services"'
+    enabled: true
+
+  - name: Data platforms - Economist
+    query: '"Economist" site:refinitiv.com OR site:bloomberg.com OR site:msci.com OR site:factset.com'
+    enabled: true
+
+  - name: Policy tech - Economist
+    query: '"Economist" OR "Policy Analyst" regulatory OR "policy tech" OR govtech'
+    enabled: true
+
+  - name: Tech Economist broad
+    query: '"Economist" tech OR fintech OR "data platform" OR "policy tech"'
     enabled: true
