@@ -204,6 +204,93 @@ search_queries:
     query: '"Macro Trader" OR "Global Macro" "hedge fund" OR "asset manager"'
     enabled: true
 
+  # --- eFinancialCareers expanded ---
+  - name: eFinancialCareers - Fixed Income Quant
+    query: 'site:efinancialcareers.co.uk "Fixed Income" "Quant" OR "Quantitative" OR "Researcher"'
+    enabled: true
+
+  - name: eFinancialCareers - Rates Quant
+    query: 'site:efinancialcareers.co.uk "Rates" OR "Macro" "Quantitative Researcher" OR "Quant Analyst"'
+    enabled: true
+
+  - name: eFinancialCareers - Hedge Fund Researcher
+    query: 'site:efinancialcareers.co.uk "Hedge Fund" "Researcher" OR "Research Analyst" macro OR systematic'
+    enabled: true
+
+  - name: eFinancialCareers - Alpha Research
+    query: 'site:efinancialcareers.co.uk "Alpha Research" OR "Signal Research" OR "Systematic Researcher"'
+    enabled: true
+
+  - name: eFinancialCareers - Quant Portfolio Manager
+    query: 'site:efinancialcareers.co.uk "Quant PM" OR "Quantitative Portfolio Manager" OR "Portfolio Manager" systematic'
+    enabled: true
+
+  - name: eFinancialCareers - Research Scientist Finance
+    query: 'site:efinancialcareers.co.uk "Research Scientist" finance OR macro OR "asset management"'
+    enabled: true
+
+  # --- Risk.net ---
+  - name: Risk.net - Quant roles
+    query: 'site:risk.net/jobs "Quantitative" OR "Quant Researcher" OR "Quant Analyst" macro OR systematic'
+    enabled: true
+
+  - name: Risk.net - Economist roles
+    query: 'site:risk.net/jobs "Economist" OR "Macro Strategist" OR "Research Analyst"'
+    enabled: true
+
+  # --- jobs.ac.uk (research / academic-adjacent quant) ---
+  - name: jobs.ac.uk - Economist
+    query: 'site:jobs.ac.uk "Economist" OR "Macroeconomics" OR "Quantitative" research'
+    enabled: true
+
+  - name: jobs.ac.uk - Quant Finance
+    query: 'site:jobs.ac.uk "Quantitative Finance" OR "Financial Economics" OR "Macro Modelling"'
+    enabled: true
+
+  # --- CFA Institute ---
+  - name: CFA Institute careers
+    query: 'site:cfainstitute.org "Economist" OR "Research Analyst" OR "Quantitative" macro'
+    enabled: true
+
+  # --- LinkedIn (public job listings, may be stale) ---
+  - name: LinkedIn - Systematic Macro Researcher
+    query: 'site:linkedin.com/jobs "Systematic Macro" OR "Macro Researcher" OR "Global Macro Researcher" London'
+    enabled: true
+
+  - name: LinkedIn - Quant Researcher London
+    query: 'site:linkedin.com/jobs "Quantitative Researcher" macro OR systematic London hedge fund'
+    enabled: true
+
+  # --- Broad ATS quant discovery ---
+  - name: Greenhouse - Quant Macro broad
+    query: 'site:job-boards.greenhouse.io "Quantitative" "Macro" OR "Global Macro" OR "Systematic"'
+    enabled: true
+
+  - name: Ashby - Systematic/Quant
+    query: 'site:jobs.ashbyhq.com "Systematic" OR "Quantitative Researcher" OR "Quant Analyst"'
+    enabled: true
+
+  - name: Lever - Quant Research
+    query: 'site:jobs.lever.co "Quantitative Researcher" OR "Quant Research" OR "Systematic Macro"'
+    enabled: true
+
+  # --- Named fund searches ---
+  - name: ExodusPoint roles
+    query: '"ExodusPoint" "Quant" OR "Researcher" OR "Macro"'
+    enabled: true
+
+  - name: Rokos Capula LMR roles
+    query: '"Rokos" OR "Capula" OR "LMR Partners" "Researcher" OR "Economist" OR "Strategist"'
+    enabled: true
+
+  - name: Graham Caxton roles
+    query: '"Graham Capital" OR "Caxton Associates" "Researcher" OR "Economist" OR "Macro"'
+    enabled: true
+
+  - name: Bank QIS desks
+    query: '"Goldman Sachs" OR "BNP Paribas" OR "Nomura" OR "Societe Generale" "Quant" OR "QIS" OR "Macro Strategist" researcher'
+    enabled: true
+
 # -- Tracked companies --
 
 tracked_companies:
@@ -600,4 +687,91 @@ tracked_companies:
   # Academic market (optional)
   - name: EconJobMarket
     careers_url: https://econjobmarket.org
+    enabled: true
+
+  # --- Systematic / quant hedge funds (additional) ---
+  - name: ExodusPoint Capital
+    careers_url: https://www.exoduspoint.com/careers/
+    enabled: true
+
+  - name: Capula Investment Management
+    careers_url: https://www.capula.com/careers
+    enabled: true
+
+  - name: Rokos Capital Management
+    careers_url: https://www.rokoscapital.com/careers
+    enabled: true
+
+  - name: Caxton Associates
+    careers_url: https://www.caxton.com/careers
+    enabled: true
+
+  - name: LMR Partners
+    careers_url: https://www.lmrpartners.com/careers
+    enabled: true
+
+  - name: Graham Capital Management
+    careers_url: https://www.grahamcapital.com/careers
+    enabled: true
+
+  - name: Acadian Asset Management
+    careers_url: https://www.acadian-asset.com/careers
+    enabled: true
+
+  - name: Arrowstreet Capital
+    careers_url: https://www.arrowstreetcapital.com/careers
+    enabled: true
+
+  - name: Campbell & Company
+    careers_url: https://www.campbell.com/careers
+    enabled: true
+
+  - name: GAM Investments
+    careers_url: https://www.gam.com/en/careers
+    enabled: true
+
+  - name: Unigestion
+    careers_url: https://www.unigestion.com/careers/
+    enabled: true
+
+  - name: Algebris Investments
+    careers_url: https://www.algebris.com/careers
+    enabled: true
+
+  - name: Numeric Investors
+    careers_url: https://www.numeric.com/careers
+    enabled: true
+
+  - name: Verdad Capital
+    careers_url: https://verdadcap.com/careers
+    enabled: true
+
+  # --- Bank QIS / quant research desks ---
+  - name: Goldman Sachs
+    careers_url: https://www.goldmansachs.com/careers/
+    enabled: true
+
+  - name: Societe Generale
+    careers_url: https://careers.societegenerale.com/
+    enabled: true
+
+  - name: Nomura
+    careers_url: https://www.nomura.com/careers/
+    enabled: true
+
+  - name: UBS
+    careers_url: https://www.ubs.com/global/en/careers.html
+    enabled: true
+
+  # --- Quant-focused job boards ---
+  - name: eFinancialCareers
+    careers_url: https://www.efinancialcareers.co.uk/search?q=quantitative+researcher+macro&location=London
+    enabled: true
+
+  - name: Risk.net Jobs
+    careers_url: https://www.risk.net/jobs
+    enabled: true
+
+  - name: jobs.ac.uk Economics
+    careers_url: https://www.jobs.ac.uk/search/?keywords=economist+quantitative&location=United+Kingdom
     enabled: true
