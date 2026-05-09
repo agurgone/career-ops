@@ -411,6 +411,14 @@ tracked_companies:
     careers_url: https://www.fathom-consulting.com/careers
     enabled: true
 
+  - name: Gavekal Dragonomics
+    careers_url: https://www.gavekal.com/careers
+    enabled: true
+
+  - name: Accenture (Macro Policy)
+    careers_url: https://www.accenture.com/us-en/careers
+    enabled: true
+
   # Think tanks / research
   - name: Resolution Foundation
     careers_url: https://www.resolutionfoundation.org/about/jobs/
@@ -597,18 +605,6 @@ tracked_companies:
     careers_url: https://www.janestreet.com/careers/
     enabled: true
 
-  - name: Citadel
-    careers_url: https://www.citadel.com/careers/
-    enabled: true
-
-  - name: Bridgewater
-    careers_url: https://www.bridgewater.com/careers
-    enabled: true
-
-  - name: Point72
-    careers_url: https://www.point72.com/careers/
-    enabled: true
-
   - name: DRW
     careers_url: https://www.drw.com/careers/
     enabled: true
@@ -617,33 +613,17 @@ tracked_companies:
     careers_url: https://www.optiver.com/careers/
     enabled: true
 
-  - name: Millennium Management
-    careers_url: https://www.mlp.com/careers
-    enabled: true
-
   - name: Winton Global
     careers_url: https://www.wintonglobal.com/careers/
     enabled: true
 
   # Asset managers
-  - name: BlackRock
-    careers_url: https://careers.blackrock.com/
-    enabled: true
-
   - name: Vanguard
     careers_url: https://www.vanguard.com/careers/
     enabled: true
 
   - name: Fidelity
     careers_url: https://www.fidelity.com/careers
-    enabled: true
-
-  - name: PIMCO
-    careers_url: https://www.pimco.com/en-us/careers/
-    enabled: true
-
-  - name: Schroders
-    careers_url: https://careers.schroders.com/
     enabled: true
 
   - name: Abrdn
@@ -747,10 +727,6 @@ tracked_companies:
     enabled: true
 
   # --- Bank QIS / quant research desks ---
-  - name: Goldman Sachs
-    careers_url: https://www.goldmansachs.com/careers/
-    enabled: true
-
   - name: Societe Generale
     careers_url: https://careers.societegenerale.com/
     enabled: true
