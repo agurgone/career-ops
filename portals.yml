@@ -152,6 +152,14 @@ search_queries:
     query: '"Economist" "central bank" OR "Bank of" macroeconomics'
     enabled: true
 
+  - name: Bank of England (focused)
+    query: 'site:bankofengland.co.uk/careers OR site:bankofengland.tal.net "Economist" OR "Research" OR "Advisor" OR "Analyst"'
+    enabled: true
+
+  - name: UK policy bodies (HMT/OBR/DBT)
+    query: 'site:civilservicejobs.service.gov.uk "Economist" OR "Senior Economist" "HM Treasury" OR "OBR" OR "Office for Budget Responsibility"'
+    enabled: true
+
   - name: Macro strategist roles
     query: '"Macro Strategist" OR "Global Macro" OR "Investment Strategist" London'
     enabled: true
@@ -343,6 +351,38 @@ tracked_companies:
 
   - name: EBA
     careers_url: https://www.eba.europa.eu/about-us/careers
+    enabled: true
+
+  - name: HM Treasury
+    careers_url: https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=cGFnZWNsYXNzPVNlYXJjaCZqb2JsaXN0X3ZpZXdfdmFjPTE3OTI1NjMmcGFnZWFjdGlvbj1zZWFyY2hjb250ZXh0dXNlPWFkdmFuY2VkJm93bmVydHlwZT1mYWlyJm93bmVyPTUwNzAwMDA=
+    enabled: true
+
+  - name: Office for Budget Responsibility (OBR)
+    careers_url: https://obr.uk/about-the-obr/recruitment/
+    enabled: true
+
+  - name: Bundesbank
+    careers_url: https://www.bundesbank.de/en/career
+    enabled: true
+
+  - name: Banque de France
+    careers_url: https://www.banque-france.fr/en/banque-de-france/careers
+    enabled: true
+
+  - name: Sveriges Riksbank
+    careers_url: https://www.riksbank.se/en-gb/about-the-riksbank/work-at-the-riksbank/
+    enabled: true
+
+  - name: Norges Bank
+    careers_url: https://www.norges-bank.no/en/about/Vacancies/
+    enabled: true
+
+  - name: Swiss National Bank (SNB)
+    careers_url: https://www.snb.ch/en/the-snb/career
+    enabled: true
+
+  - name: Reserve Bank of Australia
+    careers_url: https://www.rba.gov.au/careers/
     enabled: true
 
   # International organisations
