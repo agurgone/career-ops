@@ -424,6 +424,10 @@ tracked_companies:
     careers_url: https://www.gavekal.com/careers
     enabled: true
 
+  - name: CEBR (Centre for Economics and Business Research)
+    careers_url: https://cebr.com/join-the-team/
+    enabled: true
+
   - name: Accenture (Macro Policy)
     careers_url: https://www.accenture.com/us-en/careers
     enabled: true
@@ -455,6 +459,30 @@ tracked_companies:
 
   - name: CEPR
     careers_url: https://cepr.org/about/jobs-at-cepr
+    enabled: true
+
+  - name: Society of Professional Economists (UK)
+    careers_url: https://spe.org.uk/careers/jobs/
+    enabled: true
+
+  - name: Urban Institute
+    careers_url: https://www.urban.org/careers
+    enabled: true
+
+  - name: Brookings Institution
+    careers_url: https://www.brookings.edu/careers
+    enabled: true
+
+  - name: NBER (National Bureau of Economic Research)
+    careers_url: https://www.nber.org/opportunities
+    enabled: true
+
+  - name: Institute for Advanced Study (IAS)
+    careers_url: https://www.ias.edu/about/employment
+    enabled: true
+
+  - name: ESRI (Economic & Social Research Institute, Ireland)
+    careers_url: https://www.esri.ie/about/jobs
     enabled: true
 
   # Federal Reserve System
@@ -673,9 +701,41 @@ tracked_companies:
     careers_url: https://www.revolut.com/careers/
     enabled: true
 
-  # Academic market (optional)
+  # Academic & Economics Job Boards
   - name: EconJobMarket
-    careers_url: https://econjobmarket.org
+    careers_url: https://econjobmarket.org/positions
+    enabled: true
+
+  - name: Econ Jobs
+    careers_url: https://econ-jobs.com/explore-jobs/
+    enabled: true
+
+  - name: jobs.ac.uk - Economics
+    careers_url: https://www.jobs.ac.uk/search/economics
+    enabled: true
+
+  - name: AEAWEB JOE (American Economic Association)
+    careers_url: https://www.aeaweb.org/joe/listings
+    enabled: true
+
+  - name: INOMICS Jobs
+    careers_url: https://inomics.com/top/jobs
+    enabled: true
+
+  - name: European Economic Association Job Market
+    careers_url: https://eeassoc.org/job-market
+    enabled: true
+
+  - name: JEEH Position Listings (European Economics)
+    careers_url: https://eeassoc.org/jeeh-position-listings?field_country_list_value=All&field_fields_of_research_target_id=All&field_jeeh_position_value=All
+    enabled: true
+
+  - name: European Job Market of Economists
+    careers_url: https://www.europeanjobmarketofeconomists.org/job-listings
+    enabled: true
+
+  - name: The Economist Jobs
+    careers_url: https://jobs.economist.com/jobs/
     enabled: true
 
   # --- Systematic / quant hedge funds (additional) ---
