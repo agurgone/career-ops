@@ -56,4 +56,49 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://careers.msci.com/job/research/new-york/quantitative-researcher-credit/2024-2391 | MSCI | Quantitative Researcher - Credit
 - [ ] https://wellfound.com/jobs/3753684-quantitative-ai-researcher | Numerai | Quantitative AI Researcher
 
+### Hedge Funds & Asset Managers — Chunk 3 (2026-05-11)
+- [ ] https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/ | Citadel | Quantitative Researcher - PhD Graduate (Europe)
+- [ ] https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/ | Citadel | Quantitative Researcher - PhD Graduate (US)
+- [ ] https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Experienced-Hire/12633 | Two Sigma | Quantitative Researcher - Experienced Hire
+- [ ] https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Machine-Learning/12634 | Two Sigma | Quantitative Researcher: Machine Learning
+- [ ] https://careers.twosigma.com/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-Quantitative-Researcher-Quantitative-Trader-Two-Sigma-Securities-UK/12635 | Two Sigma | Quantitative Researcher / Quantitative Trader (London)
+- [ ] https://www.deshaw.com/careers/quantitative-analyst-2636 | D.E. Shaw | Quantitative Analyst
+- [ ] https://careers.point72.com/CSJobDetail?jobName=intraday-futures-quantitative-researcher-trading-research&jobCode=CSS-0010963 | Point72 | Macro Quantitative Researcher (Intraday Futures)
+- [ ] https://careers.point72.com/CSJobDetail?jobName=fund-flow-quantitative-researcher&jobCode=CSS-0014323 | Point72 | Fund Flow Quantitative Researcher
+- [ ] https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher-portfolio-research&jobCode=CSS-0013431 | Point72 | Quantitative Researcher, Portfolio Research
+- [ ] https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher-macro&jobCode=CSS-0008107 | Point72 | Quantitative Researcher - Macro
+- [ ] https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher&jobCode=CSS-0010379 | Point72 | Quantitative Researcher (London)
+- [ ] https://career.mlp.com/careers/job/755943671775 | Millennium | Quantitative Researcher, Systematic Macro
+- [ ] https://career.mlp.com/careers/job/755930923588-commodities-quantitative-researcher-systematic-global-macro-baar-zug-switzerland | Millennium | Commodities Quantitative Researcher, Systematic Global Macro (Zug)
+- [ ] https://job-boards.greenhouse.io/tudorgroup/jobs/5358422 | Tudor Investment Corp | Medium Frequency Quantitative Researcher
+- [ ] https://job-boards.greenhouse.io/tudorgroup/jobs/942825 | Tudor Investment Corp | Discretionary Global Macro (Application)
+- [ ] https://job-boards.greenhouse.io/tudorgroup/jobs/942848 | Tudor Investment Corp | Systematic Strategies (Application)
+- [ ] https://boards.greenhouse.io/marshallwace/jobs/4008599002 | Marshall Wace | Quantitative Researcher
+- [ ] https://www.qube-rt.com/careers/job?gh_jid=6845873002 | Qube Research & Technologies | Quantitative Researcher
+- [ ] https://www.qube-rt.com/careers/job?gh_jid=6472853002 | Qube Research & Technologies | Quantitative Researcher, Macro/CTA Mid-low Freq
+- [ ] https://www.qube-rt.com/careers/data/london/experienced-candidates/data-analytics/job?gh_jid=6962479002 | Qube Research & Technologies | Quantitative Data Analyst (London)
+- [ ] https://careers.aqr.com/jobs/open-positions/greenwich-ct/2026-research-analyst/7216090?gh_jid=7216090 | AQR | 2026 Research Analyst
+- [ ] https://job-boards.greenhouse.io/winton/jobs/4353297101 | Winton | Quantitative Researcher
+- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4553301101 | Man Group | Quant Researcher
+- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4772820101 | Man Group | Quantitative Researcher - Discretionary
+- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4510684101 | Man Group | Quantitative Researcher - Equities
+- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4737145101 | Man Group | Quantitative Researcher
+- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4702558101 | Man Group | Senior Quant Researcher - Volatility
+- [ ] https://careers.blackrock.com/job/london/associate-macro-research-fundamental-fixed-income/45831/70348115168 | BlackRock | Associate, Macro Research - Fundamental Fixed Income (London)
+- [ ] https://careers.blackrock.com/job/london/quantitative-researcher-trading-research-vice-president-london/45831/88009935088 | BlackRock | Quantitative Researcher - Trading Research, VP (London)
+- [ ] https://boards.greenhouse.io/exoduspoint/jobs/6591899002 | ExodusPoint | Quantitative Researcher
+- [ ] https://boards.greenhouse.io/exoduspoint/jobs/6793032002 | ExodusPoint | Quantitative Researcher (New York or London)
+- [ ] https://apply.workable.com/caxton/j/0F3BF3C183/ | Caxton Associates | Quantitative Research Analyst
+- [ ] https://job-boards.greenhouse.io/grahamcapitalmanagement/jobs/4058503005 | Graham Capital | Quantitative Research Analyst
+- [ ] https://job-boards.greenhouse.io/grahamcapitalmanagement/jobs/4596235005 | Graham Capital | Quantitative Research Analyst, Smart Execution
+- [ ] https://job-boards.greenhouse.io/grahamcapitalmanagement/jobs/4608324005 | Graham Capital | Quantitative Research Analyst, Portfolio Construction
+- [ ] https://boards.greenhouse.io/squarepointcapital/jobs/5063264 | Squarepoint | Quantitative Researcher, CTA-Commodities
+- [ ] https://boards.greenhouse.io/squarepointcapital/jobs/239376 | Squarepoint | Junior Quant Researcher
+- [ ] https://boards.greenhouse.io/squarepointcapital/jobs/5225405 | Squarepoint | Quantitative Researcher, Securitized Products
+- [ ] https://boards.greenhouse.io/squarepointcapital/jobs/253414 | Squarepoint | Senior Quant Researcher - Volatility
+- [ ] https://boards.greenhouse.io/squarepointcapital/jobs/4562565 | Squarepoint | Senior Quant Researcher - Derivatives Modeling
+- [ ] https://boards.greenhouse.io/squarepointcapital/jobs/1713329 | Squarepoint | Senior Quant Researcher - Risk
+- [ ] https://boards.greenhouse.io/squarepointcapital/jobs/467334 | Squarepoint | Senior Quant Researcher - Algorithmic Execution
+- [ ] https://boards.greenhouse.io/squarepointcapital/jobs/6069464 | Squarepoint | Junior Quant Researcher - ML Alpha Research
+
 ## Procesadas
