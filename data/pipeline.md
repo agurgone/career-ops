@@ -101,4 +101,32 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://boards.greenhouse.io/squarepointcapital/jobs/467334 | Squarepoint | Senior Quant Researcher - Algorithmic Execution
 - [ ] https://boards.greenhouse.io/squarepointcapital/jobs/6069464 | Squarepoint | Junior Quant Researcher - ML Alpha Research
 
+### Hedge Funds & Asset Managers — Chunk 3 refresh (2026-05-16)
+- [ ] https://boards.greenhouse.io/squarepointcapital/jobs/1163559 | Squarepoint | Senior Quant Researcher - Fixed Income
+- [ ] https://boards.greenhouse.io/squarepointcapital/jobs/253413 | Squarepoint | Senior Quant Researcher - Intraday Statistical Arbitrage
+- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4687710101 | Man Group | Quantitative Researcher - PM Monetisation
+- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4688020101 | Man Group | Senior Quantitative Researcher - Macro
+- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4724223101 | Man Group | Principal Quant
+- [ ] https://boards.greenhouse.io/exoduspoint/jobs/6900099002 | ExodusPoint | Quantitative Researcher (Stamford or New York)
+- [ ] https://boards.greenhouse.io/exoduspoint/jobs/7839186002 | ExodusPoint | Quantitative Researcher (London)
+- [ ] https://careers.blackrock.com/job/19309891/quantitative-researcher-systematic-fixed-income-associate-london-gb/ | BlackRock | Quantitative Researcher - Systematic Fixed Income, Associate (London)
+- [ ] https://careers.blackrock.com/job/new-york/quantitative-researcher-global-allocation-vice-president/45831/86487706544 | BlackRock | Quantitative Researcher, Global Allocation - Vice President (New York)
+- [ ] https://careers.blackrock.com/job/new-york/economist-macro-research-fundamental-fixed-income-vice-president-or-associate-new-york/45831/70574287488 | BlackRock | Economist / Macro Research, Fundamental Fixed Income - VP or Associate (New York)
+- [ ] https://www.deshaw.com/careers/desim-macro-quantitative-analyst-4936 | D.E. Shaw | DESIM Macro Quantitative Analyst
+- [ ] https://career.mlp.com/careers/job/755939901399 | Millennium | Quantitative Researcher, Multi-Asset
+- [ ] https://career.mlp.com/careers/job/755930336095 | Millennium | Quantitative Researcher, Short-Term Macro (London)
+- [ ] https://career.mlp.com/careers/job/755953450082 | Millennium | Quantitative Researcher - Rates
+- [ ] https://career.mlp.com/careers/job/755953399441 | Millennium | Quantitative Researcher - FX (London)
+- [ ] https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-ETFs-and-Passive-Flows/12632 | Two Sigma | Quantitative Researcher - ETFs and Passive Flows
+- [ ] https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher-machine-learning&jobCode=CSS-0013392 | Point72 | Quantitative Researcher - Machine Learning
+- [ ] https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher&jobCode=CSS-0013507 | Point72 | Quantitative Researcher
+- [ ] https://careers.point72.com/CSJobDetail?jobName=entry-level-quantitative-researcher&jobCode=CSS-0010275 | Point72 | Entry-Level Quantitative Researcher
+- [ ] https://apply.workable.com/caxton/j/CC2C9491E2/ | Caxton Associates | Quantitative Researcher (Commodities)
+- [ ] https://apply.workable.com/caxton/j/54A99D1679/ | Caxton Associates | Analyst, Global Macro FX & Rates
+- [ ] https://apply.workable.com/caxton/j/920C546418/ | Caxton Associates | Macro Analyst (Macro Trading)
+- [ ] https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Quantitative-Researcher_R1066-3 | Arrowstreet Capital | Quantitative Researcher
+- [ ] https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Senior-Quantitative-Researcher_R1385-1 | Arrowstreet Capital | Senior Quantitative Researcher
+- [ ] https://systematica.pinpointhq.com/en/jobs/66288 | Systematica Investments | Data Scientist / Quantitative Analyst
+- [ ] https://www.citadel.com/careers/details/quantitative-researcher-data-strategies-group/ | Citadel | Quantitative Researcher - Data Strategies Group
+
 ## Procesadas
