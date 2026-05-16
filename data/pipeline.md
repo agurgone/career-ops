@@ -4,129 +4,130 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 
 ## Pendientes
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5018472008 | Anthropic | Research Economist, Economic Research
+- [x] https://job-boards.greenhouse.io/anthropic/jobs/5183053008 | Anthropic | (new posting — to identify) | SKIP: 4-month fellowship ($3,850/wk stipend), not a permanent role
 - [ ] https://openai.com/careers/senior-economist-san-francisco/ | OpenAI | Senior Economist
-- [ ] https://openai.com/careers/research-scientist-phd-san-francisco/ | OpenAI | Research Scientist, PhD
+- [x] https://openai.com/careers/research-scientist-phd-san-francisco/ | OpenAI | Research Scientist, PhD | SKIP: SF + wrong archetype
 - [ ] https://openai.com/careers/research-scientist-learning-and-cognitive-outcomes-london-uk/ | OpenAI | Research Scientist, Learning & Cognitive Outcomes
-- [ ] https://careers.google.com/jobs/results/118826814922465990-senior-data-scientistresearch-economist/ | Google | Senior Data Scientist/Research Economist
+- [x] https://careers.google.com/jobs/results/118826814922465990-senior-data-scientistresearch-economist/ | Google | Senior Data Scientist/Research Economist
 - [ ] https://careers.google.com/jobs/results/134621669932049094-competition-economist/ | Google | Competition Economist
-- [ ] https://www.metacareers.com/profile/job_details/1287393622479232 | Meta | Research Scientist, Demography and Survey Sciences
-- [ ] https://www.amazon.jobs/en/jobs/3170645/economist-people-experience-and-technology-central-science | Amazon | Economist, People Experience and Technology Central Science
-- [ ] https://www.amazon.jobs/en/jobs/10387098/economist-economic-decision-science | Amazon | Economist, Economic Decision Science
+- [x] https://www.metacareers.com/profile/job_details/1287393622479232 | Meta | Research Scientist, Demography and Survey Sciences | SKIP: wrong domain (demography)
+- [x] https://www.amazon.jobs/en/jobs/3170645/economist-people-experience-and-technology-central-science | Amazon | Economist, People Experience and Technology Central Science | SKIP: internal HR economics
+- [x] https://www.amazon.jobs/en/jobs/10387098/economist-economic-decision-science | Amazon | Economist, Economic Decision Science | SKIP: internal ops economics
 - [ ] https://www.amazon.jobs/en/jobs/3195143/senior-economist-people-experience-and-technology-central-science | Amazon | Senior Economist, People Experience and Technology Central Science
-- [ ] https://www.amazon.jobs/en/jobs/3060591/senior-economist-last-mile-economics | Amazon | Senior Economist, Last Mile Economics
+- [x] https://www.amazon.jobs/en/jobs/3060591/senior-economist-last-mile-economics | Amazon | Senior Economist, Last Mile Economics | SKIP: internal ops
 - [ ] https://www.amazon.jobs/en/jobs/2959606/principal-economist-stores-economics-and-science | Amazon | Principal Economist, Stores Economics and Science
 - [ ] https://jobs.careers.microsoft.com/global/en/job/1586150/Economist | Microsoft | Economist
-- [ ] https://careers.bloomberg.com/job/detail/123843 | Bloomberg | Quantitative Research Analyst, Economics (Madrid)
-- [ ] https://careers.moodys.com/economist-1/job/12787 | Moody's Analytics | Economist 1
-- [ ] https://www.janestreet.com/join-jane-street/position/6302325002/ | Jane Street | Quantitative Researcher, New York
+- [x] https://careers.bloomberg.com/job/detail/123843 | Bloomberg | Quantitative Research Analyst, Economics (Madrid) | SKIP: Madrid + junior
+- [x] https://careers.moodys.com/economist-1/job/12787 | Moody's Analytics | Economist 1 | SKIP: junior (Economist 1)
+- [x] https://www.janestreet.com/join-jane-street/position/6302325002/ | Jane Street | Quantitative Researcher, New York | SKIP: NYC
 - [ ] https://www.janestreet.com/join-jane-street/position/8017833002/ | Jane Street | Quantitative Researcher, London
-- [ ] https://search.jobs.barclays/job/new-york/senior-g10-fx-macro-strategist/13015/86251084224 | Barclays | Senior G10 FX/Macro Strategist
-- [ ] https://jobs.citi.com/job/new-york/us-rates-strategist-treasury-trading/287/94737235216 | Citigroup | US Rates Strategist - Treasury Trading
-- [ ] https://jobs.citi.com/job/new-york/senior-global-economist-director/287/94560024720 | Citigroup | Senior Global Economist, Director
-- [ ] https://www.drw.com/work-at-drw/listings/quantitative-researcher-commodities-3116560 | DRW | Quantitative Researcher - Commodities
-- [ ] https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-3172062 | DRW | Quantitative Trading Analyst
+- [x] https://search.jobs.barclays/job/new-york/senior-g10-fx-macro-strategist/13015/86251084224 | Barclays | Senior G10 FX/Macro Strategist | SKIP: NYC
+- [x] https://jobs.citi.com/job/new-york/us-rates-strategist-treasury-trading/287/94737235216 | Citigroup | US Rates Strategist - Treasury Trading | SKIP: rates + NYC
+- [x] https://jobs.citi.com/job/new-york/senior-global-economist-director/287/94560024720 | Citigroup | Senior Global Economist, Director
+- [x] https://www.drw.com/work-at-drw/listings/quantitative-researcher-commodities-3116560 | DRW | Quantitative Researcher - Commodities | SKIP: commodities trading
+- [x] https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-3172062 | DRW | Quantitative Trading Analyst | SKIP: execution trading
 - [ ] https://www.drw.com/work-at-drw/listings/quantitative-ai-strategist-3386899 | DRW | Quantitative AI Strategist
-- [ ] https://www.drw.com/work-at-drw/listings/quantitative-trading-associate-3261427 | DRW | Quantitative Trading Associate
-- [ ] https://optiver.com/working-at-optiver/career-opportunities/4734370002/ | Optiver | Quantitative Researcher – HFT Futures/Equities
-- [ ] https://optiver.com/working-at-optiver/career-opportunities/7251404002/ | Optiver | Quantitative Trader/Researcher – Systematic Options Trading
-- [ ] https://optiver.com/working-at-optiver/career-opportunities/8060185002/ | Optiver | Options Quantitative Researcher
-- [ ] https://optiver.com/working-at-optiver/career-opportunities/8053587002/ | Optiver | Graduate Quantitative Researcher, PhD (2026 Start)
-- [ ] https://www.vanguardjobs.com/job/22829705/model-portfolio-solutions-analyst-quantitative-strategist-malvern-pa/ | Vanguard | Model Portfolio Solutions Analyst/Quantitative Strategist
-- [ ] https://www.vanguardjobs.com/job/22562571/quantitative-investment-analyst-malvern-pa/ | Vanguard | Quantitative Investment Analyst
-- [ ] https://www.vanguardjobs.com/job/23044679/senior-financial-economist-malvern-pa/ | Vanguard | Senior Financial Economist
-- [ ] https://www.vanguardjobs.com/job/23236349/investment-risk-analyst-malvern-pa/ | Vanguard | Investment Risk Analyst
-- [ ] https://www.vanguardjobs.com/job/22753703/equity-investment-risk-analyst-malvern-pa/ | Vanguard | Equity Investment Risk Analyst
-- [ ] https://www.vanguardjobs.com/job/22198542/senior-investment-strategist-malvern-pa/ | Vanguard | Senior Investment Strategist
-- [ ] https://www.vanguardjobs.com/job/22680583/quantitative-trading-analyst-malvern-pa/ | Vanguard | Quantitative Trading Analyst
-- [ ] https://careers.statestreet.com/global/en/job/STSTGLOBALR777055EXTERNALENGLOBAL/Actuarial-Investment-Strategist-VP-II-State-Street-Investment-Management | State Street | Actuarial Investment Strategist, VP II
-- [ ] https://careers.morningstar.com/us/en/job/REQ-053519/Senior-Quantitative-Analyst | Morningstar | Senior Quantitative Analyst
-- [ ] https://careers.morningstar.com/us/en/job/REQ-053662/Associate-Quantitative-Analyst | Morningstar | Associate Quantitative Analyst
-- [ ] https://careers.morningstar.com/us/en/job/REQ-044447/Assistant-Vice-President-Quantitative-Analyst | Morningstar | AVP, Quantitative Analyst
-- [ ] https://www.revolut.com/careers/position/quant-research-analyst-2ee79de4-6889-46bf-a5b8-7190f9069016/ | Revolut | Quant Research Analyst
-- [ ] https://careers.adyen.com/vacancies/6864127-financial-risk-analyst | Adyen | Financial Risk Analyst
-- [ ] https://careers.adyen.com/vacancies/7270367-cdd-risk-analyst | Adyen | CDD Risk Analyst
-- [ ] https://wise.jobs/job/senior-risk-analyst-financial-risk-management-in-singapore-jid-79 | Wise | Senior Risk Analyst - Financial Risk Management
-- [ ] https://www.flywire.com/company/careers/jobs/743999963196833 | Flywire | Risk Analyst
+- [x] https://www.drw.com/work-at-drw/listings/quantitative-trading-associate-3261427 | DRW | Quantitative Trading Associate | SKIP: execution trading
+- [x] https://optiver.com/working-at-optiver/career-opportunities/4734370002/ | Optiver | Quantitative Researcher – HFT Futures/Equities | SKIP: HFT
+- [x] https://optiver.com/working-at-optiver/career-opportunities/7251404002/ | Optiver | Quantitative Trader/Researcher – Systematic Options Trading | SKIP: options trading
+- [x] https://optiver.com/working-at-optiver/career-opportunities/8060185002/ | Optiver | Options Quantitative Researcher | SKIP: options
+- [x] https://optiver.com/working-at-optiver/career-opportunities/8053587002/ | Optiver | Graduate Quantitative Researcher, PhD (2026 Start) | SKIP: graduate level
+- [x] https://www.vanguardjobs.com/job/22829705/model-portfolio-solutions-analyst-quantitative-strategist-malvern-pa/ | Vanguard | Model Portfolio Solutions Analyst/Quantitative Strategist | SKIP: US-only + prior CV rejection
+- [x] https://www.vanguardjobs.com/job/22562571/quantitative-investment-analyst-malvern-pa/ | Vanguard | Quantitative Investment Analyst | SKIP: US-only + prior CV rejection
+- [x] https://www.vanguardjobs.com/job/23044679/senior-financial-economist-malvern-pa/ | Vanguard | Senior Financial Economist | SKIP: US-only + prior CV rejection
+- [x] https://www.vanguardjobs.com/job/23236349/investment-risk-analyst-malvern-pa/ | Vanguard | Investment Risk Analyst | SKIP: US-only + prior CV rejection
+- [x] https://www.vanguardjobs.com/job/22753703/equity-investment-risk-analyst-malvern-pa/ | Vanguard | Equity Investment Risk Analyst | SKIP: US-only + prior CV rejection
+- [x] https://www.vanguardjobs.com/job/22198542/senior-investment-strategist-malvern-pa/ | Vanguard | Senior Investment Strategist | SKIP: US-only + prior CV rejection
+- [x] https://www.vanguardjobs.com/job/22680583/quantitative-trading-analyst-malvern-pa/ | Vanguard | Quantitative Trading Analyst | SKIP: US-only + prior CV rejection
+- [x] https://careers.statestreet.com/global/en/job/STSTGLOBALR777055EXTERNALENGLOBAL/Actuarial-Investment-Strategist-VP-II-State-Street-Investment-Management | State Street | Actuarial Investment Strategist, VP II | SKIP: actuarial
+- [x] https://careers.morningstar.com/us/en/job/REQ-053519/Senior-Quantitative-Analyst | Morningstar | Senior Quantitative Analyst | SKIP: wrong domain
+- [x] https://careers.morningstar.com/us/en/job/REQ-053662/Associate-Quantitative-Analyst | Morningstar | Associate Quantitative Analyst | SKIP: wrong domain
+- [x] https://careers.morningstar.com/us/en/job/REQ-044447/Assistant-Vice-President-Quantitative-Analyst | Morningstar | AVP, Quantitative Analyst | SKIP: wrong domain
+- [x] https://www.revolut.com/careers/position/quant-research-analyst-2ee79de4-6889-46bf-a5b8-7190f9069016/ | Revolut | Quant Research Analyst | SKIP: fintech, not macro
+- [x] https://careers.adyen.com/vacancies/6864127-financial-risk-analyst | Adyen | Financial Risk Analyst | SKIP: fintech risk analyst
+- [x] https://careers.adyen.com/vacancies/7270367-cdd-risk-analyst | Adyen | CDD Risk Analyst | SKIP: fintech risk analyst
+- [x] https://wise.jobs/job/senior-risk-analyst-financial-risk-management-in-singapore-jid-79 | Wise | Senior Risk Analyst - Financial Risk Management | SKIP: wrong domain + Singapore
+- [x] https://www.flywire.com/company/careers/jobs/743999963196833 | Flywire | Risk Analyst | SKIP: wrong domain
 - [ ] https://group.bnpparibas/en/careers/job-offer/quantitative-research-analyst | BNP Paribas | Quantitative Research Analyst
-- [ ] https://group.bnpparibas/en/careers/job-offer/global-quantitative-economist | BNP Paribas | Global Quantitative Economist
-- [ ] https://group.bnpparibas/en/careers/job-offer/vice-president-equities-quantitative-researcher | BNP Paribas | VP - Equities Quantitative Researcher
-- [ ] https://careers.nomura.com/Nomura/job/London-Algorithmic-Trading-Model-Risk-Quantitative-Analyst-(Associate)-Lond-EC4R-3AB/1326839900/ | Nomura | Algorithmic Trading Model Risk Quantitative Analyst (Associate)
-- [ ] https://higher.gs.com/roles/137453 | Goldman Sachs | Global Investment Research, US Economics, Political/Economic Research Analyst
-- [ ] https://globalcareers-msci.icims.com/jobs/2849/quantitative-researcher---private-assets/job | MSCI | Quantitative Researcher - Private Assets
-- [ ] https://careers.msci.com/job/research/new-york/quantitative-researcher-credit/2024-2391 | MSCI | Quantitative Researcher - Credit
-- [ ] https://wellfound.com/jobs/3753684-quantitative-ai-researcher | Numerai | Quantitative AI Researcher
+- [x] https://group.bnpparibas/en/careers/job-offer/global-quantitative-economist | BNP Paribas | Global Quantitative Economist
+- [x] https://group.bnpparibas/en/careers/job-offer/vice-president-equities-quantitative-researcher | BNP Paribas | VP - Equities Quantitative Researcher | SKIP: equities QR
+- [x] https://careers.nomura.com/Nomura/job/London-Algorithmic-Trading-Model-Risk-Quantitative-Analyst-(Associate)-Lond-EC4R-3AB/1326839900/ | Nomura | Algorithmic Trading Model Risk Quantitative Analyst (Associate) | SKIP: algo trading model risk, wrong domain
+- [x] https://higher.gs.com/roles/137453 | Goldman Sachs | Global Investment Research, US Economics, Political/Economic Research Analyst
+- [x] https://globalcareers-msci.icims.com/jobs/2849/quantitative-researcher---private-assets/job | MSCI | Quantitative Researcher - Private Assets | SKIP: private assets, wrong domain
+- [x] https://careers.msci.com/job/research/new-york/quantitative-researcher-credit/2024-2391 | MSCI | Quantitative Researcher - Credit | SKIP: credit + NYC
+- [x] https://wellfound.com/jobs/3753684-quantitative-ai-researcher | Numerai | Quantitative AI Researcher | SKIP: crypto/ML quant
 
 ### Hedge Funds & Asset Managers — Chunk 3 (2026-05-11)
-- [ ] https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/ | Citadel | Quantitative Researcher - PhD Graduate (Europe)
-- [ ] https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/ | Citadel | Quantitative Researcher - PhD Graduate (US)
+- [x] https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/ | Citadel | Quantitative Researcher - PhD Graduate (Europe) | SKIP: entry level
+- [x] https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/ | Citadel | Quantitative Researcher - PhD Graduate (US) | SKIP: entry level
 - [ ] https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Experienced-Hire/12633 | Two Sigma | Quantitative Researcher - Experienced Hire
-- [ ] https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Machine-Learning/12634 | Two Sigma | Quantitative Researcher: Machine Learning
-- [ ] https://careers.twosigma.com/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-Quantitative-Researcher-Quantitative-Trader-Two-Sigma-Securities-UK/12635 | Two Sigma | Quantitative Researcher / Quantitative Trader (London)
-- [ ] https://www.deshaw.com/careers/quantitative-analyst-2636 | D.E. Shaw | Quantitative Analyst
-- [ ] https://careers.point72.com/CSJobDetail?jobName=intraday-futures-quantitative-researcher-trading-research&jobCode=CSS-0010963 | Point72 | Macro Quantitative Researcher (Intraday Futures)
-- [ ] https://careers.point72.com/CSJobDetail?jobName=fund-flow-quantitative-researcher&jobCode=CSS-0014323 | Point72 | Fund Flow Quantitative Researcher
-- [ ] https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher-portfolio-research&jobCode=CSS-0013431 | Point72 | Quantitative Researcher, Portfolio Research
-- [ ] https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher-macro&jobCode=CSS-0008107 | Point72 | Quantitative Researcher - Macro
+- [x] https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Machine-Learning/12634 | Two Sigma | Quantitative Researcher: Machine Learning | SKIP: ML focus + NYC
+- [x] https://careers.twosigma.com/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-Quantitative-Researcher-Quantitative-Trader-Two-Sigma-Securities-UK/12635 | Two Sigma | Quantitative Researcher / Quantitative Trader (London) | SKIP: trading focus
+- [x] https://www.deshaw.com/careers/quantitative-analyst-2636 | D.E. Shaw | Quantitative Analyst | SKIP: generic, no macro angle
+- [x] https://careers.point72.com/CSJobDetail?jobName=intraday-futures-quantitative-researcher-trading-research&jobCode=CSS-0010963 | Point72 | Macro Quantitative Researcher (Intraday Futures) | SKIP: intraday/futures trading
+- [x] https://careers.point72.com/CSJobDetail?jobName=fund-flow-quantitative-researcher&jobCode=CSS-0014323 | Point72 | Fund Flow Quantitative Researcher | SKIP: fund flow, not macro research
+- [x] https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher-portfolio-research&jobCode=CSS-0013431 | Point72 | Quantitative Researcher, Portfolio Research | SKIP: portfolio construction
+- [x] https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher-macro&jobCode=CSS-0008107 | Point72 | Quantitative Researcher - Macro | SKIP: NYC + systematic trading focus
 - [ ] https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher&jobCode=CSS-0010379 | Point72 | Quantitative Researcher (London)
 - [ ] https://career.mlp.com/careers/job/755943671775 | Millennium | Quantitative Researcher, Systematic Macro
-- [ ] https://career.mlp.com/careers/job/755930923588-commodities-quantitative-researcher-systematic-global-macro-baar-zug-switzerland | Millennium | Commodities Quantitative Researcher, Systematic Global Macro (Zug)
+- [x] https://career.mlp.com/careers/job/755930923588-commodities-quantitative-researcher-systematic-global-macro-baar-zug-switzerland | Millennium | Commodities Quantitative Researcher, Systematic Global Macro (Zug) | SKIP: commodities + Zug
 - [ ] https://job-boards.greenhouse.io/tudorgroup/jobs/5358422 | Tudor Investment Corp | Medium Frequency Quantitative Researcher
-- [ ] https://job-boards.greenhouse.io/tudorgroup/jobs/942825 | Tudor Investment Corp | Discretionary Global Macro (Application)
+- [x] https://job-boards.greenhouse.io/tudorgroup/jobs/942825 | Tudor Investment Corp | Discretionary Global Macro (Application) | SKIP: already evaluated (#039 3.0/5)
 - [ ] https://job-boards.greenhouse.io/tudorgroup/jobs/942848 | Tudor Investment Corp | Systematic Strategies (Application)
 - [ ] https://boards.greenhouse.io/marshallwace/jobs/4008599002 | Marshall Wace | Quantitative Researcher
 - [ ] https://www.qube-rt.com/careers/job?gh_jid=6845873002 | Qube Research & Technologies | Quantitative Researcher
-- [ ] https://www.qube-rt.com/careers/job?gh_jid=6472853002 | Qube Research & Technologies | Quantitative Researcher, Macro/CTA Mid-low Freq
+- [x] https://www.qube-rt.com/careers/job?gh_jid=6472853002 | Qube Research & Technologies | Quantitative Researcher, Macro/CTA Mid-low Freq | EXPIRED
 - [ ] https://www.qube-rt.com/careers/data/london/experienced-candidates/data-analytics/job?gh_jid=6962479002 | Qube Research & Technologies | Quantitative Data Analyst (London)
-- [ ] https://careers.aqr.com/jobs/open-positions/greenwich-ct/2026-research-analyst/7216090?gh_jid=7216090 | AQR | 2026 Research Analyst
-- [ ] https://job-boards.greenhouse.io/winton/jobs/4353297101 | Winton | Quantitative Researcher
+- [x] https://careers.aqr.com/jobs/open-positions/greenwich-ct/2026-research-analyst/7216090?gh_jid=7216090 | AQR | 2026 Research Analyst | SKIP: 2026 analyst = entry level
+- [x] https://job-boards.greenhouse.io/winton/jobs/4353297101 | Winton | Quantitative Researcher | SKIP: already evaluated (#037 3.3/5)
 - [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4553301101 | Man Group | Quant Researcher
 - [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4772820101 | Man Group | Quantitative Researcher - Discretionary
-- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4510684101 | Man Group | Quantitative Researcher - Equities
+- [x] https://job-boards.eu.greenhouse.io/mangroup/jobs/4510684101 | Man Group | Quantitative Researcher - Equities | SKIP: equities QR
 - [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4737145101 | Man Group | Quantitative Researcher
-- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4702558101 | Man Group | Senior Quant Researcher - Volatility
-- [ ] https://careers.blackrock.com/job/london/associate-macro-research-fundamental-fixed-income/45831/70348115168 | BlackRock | Associate, Macro Research - Fundamental Fixed Income (London)
+- [x] https://job-boards.eu.greenhouse.io/mangroup/jobs/4702558101 | Man Group | Senior Quant Researcher - Volatility | SKIP: volatility
+- [x] https://careers.blackrock.com/job/london/associate-macro-research-fundamental-fixed-income/45831/70348115168 | BlackRock | Associate, Macro Research - Fundamental Fixed Income (London) | EXPIRED
 - [ ] https://careers.blackrock.com/job/london/quantitative-researcher-trading-research-vice-president-london/45831/88009935088 | BlackRock | Quantitative Researcher - Trading Research, VP (London)
 - [ ] https://boards.greenhouse.io/exoduspoint/jobs/6591899002 | ExodusPoint | Quantitative Researcher
 - [ ] https://boards.greenhouse.io/exoduspoint/jobs/6793032002 | ExodusPoint | Quantitative Researcher (New York or London)
 - [ ] https://apply.workable.com/caxton/j/0F3BF3C183/ | Caxton Associates | Quantitative Research Analyst
 - [ ] https://job-boards.greenhouse.io/grahamcapitalmanagement/jobs/4058503005 | Graham Capital | Quantitative Research Analyst
-- [ ] https://job-boards.greenhouse.io/grahamcapitalmanagement/jobs/4596235005 | Graham Capital | Quantitative Research Analyst, Smart Execution
-- [ ] https://job-boards.greenhouse.io/grahamcapitalmanagement/jobs/4608324005 | Graham Capital | Quantitative Research Analyst, Portfolio Construction
-- [ ] https://boards.greenhouse.io/squarepointcapital/jobs/5063264 | Squarepoint | Quantitative Researcher, CTA-Commodities
-- [ ] https://boards.greenhouse.io/squarepointcapital/jobs/239376 | Squarepoint | Junior Quant Researcher
-- [ ] https://boards.greenhouse.io/squarepointcapital/jobs/5225405 | Squarepoint | Quantitative Researcher, Securitized Products
-- [ ] https://boards.greenhouse.io/squarepointcapital/jobs/253414 | Squarepoint | Senior Quant Researcher - Volatility
-- [ ] https://boards.greenhouse.io/squarepointcapital/jobs/4562565 | Squarepoint | Senior Quant Researcher - Derivatives Modeling
-- [ ] https://boards.greenhouse.io/squarepointcapital/jobs/1713329 | Squarepoint | Senior Quant Researcher - Risk
-- [ ] https://boards.greenhouse.io/squarepointcapital/jobs/467334 | Squarepoint | Senior Quant Researcher - Algorithmic Execution
-- [ ] https://boards.greenhouse.io/squarepointcapital/jobs/6069464 | Squarepoint | Junior Quant Researcher - ML Alpha Research
+- [x] https://job-boards.greenhouse.io/grahamcapitalmanagement/jobs/4596235005 | Graham Capital | Quantitative Research Analyst, Smart Execution | SKIP: smart execution
+- [x] https://job-boards.greenhouse.io/grahamcapitalmanagement/jobs/4608324005 | Graham Capital | Quantitative Research Analyst, Portfolio Construction | SKIP: portfolio construction
+- [x] https://boards.greenhouse.io/squarepointcapital/jobs/5063264 | Squarepoint | Quantitative Researcher, CTA-Commodities | SKIP: CTA-commodities
+- [x] https://boards.greenhouse.io/squarepointcapital/jobs/239376 | Squarepoint | Junior Quant Researcher | SKIP: junior
+- [x] https://boards.greenhouse.io/squarepointcapital/jobs/5225405 | Squarepoint | Quantitative Researcher, Securitized Products | SKIP: securitized products
+- [x] https://boards.greenhouse.io/squarepointcapital/jobs/253414 | Squarepoint | Senior Quant Researcher - Volatility | SKIP: volatility
+- [x] https://boards.greenhouse.io/squarepointcapital/jobs/4562565 | Squarepoint | Senior Quant Researcher - Derivatives Modeling | SKIP: derivatives
+- [x] https://boards.greenhouse.io/squarepointcapital/jobs/1713329 | Squarepoint | Senior Quant Researcher - Risk | SKIP: risk
+- [x] https://boards.greenhouse.io/squarepointcapital/jobs/467334 | Squarepoint | Senior Quant Researcher - Algorithmic Execution | SKIP: algo execution
+- [x] https://boards.greenhouse.io/squarepointcapital/jobs/6069464 | Squarepoint | Junior Quant Researcher - ML Alpha Research | SKIP: junior ML
 
 ### Hedge Funds & Asset Managers — Chunk 3 refresh (2026-05-16)
-- [ ] https://boards.greenhouse.io/squarepointcapital/jobs/1163559 | Squarepoint | Senior Quant Researcher - Fixed Income
-- [ ] https://boards.greenhouse.io/squarepointcapital/jobs/253413 | Squarepoint | Senior Quant Researcher - Intraday Statistical Arbitrage
-- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4687710101 | Man Group | Quantitative Researcher - PM Monetisation
+- [x] https://boards.greenhouse.io/squarepointcapital/jobs/1163559 | Squarepoint | Senior Quant Researcher - Fixed Income | SKIP: fixed income systematic
+- [x] https://boards.greenhouse.io/squarepointcapital/jobs/253413 | Squarepoint | Senior Quant Researcher - Intraday Statistical Arbitrage | SKIP: intraday stat arb
+- [x] https://job-boards.eu.greenhouse.io/mangroup/jobs/4687710101 | Man Group | Quantitative Researcher - PM Monetisation | SKIP: PM monetisation (trading)
 - [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4688020101 | Man Group | Senior Quantitative Researcher - Macro
-- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4724223101 | Man Group | Principal Quant
-- [ ] https://boards.greenhouse.io/exoduspoint/jobs/6900099002 | ExodusPoint | Quantitative Researcher (Stamford or New York)
-- [ ] https://boards.greenhouse.io/exoduspoint/jobs/7839186002 | ExodusPoint | Quantitative Researcher (London)
-- [ ] https://careers.blackrock.com/job/19309891/quantitative-researcher-systematic-fixed-income-associate-london-gb/ | BlackRock | Quantitative Researcher - Systematic Fixed Income, Associate (London)
-- [ ] https://careers.blackrock.com/job/new-york/quantitative-researcher-global-allocation-vice-president/45831/86487706544 | BlackRock | Quantitative Researcher, Global Allocation - Vice President (New York)
+- [x] https://job-boards.eu.greenhouse.io/mangroup/jobs/4724223101 | Man Group | Principal Quant | SKIP: NYC + HFT focus
+- [x] https://boards.greenhouse.io/exoduspoint/jobs/6900099002 | ExodusPoint | Quantitative Researcher (Stamford or New York) | SKIP: Stamford/NYC
+- [x] https://boards.greenhouse.io/exoduspoint/jobs/7839186002 | ExodusPoint | Quantitative Researcher (London) | EXPIRED
+- [x] https://careers.blackrock.com/job/19309891/quantitative-researcher-systematic-fixed-income-associate-london-gb/ | BlackRock | Quantitative Researcher - Systematic Fixed Income, Associate (London) | SKIP: systematic FI + associate level
+- [x] https://careers.blackrock.com/job/new-york/quantitative-researcher-global-allocation-vice-president/45831/86487706544 | BlackRock | Quantitative Researcher, Global Allocation - Vice President (New York) | SKIP: global allocation + NYC
 - [ ] https://careers.blackrock.com/job/new-york/economist-macro-research-fundamental-fixed-income-vice-president-or-associate-new-york/45831/70574287488 | BlackRock | Economist / Macro Research, Fundamental Fixed Income - VP or Associate (New York)
 - [ ] https://www.deshaw.com/careers/desim-macro-quantitative-analyst-4936 | D.E. Shaw | DESIM Macro Quantitative Analyst
-- [ ] https://career.mlp.com/careers/job/755939901399 | Millennium | Quantitative Researcher, Multi-Asset
-- [ ] https://career.mlp.com/careers/job/755930336095 | Millennium | Quantitative Researcher, Short-Term Macro (London)
-- [ ] https://career.mlp.com/careers/job/755953450082 | Millennium | Quantitative Researcher - Rates
+- [x] https://career.mlp.com/careers/job/755939901399 | Millennium | Quantitative Researcher, Multi-Asset | SKIP: multi-asset, not macro
+- [x] https://career.mlp.com/careers/job/755930336095 | Millennium | Quantitative Researcher, Short-Term Macro (London) | EXPIRED
+- [x] https://career.mlp.com/careers/job/755953450082 | Millennium | Quantitative Researcher - Rates | SKIP: rates focus
 - [ ] https://career.mlp.com/careers/job/755953399441 | Millennium | Quantitative Researcher - FX (London)
-- [ ] https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-ETFs-and-Passive-Flows/12632 | Two Sigma | Quantitative Researcher - ETFs and Passive Flows
-- [ ] https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher-machine-learning&jobCode=CSS-0013392 | Point72 | Quantitative Researcher - Machine Learning
+- [x] https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-ETFs-and-Passive-Flows/12632 | Two Sigma | Quantitative Researcher - ETFs and Passive Flows | SKIP: ETFs, wrong domain
+- [x] https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher-machine-learning&jobCode=CSS-0013392 | Point72 | Quantitative Researcher - Machine Learning | SKIP: ML focus
 - [ ] https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher&jobCode=CSS-0013507 | Point72 | Quantitative Researcher
-- [ ] https://careers.point72.com/CSJobDetail?jobName=entry-level-quantitative-researcher&jobCode=CSS-0010275 | Point72 | Entry-Level Quantitative Researcher
-- [ ] https://apply.workable.com/caxton/j/CC2C9491E2/ | Caxton Associates | Quantitative Researcher (Commodities)
+- [x] https://careers.point72.com/CSJobDetail?jobName=entry-level-quantitative-researcher&jobCode=CSS-0010275 | Point72 | Entry-Level Quantitative Researcher | SKIP: entry level
+- [x] https://apply.workable.com/caxton/j/CC2C9491E2/ | Caxton Associates | Quantitative Researcher (Commodities) | SKIP: commodities QR
 - [ ] https://apply.workable.com/caxton/j/54A99D1679/ | Caxton Associates | Analyst, Global Macro FX & Rates
 - [ ] https://apply.workable.com/caxton/j/920C546418/ | Caxton Associates | Macro Analyst (Macro Trading)
-- [ ] https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Quantitative-Researcher_R1066-3 | Arrowstreet Capital | Quantitative Researcher
-- [ ] https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Senior-Quantitative-Researcher_R1385-1 | Arrowstreet Capital | Senior Quantitative Researcher
-- [ ] https://systematica.pinpointhq.com/en/jobs/66288 | Systematica Investments | Data Scientist / Quantitative Analyst
-- [ ] https://www.citadel.com/careers/details/quantitative-researcher-data-strategies-group/ | Citadel | Quantitative Researcher - Data Strategies Group
+- [x] https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Quantitative-Researcher_R1066-3 | Arrowstreet Capital | Quantitative Researcher | SKIP: equity quant
+- [x] https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Senior-Quantitative-Researcher_R1385-1 | Arrowstreet Capital | Senior Quantitative Researcher | SKIP: equity quant
+- [x] https://systematica.pinpointhq.com/en/jobs/66288 | Systematica Investments | Data Scientist / Quantitative Analyst | SKIP: data scientist, not macro economist
+- [x] https://www.citadel.com/careers/details/quantitative-researcher-data-strategies-group/ | Citadel | Quantitative Researcher - Data Strategies Group | SKIP: data strategies, not macro
 
 ## Procesadas
