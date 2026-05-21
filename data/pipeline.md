@@ -130,4 +130,24 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [x] https://systematica.pinpointhq.com/en/jobs/66288 | Systematica Investments | Data Scientist / Quantitative Analyst | SKIP: data scientist, not macro economist
 - [x] https://www.citadel.com/careers/details/quantitative-researcher-data-strategies-group/ | Citadel | Quantitative Researcher - Data Strategies Group | SKIP: data strategies, not macro
 
+### Macro Advisory & Think Tanks — Chunk 2 (2026-05-21)
+- [ ] https://www.resolutionfoundation.org/about-us/opportunities/economist-research-and-policy-analyst-2/ | Resolution Foundation | Economist / Research and Policy Analyst ⚠️ deadline May 28
+- [ ] https://app.beapplied.com/apply/5kuzfgna0w | Resolution Foundation | (Senior) Economist / Research and Policy Analyst ⚠️ deadline May 28
+- [ ] https://www.resolutionfoundation.org/about-us/opportunities/senior-econ-rpa/ | Resolution Foundation | Senior Economist / Senior Research and Policy Analyst ⚠️ deadline May 28
+- [ ] https://www.ippr.org/jobs/senior-economist-macroeconomics | IPPR | Senior Economist, Macroeconomics
+- [ ] https://www.ippr.org/jobs/economist-international-policy | IPPR | Economist, International Policy
+- [ ] https://www.ippr.org/jobs/research-fellow | IPPR | Research Fellow (Public Services)
+- [ ] https://www.bruegel.org/careers/energy-and-climate-economist-0 | Bruegel | Energy and Climate Economist
+- [ ] https://www.bruegel.org/careers/climate-economist | Bruegel | Climate Economist
+- [ ] https://www.bruegel.org/careers/economist-expertise-sustainable-finance | Bruegel | Economist - Sustainable Finance
+- [ ] https://www.bruegel.org/careers/micro-economist-expertise-digital-economy-and-competition-policy | Bruegel | Micro-Economist - Digital Economy & Competition Policy
+- [ ] https://niesr.ac.uk/vacancy/senior-economist-3 | NIESR | Senior Economist (Macro Modelling & Forecasting / NiGEM)
+- [ ] https://niesr.ac.uk/vacancy/associate-economist-4 | NIESR | Associate Economist (Macro Modelling & Forecasting)
+- [ ] https://careers.oxfordeconomics.com/postings/e528c1b2-0b59-4bd8-bc2b-f12636b9525f | Oxford Economics | Senior Economist - Climate Consulting (London)
+- [ ] https://careers.oxfordeconomics.com/postings/70f9f23d-e658-46f4-919c-838a26b21d5e | Oxford Economics | Economist / Senior Economist - Macro Consulting (Singapore)
+- [ ] https://londoneconomics.co.uk/economic-consultant-education-and-labour-markets/ | London Economics | Economic Consultant - Education & Labour Markets
+- [ ] https://londoneconomics.co.uk/senior-economic-consultant-public-policy-markets-and-advisory/ | London Economics | Senior Economic Consultant - Public Policy, Markets & Advisory
+- [ ] https://www.ifs.org.uk/jobs/3371 | IFS | Post-doctoral Fellowship
+- [ ] https://careers.chathamhouse.org/jobs/7401384-2026-2027-chatham-house-academy-fellowships | Chatham House | 2026-2027 Academy Fellowships
+
 ## Procesadas
