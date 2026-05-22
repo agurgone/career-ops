@@ -150,4 +150,20 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://www.ifs.org.uk/jobs/3371 | IFS | Post-doctoral Fellowship
 - [ ] https://careers.chathamhouse.org/jobs/7401384-2026-2027-chatham-house-academy-fellowships | Chatham House | 2026-2027 Academy Fellowships
 
+### Hedge Funds & Asset Managers — Chunk 3 refresh (2026-05-22)
+- [ ] https://www.citadel.com/careers/details/global-quantitative-strategies-quantitative-researcher/ | Citadel | Global Quantitative Strategies — Quantitative Researcher
+- [ ] https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Macro/8520 | Two Sigma | Quantitative Researcher: Macro
+- [ ] https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Systematic-Macro-Quantitative-Researcher/12659 | Two Sigma | Systematic Macro Quantitative Researcher
+- [ ] https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Macro-Features-Forecasting-and-Management/11731 | Two Sigma | Quantitative Researcher — Macro Features, Forecasting and Management
+- [ ] https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Fixed-Income/12584 | Two Sigma | Quantitative Researcher: Fixed Income
+- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4524727101 | Man Group | Quantitative Researcher — Algo Research
+- [ ] https://www.qube-rt.com/careers/job?gh_jid=5953097002 | Qube Research & Technologies | Quantitative Researcher
+- [ ] https://job-boards.greenhouse.io/point72/jobs/7297612002 | Point72 | Quantitative Researcher — Macro (Greenhouse)
+- [ ] https://job-boards.greenhouse.io/point72/jobs/7045987002 | Point72 | Cubist Quantitative Researcher
+- [ ] https://job-boards.greenhouse.io/point72/jobs/7725294002 | Point72 | Quantitative Researcher
+- [ ] https://apply.workable.com/caxton/j/4EC9851A82/ | Caxton Associates | Associate Portfolio Manager Program — EM Macro London
+- [ ] https://apply.workable.com/caxton/j/1C5F743843/ | Caxton Associates | Associate Portfolio Manager Program — London
+- [ ] https://boards.greenhouse.io/exoduspoint/jobs/6054578002 | ExodusPoint | Quantitative Researcher
+- [ ] https://squarepoint-capital.com/open-opportunities?id=6349235 | Squarepoint Capital | Quantitative Researcher, Data Science
+
 ## Procesadas
