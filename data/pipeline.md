@@ -166,4 +166,61 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://boards.greenhouse.io/exoduspoint/jobs/6054578002 | ExodusPoint | Quantitative Researcher
 - [ ] https://squarepoint-capital.com/open-opportunities?id=6349235 | Squarepoint Capital | Quantitative Researcher, Data Science
 
+### Banks, Data, Tech & Fintech — Chunk 4 (2026-05-22)
+- [ ] https://higher.gs.com/roles/161225 | Goldman Sachs | GIR Macro Research, Latin America Economics, Jr. Analyst
+- [ ] https://higher.gs.com/roles/147516 | Goldman Sachs | AWM Macro Research – Quantitative Researcher, Associate
+- [ ] https://higher.gs.com/roles/145410 | Goldman Sachs | Junior Economist - Associate, London
+- [ ] https://higher.gs.com/roles/154022 | Goldman Sachs | GBM FICC / Equity Quantitative Researcher Analyst, Associate
+- [ ] https://builtinlondon.uk/job/global-research-economist-covering-emea-emerging-markets-central-asia-and-balkans-associate-or | J.P. Morgan | Global Research Economist – EMEA Emerging Markets (London)
+- [ ] https://search.jobs.barclays/job/singapore/fx-and-em-macro-strategist/22545/17840286 | Barclays | FX and EM Macro Strategist, Singapore
+- [ ] https://search.jobs.barclays/job/delhi/vp-scenario-design-economist/13015/65307894976 | Barclays | VP Scenario Design Economist, Delhi
+- [ ] https://search.jobs.barclays/job/minato/economics-research-analyst/13015/29287482272 | Barclays | Economics Research Analyst, Tokyo
+- [ ] https://search.jobs.barclays/job/new-york/latam-economist/13015/65579260720 | Barclays | LatAm Economist, NYC
+- [ ] https://jobs.citi.com/job/prague/economist/287/76315269120 | Citigroup | Economist, Prague
+- [ ] https://jobs.citi.com/job/frankfurt-am-main/research-economist-vp/287/80354137664 | Citigroup | Research Economist - VP, Frankfurt
+- [ ] https://jobs.citi.com/job/chiyoda/research-associate-economist-avp-jpn-citi-research/287/48658304640 | Citigroup | Research Associate/Economist (AVP), Japan
+- [ ] https://jobs.citi.com/job/new-york/sr-quantitative-economist-economic-forecasting-svp-hybrid/287/65459837632 | Citigroup | Sr. Quantitative Economist – Economic Forecasting, SVP, NYC
+- [ ] https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Economist-Global-Investment-Research/272157 | HSBC | Economist – Global Investment Research
+- [ ] https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Credit-Strats-Manager-Quantitative-Strategist/249561 | HSBC | Credit Strats Manager (Quantitative Strategist)
+- [ ] https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Associate-Director-Credit-Strats-Quantitative-Strategist/249560 | HSBC | Associate Director, Credit Strats (Quantitative Strategist)
+- [ ] https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Inv-PE-Portfolio-Strategist/261088 | HSBC | Portfolio Strategist
+- [ ] https://careers.societegenerale.com/en/job-offers/strategist-25000HTB-en | Société Générale | Strategist, NYC
+- [ ] https://careers.nomura.com/Nomura/job/London-European-Economist,-Analyst-2-Associate-1-Lond-EC4R-3AB/1230636000/ | Nomura | European Economist, Analyst 2–Associate 1, London
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=343533 | UBS | Economist
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=332386&frmSiteId=5050 | UBS | US Senior Economist
+- [ ] https://group.bnpparibas/en/careers/job-offer/quantitative-analyst-resources-and-financing-optimization | BNP Paribas | Quantitative Analyst – Resources and Financing Optimization
+- [ ] https://www.janestreet.com/join-jane-street/position/7850705002/ | Jane Street | Macro Analyst, New York
+- [ ] https://www.janestreet.com/join-jane-street/position/8343131002/ | Jane Street | Quantitative Researcher, Hong Kong
+- [ ] https://drw.com/work-at-drw/job/systematic-macro-quantitative-researcher-1765992/ | DRW | Systematic Macro Quantitative Researcher
+- [ ] https://www.drw.com/work-at-drw/listings/quantitative-researcher-2913735 | DRW | Quantitative Researcher
+- [ ] https://www.drw.com/work-at-drw/listings/quantitative-researcher-fx-3050267 | DRW | Quantitative Researcher – FX
+- [ ] https://www.drw.com/work-at-drw/listings/quantitative-researcher-3173309 | DRW | Quantitative Researcher
+- [ ] https://www.vanguardjobs.com/job/23297352/investment-strategy-analyst-london-gb/ | Vanguard | Investment Strategy Analyst, London
+- [ ] https://www.vanguardjobs.com/job/22124894/senior-economist-investment-strategy-group-malvern-pa/ | Vanguard | Senior Economist – Investment Strategy Group, PA
+- [ ] https://www.vanguardjobs.com/job/23256227/market-research-strategist-malvern-pa/ | Vanguard | Market Research Strategist, PA
+- [ ] https://jobs.fidelity.com/job-details/20803645/fixed-income-quantitative-analyst-london-/ | Fidelity | Fixed Income Quantitative Analyst, London
+- [ ] https://careers.statestreet.com/global/en/job/STSTGLOBALR767142EXTERNALENGLOBAL/Quantitative-Research-Analyst-Systematic-Equity-Assistant-Vice-President-State-Street-Global-Advisors | State Street | QRA Systematic Equity, AVP, London
+- [ ] https://careers.moodys.com/jobs/17134BR-quantitative-analyst-new-york/ | Moody's Analytics | Quantitative Analyst, NYC
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Economics-Geoeconomics-Climate-Economist-Econometrician/15705 | Bloomberg | Climate Economist/Econometrician
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Economics-Economist-Innovation-AI-Economics/15489 | Bloomberg | Economist (Innovation & AI Economics)
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Economics-Country-Risk-Analyst/18671 | Bloomberg | Country Risk Analyst
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5076616008 | Anthropic | Research Scientist, Societal Impacts
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4966476008 | Anthropic | Editorial, Economics & Policy Lead
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5071132008 | Anthropic | Research Engineer, Economic Research
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5076606008 | Anthropic | Research Engineer / Scientist, Societal Impacts
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4502440008 | Anthropic | Data Scientist, Economic Index
+- [ ] https://openai.com/careers/policy-research-scientist-geopolitics | OpenAI | Policy Research Scientist, Geopolitics
+- [ ] https://openai.com/careers/research-scientist-san-francisco/ | OpenAI | Research Scientist
+- [ ] https://careers.google.com/jobs/results/126114764397912774-competition-economist/ | Google | Competition Economist
+- [ ] https://careers.google.com/jobs/results/123260518036054726-economist/ | Google | Economist
+- [ ] https://www.amazon.jobs/en/jobs/10387171/senior-economist-economic-decision-science | Amazon | Senior Economist, Economic Decision Science
+- [ ] https://www.amazon.jobs/en/jobs/2964070/senior-economist | Amazon | Senior Economist
+- [ ] https://www.amazon.jobs/en/jobs/2883176/senior-economist-tech-lead-amazon | Amazon | Senior Economist, Tech Lead
+- [ ] https://www.amazon.jobs/en/jobs/2934448/principal-economist-ww-selling-partner-growth | Amazon | Principal Economist, WW Selling Partner Growth
+- [ ] https://www.amazon.jobs/en/jobs/2829710/principal-economist-economics-growth-rufus | Amazon | Principal Economist, Economics & Growth (Rufus)
+- [ ] https://www.efinancialcareers.com/jobs-UK-London-Quantitative_Investment_Strategies_QIS_Quantitative_Strategist.id23590697 | Deutsche Bank | QIS Quantitative Strategist, London (via eFinancialCareers)
+- [ ] https://www.efinancialcareers.com/jobs-UK-London-Quantitative_Strategist_-_Treasury_Strats.id23591315 | Deutsche Bank | Quantitative Strategist – Treasury Strats, London (via eFinancialCareers)
+- [ ] https://wise.jobs/job/quantitative-researcher-staff-data-scientist-in-london-jid-962 | Wise | Staff Data Scientist – Quant Research (FX risk modeling), London
+- [ ] https://careers.adyen.com/vacancies/7155054-credit-risk-analyst | Adyen | Credit Risk Analyst, Amsterdam
+
 ## Procesadas
