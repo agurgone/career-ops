@@ -223,4 +223,28 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://wise.jobs/job/quantitative-researcher-staff-data-scientist-in-london-jid-962 | Wise | Staff Data Scientist – Quant Research (FX risk modeling), London
 - [ ] https://careers.adyen.com/vacancies/7155054-credit-risk-analyst | Adyen | Credit Risk Analyst, Amsterdam
 
+### Central Banks & Policy Institutions — Chunk 1 (2026-05-25)
+- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Senior-Economists-Monetary-Analysis/9667 | ECB | Senior Economists – Monetary Analysis
+- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Senior-Research-Economist-Monetary-Policy-Research/10771 | ECB | Senior Research Economist – Monetary Policy Research
+- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Senior-Economists-Forecasting-and-Policy-Modelling/12817 | ECB | Senior Economists – Forecasting and Policy Modelling
+- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Senior-Research-Economist-Financial-Research-Division/4543 | ECB | Senior Research Economist – Financial Research Division
+- [ ] https://careers.bankofcanada.ca/job/Ottawa-(Downtown)-Senior-Economist-ON/591354817/ | Bank of Canada | Senior Economist (Ottawa)
+- [ ] https://careers.bankofcanada.ca/job/Ottawa-(Downtown)-Senior-Economist-Model-Development-ON/593876217/ | Bank of Canada | Senior Economist – Model Development
+- [ ] https://careers.bankofcanada.ca/job/Ottawa-(Downtown)-Principal-Economist-ON/591949517/ | Bank of Canada | Principal Economist
+- [ ] https://careers.bankofcanada.ca/job/Ottawa-(Downtown)-Principal-Economist,-Payment-Policy-and-Strategy-Team-ON/601474617/ | Bank of Canada | Principal Economist, Payment Policy and Strategy
+- [ ] https://careers.bankofcanada.ca/job/Calgary-Economist-or-Senior-Economist-AB/591391717/ | Bank of Canada | Economist or Senior Economist (Calgary)
+- [ ] https://www.bundesbank.de/en/career/job-offers/economist-for-macroeconometric-modelling-915120 | Bundesbank | Economist for Macroeconometric Modelling
+- [ ] https://careers.snb.ch/job/Senior-Economist/1142752001/ | Swiss National Bank | Senior Economist (International Policy Analysis)
+- [ ] https://jobs.ebrd.com/job/London-Principal-Economist/1286769101/ | EBRD | Principal Economist
+- [ ] https://jobs.ebrd.com/job/London-Senior-Lead-Research-Economist/1061670001/ | EBRD | Senior / Lead Research Economist
+- [ ] https://www.federalreserve.gov/careers-economistgeneral.htm | Federal Reserve Board | Economists (Multiple Positions)
+- [ ] https://www.riksbank.se/en-gb/about-the-riksbank/come-work-with-us/available-vacancies/ | Sveriges Riksbank | Research Economist
+- [ ] https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1936587 | HM Treasury | Economic Adviser for Labour Markets
+- [ ] https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1928028 | HM Treasury | Economic Adviser – Macroeconomic Assessment
+- [ ] https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=am9ibGlzdF92aWV3X3ZhYz0xOTA5MDgxJm93bmVydHlwZT1mYWlyJnVzZXJzZWFyY2hjb250ZXh0PTgxMDI0OTg2JnBhZ2VhY3Rpb249dmlld3ZhY2J5am9ibGlzdCZzZWFyY2hzb3J0PWNsb3Npbmcmb3duZXI9NTA3MDAwMCZzZWFyY2hwYWdlPTImcGFnZWNsYXNzPUpvYnM%3D | HM Treasury | Macroeconomic Adviser (Darlington)
+- [ ] http://careers.rba.gov.au/caw/en/job/495430/economists-and-analysts | Reserve Bank of Australia | Economists and Analysts
+- [ ] https://www.bis.org/careers/vacancies/jr100194.htm | BIS / FSB | Director of Financial Stability Analysis
+- [ ] https://www.wto.org/english/thewto_e/vacan_e/vacan_e.htm | WTO | Trade Policy Analyst / Economist
+- [ ] https://careers.un.org/jobSearchDescription/241225?language=en | United Nations | Economic Affairs Officer
+
 ## Procesadas
