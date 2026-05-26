@@ -247,4 +247,13 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://www.wto.org/english/thewto_e/vacan_e/vacan_e.htm | WTO | Trade Policy Analyst / Economist
 - [ ] https://careers.un.org/jobSearchDescription/241225?language=en | United Nations | Economic Affairs Officer
 
+### Macro Advisory & Think Tanks — Chunk 2 refresh (2026-05-26)
+- [ ] https://app.beapplied.com/apply/ejs5bakqcm | Resolution Foundation | Principal Economist / Research and Policy Analyst ⚠️ deadline May 28
+- [ ] https://ifs.org.uk/jobs/44 | IFS | Associate Director
+- [ ] https://frontiereconomics.wd3.myworkdayjobs.com/en-US/Frontier_Economics_Careers/job/Manager--Economist-_JR10073 | Frontier Economics | Manager (Economist)
+- [ ] https://careers.oxera.com/jobs/6130035-senior-consultant-competition-economics | Oxera | Senior Consultant – Competition Economics
+- [ ] https://careers.oxera.com/jobs/6615201-senior-consultant-performance-productivity-and-efficiency | Oxera | Senior Consultant – Performance, Productivity & Efficiency
+- [ ] https://www.ippr.org/job/senior-research-fellow-centre-for-economic-justice | IPPR | Senior Research Fellow – Centre for Economic Justice
+- [ ] https://www.ippr.org/jobs/senior-research-fellow-democracy-and-politics-2 | IPPR | Senior Research Fellow – Democracy and Politics
+
 ## Procesadas
