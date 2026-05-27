@@ -256,4 +256,24 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://www.ippr.org/job/senior-research-fellow-centre-for-economic-justice | IPPR | Senior Research Fellow – Centre for Economic Justice
 - [ ] https://www.ippr.org/jobs/senior-research-fellow-democracy-and-politics-2 | IPPR | Senior Research Fellow – Democracy and Politics
 
+### Hedge Funds & Asset Managers — Chunk 3 scan (2026-05-27)
+- [ ] https://boards.greenhouse.io/marshallwace/jobs/4037620002 | Marshall Wace | Quantitative Researcher - Volatility Strategies
+- [ ] https://job-boards.greenhouse.io/bridgewater89/jobs/8406845002 | Bridgewater | Equity Quantitative Research Associate
+- [ ] https://job-boards.greenhouse.io/grahamcapitalmanagement/jobs/4444206005 | Graham Capital | AI / ML Quantitative Research Manager
+- [ ] https://job-boards.greenhouse.io/grahamcapitalmanagement/jobs/4617135005 | Graham Capital | Quantitative Research Manager
+- [ ] https://job-boards.greenhouse.io/point72/jobs/8384470002 | Point72 | Microstructure Quantitative Researcher
+- [ ] https://job-boards.greenhouse.io/point72/jobs/7663057002 | Point72 | Credit Quantitative Analyst - Global Macro
+- [ ] https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Scientific-Discretionary/12679 | Two Sigma | Quantitative Researcher - Scientific Discretionary
+- [ ] https://www.deshaw.com/careers/quantitative-analyst-4898 | D.E. Shaw | Quantitative Analyst
+- [ ] https://career.mlp.com/careers/job/755935534256 | Millennium | Quantitative Researcher, Systematic Equities
+- [ ] https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/7686749002 | Qube Research & Technologies | Quantitative Researcher – QRT Academy
+- [ ] https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/6486065002 | Qube Research & Technologies | Quantitative Researcher/Trader
+- [ ] https://careers.aqr.com/jobs/research/greenwich-ct/quantitative-research-prediction-markets-vp/6818614?gh_jid=6818614 | AQR | Quantitative Research – Prediction Markets VP
+- [ ] https://careers.blackrock.com/job/london/quantitative-modeling-vice-president/45831/84703877168 | BlackRock | Quantitative Modeling, Vice President (London)
+- [ ] https://careers.blackrock.com/job/new-york/quantitative-investment-researcher-blackrock-investment-institute-associate/45831/92961326752 | BlackRock | Quantitative Investment Researcher, BlackRock Investment Institute, Associate (NYC)
+- [ ] https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Senior-Quantitative-Researcher_R1481 | Arrowstreet Capital | Senior Quantitative Researcher
+- [ ] https://apply.workable.com/capula-investment-management-ltd/j/9582487D5F | Capula | Quantitative Strategist (PhD)
+- [ ] https://www.linkedin.com/jobs/view/emea-economist-and-portfolio-strategist-at-pimco-3823814479 | PIMCO | EMEA Economist & Portfolio Strategist (London)
+- [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-portfolio-finance-at-balyasny-asset-management-l-p-4416324555 | Balyasny | Quantitative Researcher, Portfolio Finance
+
 ## Procesadas
