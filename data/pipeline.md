@@ -287,4 +287,14 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://careers.un.org/jobSearchDescription/258200 | United Nations | Economic Affairs Officer
 - [ ] https://hmtreasury.referrals.selectminds.com/Obr-careers | OBR | Economic Modelling and Analysis Team Leader (closes 19 Aug 2026)
 
+### Central Banks & Policy Institutions — Chunk 1 refresh (2026-06-10)
+- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Economists-Prices-and-Costs/13480 | ECB | Economists – Prices and Costs
+- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Economist-EU-Institutions-and-Fora/6699 | ECB | Economist – EU Institutions and Fora
+- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Economist-Monetary-Analysis/13620 | ECB | Economist – Monetary Analysis (Money, Credit and Financial Accounts)
+- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Economist-External-Developments/4849 | ECB | Economist – External Developments
+- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Economists/2706 | ECB | Economists
+- [ ] https://careers.un.org/jobSearchDescription/261859?language=en | United Nations | Senior Economic Affairs Officer (Macroeconomic), P5
+- [ ] https://jobs.smartrecruiters.com/OECD/744000130505898-economist-policy-analyst- | OECD | Economist / Policy Analyst (Athens, deadline 28 Jun 2026)
+- [ ] https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1785043 | HM Treasury | Head of Fiscal Forecast and OBR Branch
+
 ## Procesadas
