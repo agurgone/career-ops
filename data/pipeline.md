@@ -310,6 +310,19 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [x] #103 | https://www.efinancialcareers.co.uk/jobs-United_Kingdom-London-EconomistStrategist_Quantitative.id24266559 | Aviva | Economist/Strategist (Quantitative) | 3.9/5 | PDF ❌
 - [x] #104 | https://www.jobs.ac.uk/job/DRO118/environmental-macro-economist | National Oceanography Centre | Environmental Macro Economist ⚠️ closes 31 May 2026 | 3.5/5 | PDF ❌
 
+### Scan Chunk 1 — Central Banks & Policy (2026-06-07)
+- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Economist/2845 | ECB | Economist
+- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Senior-Economist-Prices-and-Costs/8275 | ECB | Senior Economist – Prices and Costs
+- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Senior-Economist-European-Institutions-and-Fora/9109 | ECB | Senior Economist – European Institutions and Fora
+- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Senior-Economist-External-Developments/5321 | ECB | Senior Economist – External Developments
+- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Senior-Economist-Monetary-Policy-Strategy/5086 | ECB | Senior Economist – Monetary Policy Strategy
+- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Senior-Economist-Strategic-Issue-Section-DG-MP/3860 | ECB | Senior Economist – Strategic Issue Section DG/MP
+- [ ] https://careers.bankofcanada.ca/job/Ottawa-(Downtown)-Economist,-International-economic-analysis-and-near-term-forecasting-ON/602759817/ | Bank of Canada | Economist – International Economic Analysis and Near-Term Forecasting
+- [ ] https://www.centralbank.ie/careers/experienced-professionals | Central Bank of Ireland | Economist and Senior Economist Opportunities
+- [ ] https://imf.wd5.myworkdayjobs.com/IMF | IMF | Experienced Economist Pipeline
+- [ ] https://careers.un.org/jobSearchDescription/258200 | United Nations | Economic Affairs Officer
+- [ ] https://hmtreasury.referrals.selectminds.com/Obr-careers | OBR | Economic Modelling and Analysis Team Leader (closes 19 Aug 2026)
+
 ## Procesadas
 
 - [x] #091 | https://www.efinancialcareers.co.uk/jobs-UK-London-Quantitative_Analyst_%E2%80%93_Systematic_Macro_Global_Asset_Manager_London.id24152388 | Anon Global AM | Quantitative Analyst – Systematic Macro (London) | 3.6/5 | PDF ❌
