@@ -13,7 +13,34 @@
       "WebFetch(domain:www.frontier-economics.com)",
       "WebFetch(domain:careers.chathamhouse.org)",
       "Bash(node merge-tracker.mjs)",
-      "Skill(schedule)"
+      "Skill(schedule)",
+      "Bash(node output/build-eiu.mjs)",
+      "Bash(node generate-pdf.mjs output/cv-eiu.html output/Andrea-Gurgone-CV-EIU.pdf --format=a4)",
+      "Bash(node generate-pdf.mjs output/cover-letter-eiu.html output/Andrea-Gurgone-CoverLetter-EIU.pdf --format=a4)",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_snapshot",
+      "WebFetch(domain:job-boards.eu.greenhouse.io)",
+      "WebFetch(domain:job-boards.greenhouse.io)",
+      "WebFetch(domain:careers.point72.com)",
+      "Bash(node generate-pdf.mjs /tmp/cv-andrea-gurgone-resolution-foundation.html output/cv-andrea-gurgone-resolution-foundation-2026-05-16.pdf --format=a4)",
+      "mcp__playwright__browser_click",
+      "Bash(node *)",
+      "Bash(curl -s -I \"https://www.aeaweb.org/api/joe/v1/listings?page=1&per_page=5&section=f\")",
+      "Bash(curl -s \"https://www.aeaweb.org/joe/listings\")",
+      "Bash(curl -s \"https://www.aeaweb.org/joe/resultset_output.php?mode=full_xml\")",
+      "Bash(node -e ' *)",
+      "Bash(python3 -c ' *)",
+      "Bash(curl -sI https://jobs.cfm.com/)",
+      "Bash(curl -s https://jobs.cfm.com/)",
+      "Bash(curl -sL https://jobs.cfm.com/)",
+      "Bash(curl -sL \"https://careers.mastercard.com/us/en/search-results\")",
+      "Bash(grep -v \"^$\\\\|^#\\\\|^|\\\\s*#\\\\|SKIP\\\\|\\\\[!\\\\]\" /Users/andone/Documents/python_projects/career-ops/data/applications.md)",
+      "WebFetch(domain:www.aeaweb.org)",
+      "Bash(sort -t'|' -k6,6 -k5,5 -r)",
+      "Bash(open *)"
     ]
-  }
+  },
+  "enabledMcpjsonServers": [
+    "playwright"
+  ]
 }

@@ -83,6 +83,7 @@ location:
   country: "United Kingdom"
   city: "Oxford"
   timezone: "GMT/BST"
-  visa_status: "Global Talent Visa (UK)"
+  visa_status: "Global Talent Visa (UK)"  # UK work rights via GTV
+  citizenship: "EU citizen (Italian)"     # Full EU work rights — no visa needed for EU/EEA roles
   # For remote roles outside your country:
   # onsite_availability: "1 week/month in any city"

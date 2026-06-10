@@ -55,6 +55,8 @@ title_filter:
     - "Economic Advisory"
     - "Policy Advisor"
     - "Research Fellow"
+    - "Research Associate"
+    - "Economic Analyst"
 
     # Quant research & finance roles
     - "Quant"
@@ -170,6 +172,10 @@ search_queries:
 
   - name: Macro modelling roles
     query: '"Model Development" macro OR DSGE OR "macroeconomic modelling"'
+    enabled: true
+
+  - name: Devex - IFI Economist roles
+    query: 'site:devex.com/jobs "Economist" OR "Macroeconomics" OR "Research Officer" EIB OR EIF OR "World Bank" OR IMF OR EBRD OR ESM'
     enabled: true
 
   - name: ImpactPool
@@ -414,6 +420,10 @@ tracked_companies:
   - name: EIB
     careers_url: https://www.eib.org/en/about/careers
     enabled: true
+    # NOTE: EIB/EIF uses PeopleSoft e-recruitment (erecruitment.eib.org) — no public API.
+    # Scanner cannot query it programmatically. CHECK MANUALLY weekly:
+    # https://erecruitment.eib.org/psc/hr/EIBJOBS/CAREERS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL
+    # Also monitor via Devex (devex.com/jobs) and LinkedIn saved search "EIB".
 
   # Macro advisory & consulting
   - name: Oxford Economics
@@ -438,6 +448,34 @@ tracked_companies:
 
   - name: Aurora Energy Research
     careers_url: https://auroraer.com/careers/
+    enabled: true
+
+  - name: PRA (Prudential Regulation Authority)
+    careers_url: https://www.bankofengland.co.uk/pra/careers
+    enabled: true
+
+  - name: ESM (European Stability Mechanism)
+    careers_url: https://www.esm.europa.eu/careers
+    enabled: true
+
+  - name: NERA Economic Consulting
+    careers_url: https://www.nera.com/careers.html
+    enabled: true
+
+  - name: Compass Lexecon
+    careers_url: https://www.compasslexecon.com/careers/
+    enabled: true
+
+  - name: Analysis Group
+    careers_url: https://www.analysisgroup.com/careers/
+    enabled: true
+
+  - name: Macrosynergy
+    careers_url: https://www.macrosynergy.com/careers
+    enabled: true
+
+  - name: RoboMacro
+    careers_url: https://robomacro.com/jobs
     enabled: true
 
   - name: Macro Advisory Partners
@@ -581,6 +619,10 @@ tracked_companies:
 
   - name: Marshall Wace
     careers_url: https://www.marshall-wace.com/careers
+    enabled: true
+
+  - name: Capital Fund Management (CFM)
+    careers_url: https://jobs.cfm.com/
     enabled: true
 
   - name: Systematica Investments
@@ -887,6 +929,10 @@ tracked_companies:
     enabled: true
 
   # --- Fintech & Payments ---
+  - name: Mastercard
+    careers_url: https://careers.mastercard.com/us/en/search-results
+    enabled: true
+
   - name: Wise
     careers_url: https://wise.jobs/
     enabled: true
@@ -972,4 +1018,81 @@ tracked_companies:
 
   - name: Tech Economist broad
     query: '"Economist" tech OR fintech OR "data platform" OR "policy tech"'
+    enabled: true
+
+  # --- Economic Modelling & CGE/ABM firms ---
+  - name: S&P Global
+    careers_url: https://careers.spglobal.com/
+    enabled: true
+
+  - name: Moody's Corporation
+    careers_url: https://careers.moodys.com/
+    enabled: true
+
+  - name: Purdue University (GTAP)
+    careers_url: https://www.gtap.agecon.purdue.edu/network/staff.asp
+    enabled: true
+
+  - name: GEMPACK Software
+    careers_url: https://www.gempack.com.au/
+    enabled: true
+
+  - name: ImpactECON
+    careers_url: https://impactecon.com/
+    enabled: true
+
+  - name: EcoMod
+    careers_url: https://ecomod.net/jobs/
+    enabled: true
+
+  - name: Deloitte Access Economics
+    careers_url: https://jobs.deloitte.com.au/
+    enabled: true
+
+  - name: Ernst & Young
+    careers_url: https://careers.ey.com/
+    enabled: true
+
+  - name: Ecorys
+    careers_url: https://www.ecorys.com/careers
+    enabled: true
+
+  - name: IMPLAN Group
+    careers_url: https://www.implan.com/about/careers/
+    enabled: true
+
+  - name: Regional Economic Models Inc (REMI)
+    careers_url: https://www.remi.com/careers/
+    enabled: true
+
+  - name: Canadian Centre for Economic Analysis (CANCEA)
+    careers_url: https://www.cancea.ca/about/careers
+    enabled: true
+
+  - name: Volterra Partners
+    careers_url: https://www.volterrapartners.com/join-us/
+    enabled: true
+
+  - name: Arrowhead Economics
+    careers_url: https://www.arrowheadeconomics.com/
+    enabled: true
+
+  - name: M-Five GmbH
+    careers_url: https://www.m-five.de/en/jobs/
+    enabled: true
+
+  - name: Millennium Institute
+    careers_url: https://www.millennium-institute.org/about/team
+    enabled: true
+
+  - name: Simudyne
+    careers_url: https://www.simudyne.com/careers
+    enabled: true
+
+  - name: Quantcube Technology
+    careers_url: https://www.quantcube.com/careers/
+    enabled: true
+
+  - name: Economic AI
+    careers_url: https://www.economicai.com/
     enabled: true

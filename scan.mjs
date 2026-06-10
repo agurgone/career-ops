@@ -69,6 +69,11 @@ function detectApi(company) {
     };
   }
 
+  // AEA JOE (Job Openings for Economists)
+  if (url.includes('aeaweb.org/joe')) {
+    return { type: 'joe', url: 'https://www.aeaweb.org/joe/resultset_output.php?mode=full_xml' };
+  }
+
   return null;
 }
 
@@ -105,6 +110,61 @@ function parseLever(json, companyName) {
 }
 
 const PARSERS = { greenhouse: parseGreenhouse, ashby: parseAshby, lever: parseLever };
+
+// ── JOE fetcher (AEA XML export) ───────────────────────────────────
+// Endpoint: resultset_output.php?mode=full_xml — returns all current listings as XML, no auth needed.
+// URL format: /joe/listing.php?JOE_ID={issue_id}_{jp_id}
+
+async function fetchJoe(baseUrl, _companyName) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
+  let xml;
+  try {
+    const res = await fetch(baseUrl, { signal: controller.signal });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    xml = await res.text();
+  } finally {
+    clearTimeout(timer);
+  }
+
+  const listings = [];
+  // Each position block: <position jp_id="...">...</position>
+  const positionRe = /<position jp_id="(\d+)">([\s\S]*?)<\/position>/g;
+  let match;
+  while ((match = positionRe.exec(xml)) !== null) {
+    const jp_id = match[1];
+    const block = match[2];
+    const get = tag => { const m = block.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\/${tag}>`)); return m ? m[1].trim() : ''; };
+    const title = get('jp_title');
+    const institution = get('jp_institution');
+    const city = get('city');
+    const country = get('country');
+    const location = [city, country].filter(Boolean).join(', ');
+    // Issue ID from surrounding <issue joe_issue_ID="..."> — extract from enclosing context
+    // Simpler: issue ID follows the year-issue pattern in jp_id context; we capture it separately below
+    listings.push({ _jp_id: jp_id, title, institution, location });
+  }
+
+  // Extract issue IDs: map jp_id -> issue_id from <issue joe_issue_ID="..."> blocks
+  const issueRe = /<issue joe_issue_ID="([^"]+)">([\s\S]*?)<\/issue>/g;
+  const jpToIssue = {};
+  let im;
+  while ((im = issueRe.exec(xml)) !== null) {
+    const issue_id = im[1];
+    const issueBlock = im[2];
+    const year = xml.match(/<year joe_year_ID="(\d+)">/)?.[1] || new Date().getFullYear();
+    const jpIds = [...issueBlock.matchAll(/jp_id="(\d+)"/g)].map(m => m[1]);
+    for (const id of jpIds) jpToIssue[id] = `${year}-${issue_id.padStart(2, '0')}`;
+  }
+
+  return listings.map(({ _jp_id, title, institution, location }) => ({
+    title,
+    url: `https://www.aeaweb.org/joe/listing.php?JOE_ID=${jpToIssue[_jp_id] || '2026-01'}_${_jp_id}`,
+    company: institution || 'AEAWEB JOE',
+    location,
+    source: 'joe-api',
+  }));
+}
 
 // ── Fetch with timeout ──────────────────────────────────────────────
 
@@ -292,8 +352,13 @@ async function main() {
   const tasks = targets.map(company => async () => {
     const { type, url } = company._api;
     try {
-      const json = await fetchJson(url);
-      const jobs = PARSERS[type](json, company.name);
+      let jobs;
+      if (type === 'joe') {
+        jobs = await fetchJoe(url, company.name);
+      } else {
+        const json = await fetchJson(url);
+        jobs = PARSERS[type](json, company.name);
+      }
       totalFound += jobs.length;
 
       for (const job of jobs) {
