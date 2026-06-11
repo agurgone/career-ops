@@ -295,4 +295,26 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://jobs.smartrecruiters.com/OECD/744000130505898-economist-policy-analyst- | OECD | Economist / Policy Analyst (Athens, deadline 28 Jun 2026)
 - [ ] https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1785043 | HM Treasury | Head of Fiscal Forecast and OBR Branch
 
+### Banks, Data, Tech & Fintech — Chunk 4 refresh (2026-06-11)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5231205008 | Anthropic | Regional Research Economist, Economic Research
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4555010008 | Anthropic | Economist
+- [ ] https://globalcareers-msci.icims.com/jobs/2850/quantitative-researcher/job | MSCI | Quantitative Researcher
+- [ ] https://stripe.com/jobs/listing/data-scientist-economic-insights-research/7980402 | Stripe | Data Scientist, Economic Insights & Research
+- [ ] https://block.xyz/careers/jobs/4814639008?gh_jid=4814639008 | Square (Block) | Senior Economist, Advanced Insights and Modeling
+- [ ] https://careers.bloomberg.com/job/detail/123928 | Bloomberg | Quantitative Analyst (Data Visualization), Bloomberg Economics
+- [ ] https://careers.bloomberg.com/job/detail/100440 | Bloomberg | CEE & Russia Economist
+- [ ] https://careers.bloomberg.com/job/detail/96430 | Bloomberg | Nordic Economist
+- [ ] https://careers.bloomberg.com/job/detail/93382 | Bloomberg | Quantitative Researcher - Enterprise Data
+- [ ] https://careers.google.com/jobs/results/123967399538893510-senior-economist/ | Google | Senior Economist, Economic Impact Estimation
+- [ ] https://careers.google.com/jobs/results/137389842756444870-regulatory-competition-economist/ | Google | Regulatory Competition Economist
+- [ ] https://careers.google.com/jobs/results/74638639891391174-macroeconomist/ | Google | Macroeconomist
+- [ ] https://careers.google.com/jobs/results/144082303916614342-competition-economist/ | Google | Competition Economist
+- [ ] https://www.janestreet.com/join-jane-street/position/8092053002/ | Jane Street | Quantitative Researcher, London
+- [ ] https://www.amazon.jobs/en/jobs/3192620/economist-economic-decision-science | Amazon | Economist, Economic Decision Science
+- [ ] https://www.amazon.jobs/en/jobs/2963641/economist-ii | Amazon | Economist II
+- [ ] https://www.amazon.jobs/en/jobs/2964072/economist | Amazon | Economist
+- [ ] https://www.amazon.jobs/en/jobs/2611886/economist | Amazon | Economist
+- [ ] https://www.amazon.jobs/en/jobs/1988297/economist-economic-and-community-impact | Amazon | Economist, Economic and Community Impact
+- [ ] https://www.amazon.jobs/en/jobs/3005549/economist-ii-amz9442285 | Amazon | Economist II - AMZ9442285
+
 ## Procesadas
