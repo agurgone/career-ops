@@ -317,4 +317,41 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://www.amazon.jobs/en/jobs/1988297/economist-economic-and-community-impact | Amazon | Economist, Economic and Community Impact
 - [ ] https://www.amazon.jobs/en/jobs/3005549/economist-ii-amz9442285 | Amazon | Economist II - AMZ9442285
 
+### Hedge Funds & Asset Managers — Chunk 3 refresh (2026-06-24)
+- [ ] https://www.deshawindia.com/careers/senior-analyst-lead-analyst-macro-economist-financial-research-6101 | D.E. Shaw | Senior Analyst/Lead Analyst – Macro (Economist), Financial Research
+- [ ] https://www.deshaw.com/careers/economist-analyst-discretionary-macro-new-york-3934 | D.E. Shaw | Economist Analyst, Discretionary Macro
+- [ ] https://job-boards.greenhouse.io/point72/jobs/8233916002 | Point72 | Research Analyst, Global Macro
+- [ ] https://careers.point72.com/CSJobDetail?jobCode=CSS-0002897&jobName=macro-research-analyst&retURL=%2FCSCareerSearch | Point72 | Macro Research Analyst
+- [ ] https://careers.point72.com/CSJobDetail?jobName=quantitative-analyst-global-macro&jobCode=CSS-0013509&location=New+York&locale=English&retURL=/CSCareerSearch | Point72 | Quantitative Analyst, Global Macro
+- [ ] https://careers.point72.com/CSJobDetail?jobName=quantitative-strategist-macro-data-analytics&jobCode=PIT-0014438&location=New+York&locale=English&retURL=%2FCSCareerSearch | Point72 | Quantitative Strategist, Macro Data Analytics
+- [ ] https://startup.jobs/macro-sector-analyst-point72-4474904 | Point72 | Macro Sector Analyst
+- [ ] https://job-boards.greenhouse.io/bridgewater89/jobs/8219433002 | Bridgewater | Research Associate, Fiscal and Trade Policy
+- [ ] https://job-boards.greenhouse.io/bridgewater89/jobs/8203810002 | Bridgewater | Commodities Research Associate
+- [ ] https://boards.greenhouse.io/bridgewater89/jobs/6478365002 | Bridgewater | Geopolitics Research Associate
+- [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-central-liquidity-book-at-balyasny-asset-management-l-p-3748811334 | Balyasny | Quantitative Researcher - Central Liquidity Book
+- [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-pm-engagement-at-balyasny-asset-management-l-p-4181449865 | Balyasny | Quantitative Researcher, PM Engagement
+- [ ] https://www.tealhq.com/job/quantitative-researcher-credit_45377646-f31a-4f4e-b620-24693d771f20 | Balyasny | Quantitative Researcher - Credit
+- [ ] https://www.theladders.com/job/treasury-senior-quantitative-researcher-balyasnyassetmanagement-new-york-ny_83084294 | Balyasny | Treasury Senior Quantitative Researcher
+- [ ] https://builtin.com/job/quantitative-researcher-macro/4385913 | Qube Research & Technologies | Quantitative Researcher - Macro
+- [ ] https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/7947279002 | Qube Research & Technologies | Quantitative Strategist
+- [ ] https://www.theladders.com/job/senior-quant-researcher-cta-fixed-income-squarepoint-capital-houston-mn_77313399 | Squarepoint | Senior Quant Researcher - CTA/Fixed Income
+- [ ] https://www.quantblueprint.com/job/squarepoint-senior-quant-researcher-cta-short-term-1 | Squarepoint | Senior Quant Researcher - CTA/Short-Term
+- [ ] https://www.worldquant.com/career-listing/?id=4069466006 | WorldQuant | Quantitative Researcher
+- [ ] https://builtin.com/job/quantitative-researcher-quant-macro/3755266 | WorldQuant | Quantitative Researcher, Quant Macro
+- [ ] https://careers.blackrock.com/job/new-york/blackrock-investment-institute-bii-us-macro-strategist-vice-president/45831/68931340912 | BlackRock | BlackRock Investment Institute (BII) - US Macro Strategist, VP
+- [ ] https://careers.blackrock.com/job/new-york/managing-director-global-head-of-macro-blackrock-investment-institute/45831/95674962736 | BlackRock | Managing Director, Global Head of Macro - BlackRock Investment Institute
+- [ ] https://careers.blackrock.com/job/new-york/senior-quantitative-researcher-fixed-income-markets-research-director/45831/95589919856 | BlackRock | Senior Quantitative Researcher – Fixed Income Markets Research, Director
+- [ ] https://careers.blackrock.com/job/mumbai/index-fixed-income-quant-researcher-investment-vice-president/45831/77268597264 | BlackRock | Index Fixed Income Quant Researcher, Investment, VP
+- [ ] https://careers.blackrock.com/job/mexico-city/associate-quantitative-research-and-portfolio-management-multi-asset-strategies-and-solutions-mass/45831/95265574352 | BlackRock | Associate, Quantitative Research and Portfolio Management (MASS)
+- [ ] https://careers.aqr.com/jobs/research/greenwich-ct/research-analyst-discretionary-macro/7979589?gh_jid=7979589 | AQR | Research Analyst - Discretionary Macro
+- [ ] https://careers.aqr.com/jobs/research/greenwich-ct/research-associate-discretionary-macro/7979593?gh_jid=7979593 | AQR | Research Associate - Discretionary Macro
+- [ ] https://careers.aqr.com/jobs/research/greenwich-ct/integrated-research-analyst-associate/7013706?gh_jid=7013706 | AQR | Integrated Research – Analyst/Associate
+- [ ] https://boards.greenhouse.io/winton/jobs/4047683101 | Winton | MENA Equities Quantitative Researcher
+- [ ] https://boards.greenhouse.io/winton/jobs/4069455101 | Winton | Quantitative Risk
+- [ ] https://wd3.myworkdaysite.com/en-US/recruiting/brevanhoward/BH_ExternalCareers/job/London-82/Junior-Economist_JR100950 | Brevan Howard | Junior Economist
+- [ ] https://wd3.myworkdaysite.com/en-US/recruiting/brevanhoward/BH_ExternalCareers/job/London-82/Senior-Quant-Analyst---Rates_JR101138 | Brevan Howard | Senior Quant Analyst - Rates
+- [ ] https://wd3.myworkdaysite.com/en-US/recruiting/brevanhoward/BH_ExternalCareers/job/London-82/Quant-Analyst---Credit_JR101139 | Brevan Howard | Quant Analyst - Credit
+- [ ] https://www.linkedin.com/jobs/view/credit-quantitative-researcher-at-capula-investment-management-llp-4315692101 | Capula | Credit Quantitative Researcher
+- [ ] https://www.linkedin.com/jobs/view/credit-quantitative-researcher-at-capula-investment-management-llp-4340598030 | Capula | Credit Quantitative Researcher
+
 ## Procesadas
