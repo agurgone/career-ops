@@ -354,4 +354,17 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://www.linkedin.com/jobs/view/credit-quantitative-researcher-at-capula-investment-management-llp-4315692101 | Capula | Credit Quantitative Researcher
 - [ ] https://www.linkedin.com/jobs/view/credit-quantitative-researcher-at-capula-investment-management-llp-4340598030 | Capula | Credit Quantitative Researcher
 
+### Central Banks & Policy — Chunk 1 (2026-06-29)
+- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Senior-Economist-External-Developments/10393 | ECB | Senior Economist – External Developments
+- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Senior-Economist-ESCB-IO-Monetary-Policy-Strategy/13177 | ECB | Senior Economist (ESCB/IO) – Monetary Policy Strategy (restricted to seconded Eurosystem/NCB staff)
+- [ ] https://www.bis.org/careers/vacancies/jr100198.htm | BIS | Senior/Principal Economist
+- [ ] https://www.bis.org/careers/vacancies/jr100388.htm | BIS | Financial Policy Analyst
+- [ ] https://www.careers.eba.europa.eu/en/our-vacancies/policy-expert-23 | EBA | Policy Expert – credit risk & non-bank finance
+- [ ] https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1888688 | HM Treasury (National Infrastructure Commission) | Senior Economists – Energy and Transport
+- [ ] https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1937936 | HM Treasury | Senior Policy Adviser – Access to Finance
+- [ ] https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1937389 | HM Treasury | Assistant Economist – Trade Policy Analysis
+- [ ] https://imf.wd5.myworkdayjobs.com/en-US/IMF/job/USA-Washington-DC/Economist-Sr-Economist---STAFI_26-R8940 | IMF | Economist/Sr. Economist – STAFI (Financial Institutions Division, Statistics Dept)
+- [ ] https://jobs.smartrecruiters.com/OECD/744000130747518-economist-policy-analyst- | OECD | Economist – Policy Analyst (OECD Crete Centre, Athens)
+- [ ] https://jobs.smartrecruiters.com/OECD/744000072464505-chief-economist | OECD | Chief Economist (Economics Department, Paris)
+
 ## Procesadas
