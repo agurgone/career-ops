@@ -314,6 +314,15 @@ search_queries:
     query: '"Goldman Sachs" OR "BNP Paribas" OR "Nomura" OR "Societe Generale" "Quant" OR "QIS" OR "Macro Strategist" researcher'
     enabled: true
 
+  # --- earlyapply.io (search-only SPA, no static listing page -- query via WebSearch) ---
+  # NOTE: as of 2026-06-17, earlyapply.io is behind a Cloudflare bot-challenge that blocks
+  # Playwright, and it has no pages indexed by Google for site: search. Neither automated
+  # path works right now -- check manually at https://earlyapply.io/#search with keywords
+  # "Economist" / "Macro" / "Quant" / "Policy Economist" until one of the above changes.
+  - name: earlyapply.io - Economist/Macro/Quant
+    query: 'site:earlyapply.io "Economist" OR "Macro" OR "Quant" OR "Policy Economist" OR "Macroeconomic"'
+    enabled: false
+
 # -- Tracked companies --
 
 tracked_companies:
@@ -324,7 +333,7 @@ tracked_companies:
     enabled: true
 
   - name: Bank of England
-    careers_url: https://www.bankofengland.co.uk/careers
+    careers_url: https://eoff.fa.em1.ukg.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/
     enabled: true
 
   - name: Central Bank of Ireland
@@ -372,19 +381,19 @@ tracked_companies:
     enabled: true
 
   - name: Banque de France
-    careers_url: https://www.banque-france.fr/en/banque-de-france/careers
+    careers_url: https://bdf.wd103.myworkdayjobs.com/en-US/recrutement-banque-de-France
     enabled: true
 
   - name: Sveriges Riksbank
-    careers_url: https://www.riksbank.se/en-gb/about-the-riksbank/work-at-the-riksbank/
+    careers_url: https://www.riksbank.se/en-gb/about-the-riksbank/come-work-with-us/available-vacancies/
     enabled: true
 
   - name: Norges Bank
-    careers_url: https://www.norges-bank.no/en/about/Vacancies/
+    careers_url: https://www.norges-bank.no/en/topics/about/Careers/
     enabled: true
 
   - name: Swiss National Bank (SNB)
-    careers_url: https://www.snb.ch/en/the-snb/career
+    careers_url: https://careers.snb.ch/?locale=en_US
     enabled: true
 
   - name: Reserve Bank of Australia
@@ -414,7 +423,7 @@ tracked_companies:
 
   # Development banks
   - name: EBRD
-    careers_url: https://www.ebrd.com/careers
+    careers_url: https://jobs.ebrd.com/
     enabled: true
 
   - name: EIB
@@ -431,7 +440,7 @@ tracked_companies:
     enabled: true
 
   - name: Frontier Economics
-    careers_url: https://www.frontier-economics.com/careers
+    careers_url: https://www.frontier-economics.com/uk/en/careers/vacancies-and-apply/
     enabled: true
 
   - name: Oxera
@@ -451,7 +460,7 @@ tracked_companies:
     enabled: true
 
   - name: PRA (Prudential Regulation Authority)
-    careers_url: https://www.bankofengland.co.uk/pra/careers
+    careers_url: https://eoff.fa.em1.ukg.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/
     enabled: true
 
   - name: ESM (European Stability Mechanism)
@@ -459,7 +468,7 @@ tracked_companies:
     enabled: true
 
   - name: NERA Economic Consulting
-    careers_url: https://www.nera.com/careers.html
+    careers_url: https://www.nera.com/open-roles.html
     enabled: true
 
   - name: Compass Lexecon
@@ -479,7 +488,7 @@ tracked_companies:
     enabled: true
 
   - name: Macro Advisory Partners
-    careers_url: https://macroadvisorypartners.com/
+    careers_url: https://macroadvisorypartners.com/careers
     enabled: true
 
   - name: TS Lombard
@@ -487,17 +496,19 @@ tracked_companies:
     enabled: true
 
   - name: Capital Economics
-    careers_url: https://www.capitaleconomics.com/careers
+    careers_url: https://apply.workable.com/capital-economics/
     enabled: true
 
+  # NOTE: careers_url returned 404 as of 2026-06-11, needs manual check
   - name: Pantheon Macroeconomics
     careers_url: https://www.pantheonmacro.com/
     enabled: true
 
   - name: Fathom Consulting
-    careers_url: https://www.fathom-consulting.com/careers
+    careers_url: https://www.fathom-consulting.com/career-enquiries/
     enabled: true
 
+  # NOTE: careers_url returned 404 as of 2026-06-11, needs manual check
   - name: Gavekal Dragonomics
     careers_url: https://www.gavekal.com/careers
     enabled: true
@@ -512,7 +523,7 @@ tracked_companies:
 
   # Think tanks / research
   - name: Resolution Foundation
-    careers_url: https://www.resolutionfoundation.org/about/jobs/
+    careers_url: https://www.resolutionfoundation.org/about-us/opportunities/
     enabled: true
 
   - name: Chatham House
@@ -528,7 +539,7 @@ tracked_companies:
     enabled: true
 
   - name: NIESR
-    careers_url: https://www.niesr.ac.uk/vacancies
+    careers_url: https://niesr.ac.uk/careers
     enabled: true
 
   - name: IFS
@@ -552,7 +563,7 @@ tracked_companies:
     enabled: true
 
   - name: NBER (National Bureau of Economic Research)
-    careers_url: https://www.nber.org/opportunities
+    careers_url: https://www.nber.org/career-resources
     enabled: true
 
   - name: Institute for Advanced Study (IAS)
@@ -560,7 +571,7 @@ tracked_companies:
     enabled: true
 
   - name: ESRI (Economic & Social Research Institute, Ireland)
-    careers_url: https://www.esri.ie/about/jobs
+    careers_url: https://www.esri.ie/careers
     enabled: true
 
   # Federal Reserve System
@@ -614,11 +625,11 @@ tracked_companies:
     enabled: true
 
   - name: Balyasny Asset Management
-    careers_url: https://www.balyasny.com/careers
+    careers_url: https://bambusdev.my.site.com/s/
     enabled: true
 
   - name: Marshall Wace
-    careers_url: https://www.marshall-wace.com/careers
+    careers_url: https://www.mwam.com/join-us/
     enabled: true
 
   - name: Capital Fund Management (CFM)
@@ -638,15 +649,15 @@ tracked_companies:
     enabled: true
 
   - name: Squarepoint Capital
-    careers_url: https://www.squarepointcap.com/careers
+    careers_url: https://www.squarepoint-capital.com/open-opportunities
     enabled: true
 
   - name: WorldQuant
-    careers_url: https://www.worldquant.com/career-listing/
+    careers_url: https://www.worldquant.com/careers/
     enabled: true
 
   - name: Tudor Investment Corp
-    careers_url: https://www.tudor.com/careers
+    careers_url: https://job-boards.greenhouse.io/tudorgroup
     enabled: true
 
   # Asset managers & macro strategy
@@ -655,11 +666,11 @@ tracked_companies:
     enabled: true
 
   - name: PIMCO
-    careers_url: https://careers.pimco.com
+    careers_url: https://pimco.wd1.myworkdayjobs.com/pimco-careers
     enabled: true
 
   - name: AQR
-    careers_url: https://www.aqr.com/careers
+    careers_url: https://careers.aqr.com/
     enabled: true
 
   - name: Man Group
@@ -667,7 +678,7 @@ tracked_companies:
     enabled: true
 
   - name: Winton
-    careers_url: https://www.winton.com/careers
+    careers_url: https://www.winton.com/opportunities
     enabled: true
 
   - name: Schroders
@@ -675,7 +686,7 @@ tracked_companies:
     enabled: true
 
   - name: Amundi
-    careers_url: https://www.amundi.com/corporate/careers
+    careers_url: https://about.amundi.com/our-job-board
     enabled: true
 
   - name: Brevan Howard
@@ -814,6 +825,14 @@ tracked_companies:
 
   - name: European Job Market of Economists
     careers_url: https://www.europeanjobmarketofeconomists.org/job-listings
+    enabled: true
+
+  - name: UN Jobnet
+    careers_url: https://www.unjobnet.org/jobs
+    enabled: true
+
+  - name: UNTalent
+    careers_url: https://untalent.org/jobs
     enabled: true
 
   - name: The Economist Jobs

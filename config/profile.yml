@@ -77,7 +77,7 @@ compensation:
   target_range: "£90K-150K / €90K-140K / $120K-180K"     # realistic across policy and market roles
   currency: "Flexible (GBP/EUR/USD)"
   minimum: "£70K / €70K / $100K"                        # walk-away threshold
-  location_flexibility: "Prefer UK/EU; open to relocation (US/Canada) for strong roles; moderate travel acceptable"
+  location_flexibility: "Prefer UK/EU; open to relocating anywhere for an interesting/strong-fit role -- geography should not gate or downscore an otherwise good match; moderate travel acceptable"
 
 location:
   country: "United Kingdom"

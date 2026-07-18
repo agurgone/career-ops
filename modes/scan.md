@@ -78,7 +78,7 @@ Los niveles son aditivos — se ejecutan todos, los resultados se mezclan y dedu
    b. `browser_snapshot` para leer todos los job listings
    c. Si la página tiene filtros/departamentos, navegar las secciones relevantes
    d. Para cada job listing extraer: `{title, url, company}`
-   e. Si la página pagina resultados, navegar páginas adicionales
+   e. **Paginación obligatoria**: Si el listado de empleos muestra controles de paginación (números de página, botón "Next"/"Siguiente", botón "Load more"/"Ver más", o scroll infinito), el agente DEBE navegar/clicar a través de TODAS las páginas de resultados antes de extraer la lista final de empleos — no basta con la página 1. Repetir `browser_snapshot` después de cada navegación/click hasta que no queden más páginas o controles de carga adicional, y acumular los listings de cada página.
    f. Acumular en lista de candidatos
    g. Si `careers_url` falla (404, redirect), intentar `scan_query` como fallback y anotar para actualizar la URL
 

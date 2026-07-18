@@ -62,6 +62,7 @@ PhD macroeconomist with a track record across central banking (Central Bank of I
 - **Adjunct Professor**, University of Bergamo, Spring 2022 — Monetary economics and business cycles
 - **Senior Researcher**, Fondazione Eni Enrico Mattei, Milan, June 2021 – Jan 2022 — Macroeconomic modelling of energy transition risks
 - **Post-doctoral Fellow**, Bamberg University, Germany, 2019 – 2021 — Research on macroeconomics and financial stability
+- **Council Member**, GLG (Gerson Lehrman Group) Consulting Network — Expert contributor on macroeconomics and financial stability
 
 ---
 

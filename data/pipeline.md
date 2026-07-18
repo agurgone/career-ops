@@ -9,6 +9,26 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 
 ## Pendientes
 
+### Playwright Nivel 1 scan — 2026-06-12 (22 companies, repaired URLs)
+
+### Playwright Nivel 1 scan — 2026-06-11 (22 high-priority tracked companies)
+- [x] #119 | https://apply.workable.com/capital-economics/j/3BB573A8DB/ | Capital Economics | China Economist | 2.1/5 | PDF ❌
+
+### JOE listings — 2026-06-10 (scan: page 1/2+, sorted A-Z by institution; academic faculty excluded)
+- [!] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477264 | ERIA | Senior Economist (Jakarta) — CLOSED (deadline 03/09/2026 passed)
+- [!] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477422 | White House Council of Economic Advisers | Economist (DC) — CLOSED (deadline 05/31/2026 passed; also US-citizens-only 1-yr PhD appointment)
+- [!] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477437 | Central Bank of Taiwan | Research Economist (Taipei) — CLOSED (deadline 05/15/2026 passed; also ROC-citizens-only)
+- [x] #115 | https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477476 | DoorDash | Head Economist (DC/NYC) | 2.3/5 | PDF ❌ | SKIP: platform/gig economics, US onsite
+- [x] #116 | https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477486 | America First Policy Institute | Researcher (Fiscal & Regulatory) | 1.8/5 | PDF ❌ | SKIP: US public finance + partisan think tank
+- [x] #117 | https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477161 | Teamsters | Economist (Strategic Initiatives, DC) | 2.0/5 | PDF ❌ | SKIP: labor-union economics + testimony, US onsite
+- [!] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477291 | Inter-American Development Bank | Sector Economic Advisor - CSD (DC) — CLOSED (deadline 02/28/2026 passed)
+- [!] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477292 | Inter-American Development Bank | Sector Economic Advisor - IFD (DC) — CLOSED (deadline 02/28/2026 passed)
+- [!] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477368 | Inter-American Development Bank | Senior / Lead Country Economists (Lima/Quito/Mexico City) — CLOSED (deadline 03/31/2026 passed)
+- [!] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477391 | Harvard CEPR | Senior Research Manager (Cambridge, MA) — CLOSED (deadline 04/30/2026 passed; also education-econ domain)
+- [!] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477339 | Reserve Bank of New Zealand | Advisor, Model Development — CLOSED (deadline 03/27/2026 passed; strong-fit, missed)
+- [!] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477340 | Reserve Bank of New Zealand | Senior Advisor, Model Development — CLOSED (deadline 03/27/2026 passed; strong-fit, missed)
+- [!] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477442 | NZ Treasury | Macroeconomic Modelling Specialist (Senior Analyst) — CLOSED (deadline 05/10/2026 passed; strong-fit, missed)
+
 ### JOE listings — 2026-05-23
 - [x] #093 | https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477440 | Capital Fund Management | Quantitative Researcher (New York) | 3.5/5 | PDF ✅ | Applied 2026-05-23
 - [x] #094 | https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477249 | Nipun Capital | Senior Quantitative Researcher (Foster City, CA) | 2.3/5 | PDF ❌
@@ -311,21 +331,63 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [x] #104 | https://www.jobs.ac.uk/job/DRO118/environmental-macro-economist | National Oceanography Centre | Environmental Macro Economist ⚠️ closes 31 May 2026 | 3.5/5 | PDF ❌
 
 ### Scan Chunk 1 — Central Banks & Policy (2026-06-07)
-- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Economist/2845 | ECB | Economist
-- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Senior-Economist-Prices-and-Costs/8275 | ECB | Senior Economist – Prices and Costs
-- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Senior-Economist-European-Institutions-and-Fora/9109 | ECB | Senior Economist – European Institutions and Fora
-- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Senior-Economist-External-Developments/5321 | ECB | Senior Economist – External Developments
-- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Senior-Economist-Monetary-Policy-Strategy/5086 | ECB | Senior Economist – Monetary Policy Strategy
-- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Senior-Economist-Strategic-Issue-Section-DG-MP/3860 | ECB | Senior Economist – Strategic Issue Section DG/MP
-- [ ] https://careers.bankofcanada.ca/job/Ottawa-(Downtown)-Economist,-International-economic-analysis-and-near-term-forecasting-ON/602759817/ | Bank of Canada | Economist – International Economic Analysis and Near-Term Forecasting
-- [ ] https://www.centralbank.ie/careers/experienced-professionals | Central Bank of Ireland | Economist and Senior Economist Opportunities
-- [ ] https://imf.wd5.myworkdayjobs.com/IMF | IMF | Experienced Economist Pipeline
-- [ ] https://careers.un.org/jobSearchDescription/258200 | United Nations | Economic Affairs Officer
-- [ ] https://hmtreasury.referrals.selectminds.com/Obr-careers | OBR | Economic Modelling and Analysis Team Leader (closes 19 Aug 2026)
+> ⚠️ DEAD CHUNK — verified via Playwright 2026-06-10. The 2026-06-07 remote scan used websearch (no liveness check) and surfaced permanent-URL archived/closed postings. Every verifiable specific posting was dead. Do NOT re-add these URLs. Check live careers pages instead.
+- [!] https://talent.ecb.europa.eu/careers/JobDetail/Economist/2845 | ECB | Economist — EXPIRED (closing date 21.12.2020, archived)
+- [!] https://talent.ecb.europa.eu/careers/JobDetail/Senior-Economist-Prices-and-Costs/8275 | ECB | Senior Economist – Prices and Costs — EXPIRED (same archived vintage; not re-verified individually)
+- [!] https://talent.ecb.europa.eu/careers/JobDetail/Senior-Economist-European-Institutions-and-Fora/9109 | ECB | Senior Economist – European Institutions and Fora — EXPIRED (same archived vintage; not re-verified individually)
+- [!] https://talent.ecb.europa.eu/careers/JobDetail/Senior-Economist-External-Developments/5321 | ECB | Senior Economist – External Developments — EXPIRED (same archived vintage; not re-verified individually)
+- [!] https://talent.ecb.europa.eu/careers/JobDetail/Senior-Economist-Monetary-Policy-Strategy/5086 | ECB | Senior Economist – Monetary Policy Strategy — EXPIRED (closing date 08.06.2022, archived)
+- [!] https://talent.ecb.europa.eu/careers/JobDetail/Senior-Economist-Strategic-Issue-Section-DG-MP/3860 | ECB | Senior Economist – Strategic Issue Section DG/MP — EXPIRED (same archived vintage; not re-verified individually)
+- [!] https://careers.bankofcanada.ca/job/Ottawa-(Downtown)-Economist,-International-economic-analysis-and-near-term-forecasting-ON/602759817/ | Bank of Canada | Economist – International Economic Analysis and Near-Term Forecasting — CLOSED (posting removed, chrome-only page)
+- [x] https://www.centralbank.ie/careers/experienced-professionals | Central Bank of Ireland | Economist and Senior Economist Opportunities — CLOSED 2026-06-10: generic landing page; current-vacancies portal confirmed empty (no live roles)
+- [x] https://imf.wd5.myworkdayjobs.com/IMF | IMF | Experienced Economist Pipeline — PROCESSED 2026-06-10: live Workday board; evaluated Financial Sector Expert/MCMFS (#113, 4.3/5, APPLY) + Tax Policy/FADT2 (#114, 1.9/5, SKIP)
+- [!] https://careers.un.org/jobSearchDescription/258200 | United Nations | Economic Affairs Officer — CLOSED (deadline Jun 2025) + P-3 too junior
+- [!] https://hmtreasury.referrals.selectminds.com/Obr-careers | OBR | Economic Modelling and Analysis Team Leader — DEAD URL (domain does not resolve)
+
+- [x] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477311 | Brown University | Postdoctoral Research Associate | SKIP: academic postdoc — outside profile archetypes
+- [x] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477440 | Capital Fund Management | Quantitative Researcher | SKIP: duplicate, already evaluated as #093 (3.5/5)
+- [x] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477244 | Chung-Hua Institution for Economic Research | Assistant Research Fellow (equivalent to assistant professor) | SKIP: academic faculty — outside profile archetypes
+- [x] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477350 | Cornerstone Research | Senior Economist | SKIP: duplicate, already evaluated as #096 (3.2/5)
+- [x] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477453 | Food &amp;amp; Resource Economics (FRE), University of Florida / IFAS | Postdoctoral Research Associate | SKIP: academic postdoc — outside profile archetypes
+- [x] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477249 | Nipun Capital, L.P. | Senior Quantitative Researcher | SKIP: duplicate, already evaluated as #094 (2.3/5)
+- [x] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477139 | PDT Partners | Quantitative Researcher | SKIP: duplicate, already evaluated as #095 (3.0/5)
+- [x] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477482 | Regional Office for Asia and the Pacific, International Monetary Fund (IMF) | Economist (Local) - IMF Regional Office for Asia and the Pacific (OAP) in Tokyo | SKIP: duplicate, already evaluated as #098 (2.8/5)
+- [x] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477197 | Stanford University (US) and Heidelberg University (Germany) | Postdoctoral Research Fellow or Social Science Research Scholar | SKIP: academic postdoc — outside profile archetypes
+- [x] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477321 | TIAA Institute | Postdoctoral Research Fellow | SKIP: academic postdoc — outside profile archetypes
+- [x] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477425 | University of Minnesota, Twin Cities | Minnesota State Economist and Professor of Applied Economics | SKIP: academic faculty — outside profile archetypes
+- [x] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477224 | University of North Carolina Greensboro | Director of Economic Analysis and Public Scholarship | SKIP: academic admin role — outside profile archetypes
+- [x] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477408 | University of Tennessee | Post-Doctoral Research Associate | SKIP: academic postdoc — outside profile archetypes
 
 ## Procesadas
 
+- [x] #120 | https://careers.blackrock.com/job/new-york/managing-director-global-head-of-macro-blackrock-investment-institute/45831/95674962736 | BlackRock | Managing Director, Global Head of Macro - BlackRock Investment Institute (New York) | 1.8/5 | PDF ❌
+- [x] #118 | https://talent.ecb.europa.eu/careers/JobDetail/Research-Analysts-Economic-Analysis-Policy/14249 | ECB | Research Analysts - Economic Analysis & Policy | 2.6/5 | PDF ❌
 - [x] #091 | https://www.efinancialcareers.co.uk/jobs-UK-London-Quantitative_Analyst_%E2%80%93_Systematic_Macro_Global_Asset_Manager_London.id24152388 | Anon Global AM | Quantitative Analyst – Systematic Macro (London) | 3.6/5 | PDF ❌
+- [x] #130 | https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477508 | Consulting firm (anon) | Part-Time PhD Economist - Composite Index Methodology | 1.8/5 | PDF ❌
+- [x] #131 | https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477504 | Mount Mercy University (St. Ambrose) | Faculty, Economics/Quantitative Methods | 1.0/5 | PDF ❌
+- [x] #132 | https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477506 | University of Arizona | Lead Economist (EBRC) | 2.2/5 | PDF ❌
+- [x] #133 | https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477509 | White House CEA | Staff Economist - Supply Chains | 1.2/5 | PDF ❌
+- [x] #134 | https://www.unjobnet.org/jobs/detail/86774540 | European Investment Bank | Group Chief Economist (Luxembourg) | 2.6/5 | PDF ❌
+- [x] #135 | https://www.unjobnet.org/jobs/detail/86774018 | World Trade Organization | Research Economist | 2.9/5 | PDF ❌
+- [x] #136 | https://www.unjobnet.org/jobs/detail/86767545 | World Bank (IFC) | Economist - Country Advisory & Economics (Rabat) | 2.0/5 | PDF ❌
+- [x] #137 | https://www.unjobnet.org/jobs/detail/86757060 | Bill & Melinda Gates Foundation | Senior Research Economist - Gender/Health Equity (11-mo LTE) | 1.0/5 | PDF ❌
+- [x] #138 | https://www.unjobnet.org/jobs/detail/86754911 | World Bank (IFC) | Senior Economist - East Asia & Pacific (Hong Kong) | 2.1/5 | PDF ❌
+- [x] #139 | https://www.unjobnet.org/jobs/detail/86748756 | UNDP | National Economist (Mogadishu, Somalia) | 1.0/5 | PDF ❌
+- [x] #140 | https://www.unjobnet.org/jobs/detail/86725446 | UN Women | Economist/Women's Economic Empowerment Research Expert (Retainer Consultant) | 1.3/5 | PDF ❌
+- [x] #141 | https://www.unjobnet.org/jobs/detail/86719105 | IMF | Economist/Sr. Economist - ICDMM (Macro Modelling & Monetary) | 3.3/5 | PDF ✅
+- [x] #142 | https://www.unjobnet.org/jobs/detail/86699251 | UNFPA | Health Economist Midwifery Investment Specialist (Abuja, Nigeria) | 1.0/5 | PDF ❌
+- [x] #143 | https://www.unjobnet.org/jobs/detail/86690546 | OECD | Economist - Policy Analyst (Crete Centre, Athens) | 3.1/5 | PDF ✅
+- [x] #144 | https://www.unjobnet.org/jobs/detail/86673025 | UNHCR | Associate Economist (Abidjan, Ivory Coast) | 1.0/5 | PDF ❌
+- [x] #145 | https://www.unjobnet.org/jobs/detail/84900531 | IFAD | Technical Specialist (Economist) - Development Effectiveness | 1.5/5 | PDF ❌
+- [x] #146 | https://www.unjobnet.org/jobs/detail/74751203 | AIIB | Senior Economist - Climate Policy (for pooling only) | 1.2/5 | PDF ❌
 - [x] https://www.efinancialcareers.co.uk/jobs-UK-London-Quantitative_Researcher.id24055010 | Jane Street | Quantitative Researcher (London) | SKIP: ML/deep learning focus, not macro economics — domain mismatch
 - [x] https://www.efinancialcareers.co.uk/jobs-UK-London-Quantitative_Researcher.id24162774 | Winton | Quantitative Researcher (London) | SKIP: eFC re-post of Greenhouse job 4353297101, already evaluated as #037 (3.3/5)
 - [x] #092 | https://www.efinancialcareers.co.uk/jobs-UK-London-Data_Scientist_Macro_Fixed_Income_Hedge_Fund_London_Onsite.id23993235 | Anon Macro FI HF | Data Scientist – Macro Fixed Income Hedge Fund (London) | 2.8/5 | PDF ❌
+- [x] #121 | https://www.worldquant.com/career-listing/?id=4252938006 | WorldQuant | Experienced Quantitative Strategist | 1.8/5 | PDF ❌
+- [x] #122 | https://www.worldquant.com/career-listing/?id=4069466006 | WorldQuant | Quantitative Researcher | 1.0/5 | PDF ❌
+- [x] #123 | https://bdf.wd103.myworkdayjobs.com/en-US/recrutement-banque-de-France/job/PARIS/Economiste-international-H-F_JR100179 | Banque de France | Economiste international H/F | 4.3/5 | PDF ✅
+- [x] #124 | https://careers.marsh.com/global/en/job/R_344059/NERA-Junior-Economist-Auckland | NERA | NERA Junior Economist - Auckland | 1.5/5 | PDF ❌
+- [x] #125 | https://www.squarepoint-capital.com/opportunity-details?id=253410 | Squarepoint | Senior Quant Researcher - CTA/Short-Term | 2.0/5 | PDF ❌
+- [x] #126 | https://www.squarepoint-capital.com/opportunity-details?id=253411 | Squarepoint | Senior Quant Researcher - Equity Mid/Low Frequency | 1.8/5 | PDF ❌
+- [x] #127 | https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Quantitative-Research-Analyst---Client-Analytics_R106268 | PIMCO | Quantitative Research Analyst – Client Analytics | 2.9/5 | PDF ❌
+- [x] #128 | https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Product-Strategist_R106312 | PIMCO | Product Strategist | 1.6/5 | PDF ❌
