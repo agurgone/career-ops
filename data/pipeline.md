@@ -367,4 +367,23 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://jobs.smartrecruiters.com/OECD/744000130747518-economist-policy-analyst- | OECD | Economist – Policy Analyst (OECD Crete Centre, Athens)
 - [ ] https://jobs.smartrecruiters.com/OECD/744000072464505-chief-economist | OECD | Chief Economist (Economics Department, Paris)
 
+### Macro Advisory & Think Tanks — Chunk 2 refresh (2026-07-21)
+- [ ] https://careers.oxfordeconomics.com/postings/a05f7819-6fe2-43c4-86a5-64f7b90ff638 | Oxford Economics | Lead Economist - EMEA Consulting - Tourism Economics
+- [ ] https://careers.oxfordeconomics.com/postings/6361d32c-ca8d-43d6-b80b-be576e0c2c32 | Oxford Economics | (Sr.) Economist / Data Scientist - EMEA Macro Consulting
+- [ ] https://careers.oxfordeconomics.com/postings/ac64098a-407c-4cbe-8bef-2b37a164c5cf | Oxford Economics | Senior Consultant - EMEA Macro Consulting
+- [ ] https://careers.oxfordeconomics.com/postings/4887cb3c-4082-4e8a-a576-aff2fba20db8 | Oxford Economics | Economist - Modelling Team, Macro Consulting
+- [ ] https://careers.oxfordeconomics.com/postings/11c14f49-5c8e-41ed-b851-c20cdab765b8 | Oxford Economics | Senior Economist – EMEA Consulting - Tourism Economics
+- [ ] https://careers.oxfordeconomics.com/postings/ef2489e3-c007-4042-b602-75d84d3af1b3 | Oxford Economics | Lead Economist / Associate Director - TMT - Economic Impact Consulting
+- [ ] https://careers.oxfordeconomics.com/en/postings/44314db2-1174-4bd8-848c-cfa71ee55af5 | Oxford Economics | Lead Economist - Economic Impact Consulting
+- [ ] https://careers.oxfordeconomics.com/postings/8251cb20-9e5e-4fea-9ecd-3417f14dc095 | Oxford Economics | Lead Economist - Geospatial Research
+- [ ] https://careers.oxfordeconomics.com/postings/2e5ed44c-33be-40ab-b6b8-0c3253ad8054 | Oxford Economics | Economist / Senior Economist - Macro Consulting - EMEA
+- [ ] https://careers.oxera.com/jobs/6884159-consultant-competition-economics-madrid | Oxera | Consultant Competition Economics (Madrid)
+- [ ] https://careers.oxera.com/jobs/6883998-consultant-competition-economics-italy | Oxera | Consultant Competition Economics (Italy)
+- [ ] https://apply.workable.com/capital-economics/j/3BB573A8DB | Capital Economics | China Economist
+- [ ] https://apply.workable.com/capital-economics/j/12B7B7D096/ | Capital Economics | Economist - Consultancy Team
+- [ ] https://www.ippr.org/jobs/chief-of-staff-and-senior-research-fellow | IPPR | Chief of Staff and Senior Research Fellow
+- [ ] https://www.ippr.org/jobs/senior-research-fellow-ippr-north-2 | IPPR | Senior Research Fellow, IPPR North
+- [ ] https://www.ippr.org/jobs/principal-research-fellow-health-policy | IPPR | Principal Research Fellow & Head of Health
+- [ ] https://www.ippr.org/jobs/director-of-policy-and-politics | IPPR | Director of Policy and Politics
+
 ## Procesadas
