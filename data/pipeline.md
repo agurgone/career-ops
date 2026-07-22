@@ -386,4 +386,29 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://www.ippr.org/jobs/principal-research-fellow-health-policy | IPPR | Principal Research Fellow & Head of Health
 - [ ] https://www.ippr.org/jobs/director-of-policy-and-politics | IPPR | Director of Policy and Politics
 
+### Hedge Funds & Asset Managers — Chunk 3 refresh (2026-07-22)
+- [ ] https://job-boards.greenhouse.io/bridgewater89/jobs/8007466002 | Bridgewater | Macroeconomic Research Associate
+- [ ] https://job-boards.greenhouse.io/bridgewater89/jobs/8419108002 | Bridgewater | Research Associate, Quantitative Developer
+- [ ] https://job-boards.greenhouse.io/bridgewater89/jobs/8463805002 | Bridgewater | Investment Associate
+- [ ] https://careers.aqr.com/jobs/research/greenwich-connecticut-united-states/researcher-discretionary-macro-/2715686 | AQR | Researcher – Discretionary Macro
+- [ ] https://careers.blackrock.com/job/new-york/quantitative-investment-researcher-blackrock-investment-institute-vice-president/45831/93763593040 | BlackRock | Quantitative Investment Researcher, BII, VP
+- [ ] https://careers.blackrock.com/job/new-york/quantitative-modeler-associate/45831/79182164768 | BlackRock | Quantitative Modeler, Associate
+- [ ] https://careers.blackrock.com/job/new-york/associate-blackrock-investment-institute-portfolio-researcher/45831/84171444272 | BlackRock | Associate, BII Portfolio Researcher
+- [ ] https://job-boards.greenhouse.io/point72/jobs/8408286002 | Point72 | Quantitative Strategist, Macro Technology
+- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4882441101 | Man Group | Quantitative Researcher – AI/ML
+- [ ] https://career.mlp.com/careers/job/755930336287-portfolio-manager-senior-quantitative-researcher-systematic-equities-london-london-united-kingdom | Millennium | PM/Senior Quantitative Researcher, Systematic Equities (London)
+- [ ] https://career.mlp.com/careers/job/755954362828-quantitative-researcher-systematic-equities-london-united-kingdom | Millennium | Quantitative Researcher, Systematic Equities (London)
+- [ ] https://job-boards.greenhouse.io/exoduspoint/jobs/8060596002 | ExodusPoint | Junior Quantitative Researcher (London)
+- [ ] https://careers.twosigma.com/careers/JobDetail/New-York-Ny-United-States-Quantitative-Researcher-ETFs-and-Passive-Flows/13767 | Two Sigma | Quantitative Researcher – ETFs and Passive Flows
+- [ ] https://www.citadel.com/careers/details/macro-equity-vol-desk-analyst/ | Citadel | Macro Equity Vol Desk Analyst
+- [ ] https://www.deshaw.com/careers/fundamental-research-analyst-5255 | D.E. Shaw | Fundamental Research Analyst
+- [ ] https://www.qube-rt.com/careers/research-and-trading/london/experienced-candidates/research/job?gh_jid=6546880002 | Qube R&T | Quantitative Researcher – Portfolio Allocation Manager (London)
+- [ ] https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/4104490002 | Qube R&T | Quantitative Researcher – Experienced (Paris)
+- [ ] https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/7902894002 | Qube R&T | Quantitative Researcher – Macro (Mumbai)
+- [ ] https://jobs.amundi.com/job/job-quantitative-portfolio-manager-m-w-d-multi-asset-m-w-d_113001.aspx | Amundi | Quantitative Portfolio Manager – Multi Asset (Munich)
+- [ ] https://jobs.amundi.com/offre-de-emploi/emploi-quantitative-analyst-fixed-income_98449.aspx | Amundi | Quantitative Analyst – Fixed Income (Paris)
+- [ ] https://www.theladders.com/job/alpha-capture-quantitative-researcher-new-york-balyasnyassetmanagement-new-york-ny_83643382 | Balyasny | Quantitative Researcher – Alpha Capture (New York)
+- [ ] https://www.theladders.com/job/quantitative-researcher-multi-asset-arbitrage-balyasnyassetmanagement-new-york-ny_86747624 | Balyasny | Quantitative Researcher – Multi-Asset Arbitrage (New York)
+- [ ] https://www.theladders.com/job/quantitative-researcher-systematic-equities-new-york-balyasnyassetmanagement-new-york-ny_81768668 | Balyasny | Quantitative Researcher – Systematic Equities (New York)
+
 ## Procesadas
