@@ -411,4 +411,42 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://www.theladders.com/job/quantitative-researcher-multi-asset-arbitrage-balyasnyassetmanagement-new-york-ny_86747624 | Balyasny | Quantitative Researcher – Multi-Asset Arbitrage (New York)
 - [ ] https://www.theladders.com/job/quantitative-researcher-systematic-equities-new-york-balyasnyassetmanagement-new-york-ny_81768668 | Balyasny | Quantitative Researcher – Systematic Equities (New York)
 
+### Banks, Data, Tech & Fintech — Chunk 4 refresh (2026-07-23)
+- [ ] https://higher.gs.com/roles/155541 | Goldman Sachs | Quantitative Strategist, GSET
+- [ ] https://www.drw.com/work-at-drw/listings/macro-analyst-event-driven-3320026 | DRW | Macro Analyst - Event Driven
+- [ ] https://optiver.com/working-at-optiver/career-opportunities/8440604002/ | Optiver | Quantitative Trader/Researcher – Systematic Options Trading
+- [ ] https://block.xyz/careers/jobs/5026639008 | Block (Square) | Principal Market & Quant Researcher, Bitcoin
+- [ ] https://careers.statestreet.com/global/en/job/STSTGLOBALR772475EXTERNALENGLOBAL/Senior-Quantitative-Economic-Modeler-Officer | State Street | Senior Quantitative Economic Modeler
+- [ ] https://careers.statestreet.com/global/en/job/STSTGLOBALR770596EXTERNALENGLOBAL/Chief-Macro-Policy-Strategist-Managing-Director | State Street | Chief Macro Policy Strategist
+- [ ] https://careers.statestreet.com/global/en/job/STSTGLOBALR764218EXTERNALENGLOBAL/Quantitative-Researcher-Portfolio-Solutions-Officer-State-Street-Global-Advisors | State Street | Quantitative Researcher – Portfolio Solutions
+- [ ] https://careers.statestreet.com/global/en/job/STSTGLOBALR766659EXTERNALENGLOBAL/Quantitative-Research-Analyst-Systematic-Equity-State-Street-Global-Advisors-AVP | State Street | Quantitative Research Analyst, Systematic Equity
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4934439008 | Anthropic | Economist, Policy
+- [ ] https://openai.com/careers/economist-san-francisco/ | OpenAI | Economist
+- [ ] https://www.amazon.jobs/en/jobs/10468079/senior-economist-amazon-stores-economics-and-science-seas | Amazon | Senior Economist, Amazon Stores Economics and Science (SEAS)
+- [ ] https://www.amazon.jobs/en/jobs/1692950/principal-economist | Amazon | Principal Economist
+- [ ] https://www.amazon.jobs/en/jobs/10426946/senior-economist | Amazon | Senior Economist
+- [ ] https://www.amazon.jobs/en/jobs/10431868/principal-economist-aws-economic-development | Amazon | Principal Economist, AWS Economic Development
+- [ ] https://careers.msci.com/job/research/san-francisco/quantitative-researcher-model-scaling/2026-5140 | MSCI | Quantitative Researcher - Model Scaling
+- [ ] https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Quantitative-Equities-Strategy-Manager-HSBC-Global-Asset-Management/281493 | HSBC | Quantitative Equities Strategy Manager
+- [ ] https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Quantitative-Investment-Strategies-Structurer-Markets/273156 | HSBC | Quantitative Investment Strategies Structurer
+- [ ] https://jobs.citi.com/job/new-york/quantitative-analyst/287/92569427344 | Citigroup | Quantitative Analyst
+- [ ] https://jobs.citi.com/job/new-york/research-strategist/287/73953874368 | Citigroup | Research Strategist
+- [ ] https://careers.nomura.com/Nomura/job/New-York-Portfolio-Strategist-NY-10019/1377144200/ | Nomura | Portfolio Strategist
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=339448 | UBS | Quantitative Analyst
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=343997 | UBS | QIS Quantitative Analyst Director
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=312786 | UBS | G10 FX Strategist
+- [ ] https://www.vanguardjobs.com/job/22940908/senior-portfolio-strategist-malvern-pa/ | Vanguard | Senior Portfolio Strategist
+- [ ] https://jobs.fidelity.com/en/jobs/2123619/quantitative-analyst-multi-asset-systematic-strategies/ | Fidelity | Quantitative Analyst, Multi-Asset Systematic Strategies
+- [ ] https://jobs.fidelity.com/en/jobs/2128252/quantitative-investment-analyst/ | Fidelity | Quantitative Investment Analyst
+- [ ] https://jobs.fidelity.com/en/jobs/2132163/quantitative-analyst/ | Fidelity | Quantitative Analyst
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Economics-Data-Scientist/19933 | Bloomberg | Bloomberg Economics Data Scientist
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Team-Leader-Macro-Economics-Data/16924 | Bloomberg | Team Leader - Macro Economics Data
+- [ ] https://careers.ice.com/jobs/9973?lang=en-us | ICE Data Services | Lead Quantitative Analyst
+- [ ] https://careers.ice.com/jobs/11499?lang=en-us | ICE Data Services | Quantitative Analyst
+- [ ] https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/Senior-Quantitative-Researcher--Structured-Products-_R25637 | FactSet | Senior Quantitative Researcher, Structured Products
+- [ ] https://careers.morningstar.com/us/en/job/REQ-055988/Portfolio-Manager-Senior-Quantitative-Researcher | Morningstar | Portfolio Manager & Senior Quantitative Researcher
+- [ ] https://careers.morningstar.com/us/en/job/REQ-056226/Senior-Quantitative-Analyst | Morningstar | Senior Quantitative Analyst
+- [ ] https://group.bnpparibas/en/careers/job-offer/risk-esg-senior-quantitative-analyst | BNP Paribas | Senior Quantitative Analyst (Risk & ESG)
+- [ ] https://www.janestreet.com/join-jane-street/position/4794171002/ | Jane Street | Quantitative Trader
+
 ## Procesadas
