@@ -450,3 +450,13 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://www.janestreet.com/join-jane-street/position/4794171002/ | Jane Street | Quantitative Trader
 
 ## Procesadas
+
+### Macro Advisory & Think Tanks — Chunk 2 scan (2026-07-28)
+
+- [ ] https://careers.oxfordeconomics.com/postings/72d25903-a8c2-4497-b0fa-69453a5fcdff | Oxford Economics | Senior Economist, Tourism Economics - Americas
+- [ ] https://frontiereconomics.wd3.myworkdayjobs.com/en-US/Frontier_Economics_Careers/job/Economic-Consultant--Competition---Energy-_JR10072 | Frontier Economics | Economic Consultant (Pool) - Competition & Energy
+- [ ] https://frontiereconomics.wd3.myworkdayjobs.com/en-US/Frontier_Economics_Careers/job/Economist_JR10009 | Frontier Economics | Economist - Speculative Applications Pool
+- [ ] https://apply.workable.com/capital-economics/j/A1238CCD1B | Capital Economics | North America Economist
+- [ ] https://www.resolutionfoundation.org/about-us/opportunities/research-director/ | Resolution Foundation | Research Director
+- [ ] https://www.bruegel.org/careers/energy-and-climate-economist | Bruegel | Energy and Climate Economist
+- [ ] https://spe.org.uk/careers/jobs/senior-economist-4/ | Society of Professional Economists | Senior Economist (OMFIF)
