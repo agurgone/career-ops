@@ -460,3 +460,43 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://www.resolutionfoundation.org/about-us/opportunities/research-director/ | Resolution Foundation | Research Director
 - [ ] https://www.bruegel.org/careers/energy-and-climate-economist | Bruegel | Energy and Climate Economist
 - [ ] https://spe.org.uk/careers/jobs/senior-economist-4/ | Society of Professional Economists | Senior Economist (OMFIF)
+
+### Banks, Data, Tech & Fintech — Chunk 4 refresh (2026-07-30)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5149802008 | Anthropic | Transformative AI Research Economist, Economic Research
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5232055008 | Anthropic | Data Scientist, Policy
+- [ ] https://careers.google.com/jobs/results/92768759820755654-competition-economist/ | Google | Competition Economist
+- [ ] https://www.amazon.jobs/en/jobs/10427279/senior-economist | Amazon | Senior Economist
+- [ ] https://www.amazon.jobs/en/jobs/10457261/principal-economist-stores-economics-and-science | Amazon | Principal Economist, Stores Economics and Science
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Economics-UK-Economist/12522 | Bloomberg | UK Economist
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Quant-Researcher-Agentic-AI-CTO-Office/18880 | Bloomberg | Quant Researcher, Agentic AI CTO Office
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Senior-Quantitative-Analyst-Interest-Rate-Modeling-Risk-Analytics/13711 | Bloomberg | Senior Quantitative Analyst – Interest Rate Modeling & Risk Analytics
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Equity-Index-Quantitative-Researcher/19854 | Bloomberg | Equity Index Quantitative Researcher
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Economics-Geoeconomics-Climate-Economist/10097 | Bloomberg | Climate Economist / Econometrician (Geoeconomics)
+- [ ] https://jobs.citi.com/job/new-york/research-strategist/287/77319213040 | Citigroup | Research Strategist
+- [ ] https://jobs.citi.com/job/new-york/quantitative-analyst-avp/287/79561409024 | Citigroup | Quantitative Analyst, AVP
+- [ ] https://jobs.citi.com/job/london/junior-research-equity-strategist/287/98220945056 | Citigroup | Junior Research Equity Strategist
+- [ ] https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Senior-Economist-Global-Risk/216508 | HSBC | Senior Economist – Global Risk
+- [ ] https://www.janestreet.com/join-jane-street/position/4808264002/ | Jane Street | Quantitative Researcher
+- [ ] https://www.drw.com/work-at-drw/listings/quantitative-researcher-3481214 | DRW | Quantitative Researcher
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=327278 | UBS | Quantitative Analyst
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=343919 | UBS | Quantitative Analyst - QIS
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=317873 | UBS | Quantitative Analyst
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=328192 | UBS | Quant Analyst, Corporate & Wholesale Credit Risk Scenario Models
+- [ ] https://careers.nomura.com/Nomura/job/New-York-US-Economic-Research-Analyst-NY-10019/1400789000/ | Nomura | US Economic Research Analyst
+- [ ] https://careers.nomura.com/Nomura/job/Philadelphia-Associate,-Senior-Quantitative-Analyst-PA-19106/1348533000/ | Nomura | Associate, Senior Quantitative Analyst
+- [ ] https://careers.nomura.com/Nomura/job/Philadelphia-Head-of-FI-Risk-and-Quantitative-Research-PA-19106/1362146500/ | Nomura | Head of FI Risk and Quantitative Research
+- [ ] https://group.bnpparibas/en/careers/job-offer/vice-president-quantitative-research-1 | BNP Paribas | VP, Quantitative Research
+- [ ] https://group.bnpparibas/en/careers/job-offer/analyst-associate-equity-flow-strategist | BNP Paribas | Analyst/Associate – Equity Flow Strategist
+- [ ] https://careers.statestreet.com/global/en/job/STSTGLOBALR793399EXTERNALENGLOBAL/Machine-Learning-Quantitative-Research-Analyst | State Street | Machine Learning Quantitative Research Analyst
+- [ ] https://careers.statestreet.com/global/en/job/STSTGLOBALR784329EXTERNALENGLOBAL/Quantitative-Research-a-k-a-Researcher | State Street | Quantitative Research (Researcher)
+- [ ] https://careers.msci.com/job/research/budapest/quantitative-researcher-financial-engineer/2024-1721 | MSCI | Quantitative Researcher - Financial Engineer (Budapest)
+- [ ] https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/Senior-Quantitative-Researcher---Equity-Risk_R23657 | FactSet | Senior Quantitative Researcher - Equity Risk
+- [ ] https://careers.morningstar.com/us/en/job/REQ-052541/Quantitative-Analyst | Morningstar | Quantitative Analyst
+- [ ] https://careers.morningstar.com/us/en/job/REQ-049652/Lead-Quantitative-Analyst | Morningstar | Lead Quantitative Analyst
+- [ ] https://www.vanguardjobs.com/job/23415922/us-economist-malvern-pa/ | Vanguard | US Economist
+- [ ] https://jobs.fidelity.com/en/jobs/2125214/quantitative-researcher-portfolio-optimization/ | Fidelity | Quantitative Researcher, Portfolio Optimization
+- [ ] https://careers.societegenerale.com/en/job-offers/desk-head-quantitative-advisor-260008UB-en | Société Générale | Desk Head Quantitative Advisor
+- [ ] https://careers.ice.com/jobs/12154?lang=en-us | ICE Data Services | Analyst, Quantitative Research (London)
+- [ ] https://openai.com/careers/quantitative-intelligence-analyst-san-francisco/ | OpenAI | Quantitative Intelligence Analyst
+- [ ] https://www.optiver.com/join-us/jobs/institutional-sales-and-trading/chicago/macro-analyst/ | Optiver | Macro Analyst
