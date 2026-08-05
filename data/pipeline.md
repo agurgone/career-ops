@@ -500,3 +500,17 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://careers.ice.com/jobs/12154?lang=en-us | ICE Data Services | Analyst, Quantitative Research (London)
 - [ ] https://openai.com/careers/quantitative-intelligence-analyst-san-francisco/ | OpenAI | Quantitative Intelligence Analyst
 - [ ] https://www.optiver.com/join-us/jobs/institutional-sales-and-trading/chicago/macro-analyst/ | Optiver | Macro Analyst
+
+### Hedge Funds & Asset Managers — Chunk 3 refresh (2026-08-05)
+- [ ] https://job-boards.greenhouse.io/point72/jobs/7297625002 | Point72 | Quantitative Researcher - Systematic Credit
+- [ ] https://boards.greenhouse.io/exoduspoint/jobs/6988611002 | ExodusPoint | Junior Quantitative Modeler
+- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4866654101 | Man Group | Quantitative Researcher - Discretionary
+- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4890008101 | Man Group | Quantitative Portfolio Implementation Analyst
+- [ ] https://career.mlp.com/careers/job/755956179163 | Millennium | Quantitative Researcher
+- [ ] https://wd3.myworkdaysite.com/en-US/recruiting/brevanhoward/BH_ExternalCareers/job/London-82/Quant-Analyst---Rates_JR100513 | Brevan Howard | Quant Analyst - Rates
+- [ ] https://wd3.myworkdaysite.com/en-US/recruiting/brevanhoward/BH_ExternalCareers/job/London-82/Quantitative-Analyst_JR100995 | Brevan Howard | Quantitative Analyst
+- [ ] https://careers.blackrock.com/job/san-francisco/associate-quantitative-research/45831/91108048384 | BlackRock | Associate, Quantitative Research (San Francisco)
+- [ ] https://schroders.referrals.selectminds.com/careers/jobs/quantitative-portfolio-manager-8167 | Schroders | Quantitative Portfolio Manager
+- [ ] https://boards.greenhouse.io/winton/jobs/4026099101 | Winton | Equities Quantitative Researcher (Alpha Capture)
+- [ ] https://job-boards.greenhouse.io/bridgewater89/jobs/8632073002 | Bridgewater | Commodities Research Associate
+- [ ] https://apply.workable.com/caxton/j/6121E9AA35/ | Caxton | Global Macro Portfolio Manager
