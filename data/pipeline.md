@@ -514,3 +514,13 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://boards.greenhouse.io/winton/jobs/4026099101 | Winton | Equities Quantitative Researcher (Alpha Capture)
 - [ ] https://job-boards.greenhouse.io/bridgewater89/jobs/8632073002 | Bridgewater | Commodities Research Associate
 - [ ] https://apply.workable.com/caxton/j/6121E9AA35/ | Caxton | Global Macro Portfolio Manager
+
+### Hedge Funds & Asset Managers — Chunk 3 refresh (2026-08-12)
+- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4724414101 | Man Group | Senior Quantitative Researcher - Macro
+- [ ] https://boards.greenhouse.io/bridgewater89/jobs/6863882002 | Bridgewater | Research Associate, Quantitative Equities
+- [ ] https://careers.blackrock.com/job/london/associate-quantitative-researcher-systematic-active-equity/45831/99017512480 | BlackRock | Associate, Quantitative Researcher - Systematic Active Equity (London)
+- [ ] https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Systematic-Macro-Portfolio-Management/13975 | Two Sigma | Quantitative Researcher - Systematic Macro Portfolio Management
+- [ ] https://www.deshaw.com/careers/macro-trader-5914 | D.E. Shaw | Macro Trader
+- [ ] https://www.qube-rt.com/careers/job?gh_jid=6486059002 | QRT | Quantitative Researcher, Equity Mid-High Frequency
+- [ ] https://schroders.referrals.selectminds.com/careers/jobs/quantitative-analyst-4665 | Schroders | Quantitative Analyst
+- [ ] https://schroders.referrals.selectminds.com/careers/jobs/solutions-strategist-7808 | Schroders | Solutions Strategist
