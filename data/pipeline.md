@@ -524,3 +524,46 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://www.qube-rt.com/careers/job?gh_jid=6486059002 | QRT | Quantitative Researcher, Equity Mid-High Frequency
 - [ ] https://schroders.referrals.selectminds.com/careers/jobs/quantitative-analyst-4665 | Schroders | Quantitative Analyst
 - [ ] https://schroders.referrals.selectminds.com/careers/jobs/solutions-strategist-7808 | Schroders | Solutions Strategist
+
+### Banks, Data, Tech & Fintech — Chunk 4 refresh (2026-08-13)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5103788008 | Anthropic | Research Scientist, Frontier Red Team (Emerging Risks)
+- [ ] https://higher.gs.com/roles/159288 | Goldman Sachs | Global Macro Research, Economics, PhD Fellowship (London)
+- [ ] https://openai.com/careers/applied-data-scientist-unit-economics-understanding-san-francisco/ | OpenAI | Applied Data Scientist, Unit Economics Understanding
+- [ ] https://group.bnpparibas/en/careers/job-offer/macro-quant-analyst-1 | BNP Paribas | Macro Quant Analyst
+- [ ] https://group.bnpparibas/en/careers/job-offer/quantitative-analyst-gmqr-prime-strategist | BNP Paribas | Quantitative Analyst - GMQR Prime Strategist
+- [ ] https://group.bnpparibas/en/careers/job-offer/mexico-economist-temporary-role-up-to-12-months | BNP Paribas | Mexico Economist (Temporary 12 months)
+- [ ] https://jobs.citi.com/job/new-york/global-macro-research-strategist-vp-ny/287/78567765072 | Citigroup | Global Macro Research Strategist (VP), NY
+- [ ] https://careers.nomura.com/Nomura/job/London-Credit-Quantitative-Research-AssociateVice-President-Lond-EC4R-3AB/1410899300/ | Nomura | Credit Quantitative Research - Associate/VP (London)
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=345451&codes=IINDD | UBS | US Rates Strategist
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=348712 | UBS | Algorithmic Trading - Quantitative Analyst
+- [ ] https://search.jobs.barclays/job/london/quantitative-strategist-carbon-and-environmental-products/13015/89658084240 | Barclays | Quantitative Strategist - Carbon & Environmental Products (London)
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Intelligence-US-Equity-Strategist/18197 | Bloomberg | US Equity Strategist
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Equity-Index-Quantitative-Researcher/19778 | Bloomberg | Equity Index Quantitative Researcher
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Intelligence-Developed-Asia-Rates-Market-Strategist-Japan/14532 | Bloomberg | Developed Asia Rates Market Strategist (Japan)
+- [ ] https://careers.moodys.com/associate-economist-2/job/13223 | Moody's Analytics | Associate Economist 2
+- [ ] https://careers.moodys.com/job/19374213/economist-e1-economic-research-edinburgh-gb/ | Moody's Analytics | Economist E1 - Economic Research (Edinburgh)
+- [ ] https://careers.moodys.com/assc-dir-senior-economist/job/29096892 | Moody's Analytics | Associate Director - Senior Economist (Remote)
+- [ ] https://globalcareers-msci.icims.com/jobs/5008/quantitative-researcher/job | MSCI | Quantitative Researcher (Budapest)
+- [ ] https://globalcareers-msci.icims.com/jobs/4287/quantitative-researcher---factor-model/job | MSCI | Quantitative Researcher - Factor Model (Mexico City)
+- [ ] https://careers.ice.com/jobs/13315?lang=en-us | ICE Data Services | Quantitative Analyst, Quantitative Research (Atlanta)
+- [ ] https://careers.ice.com/jobs/4739?lang=en-us | ICE Data Services | Senior Analyst, Global Quantitative Research (Atlanta)
+- [ ] https://careers.ice.com/jobs/11201?lang=en-us | ICE Data Services | Analyst, Quantitative Research (Atlanta)
+- [ ] https://careers.ice.com/jobs/13107?lang=en-us | ICE Data Services | Analyst, Quantitative Research (Hyderabad)
+- [ ] https://careers.ice.com/jobs/13447?lang=en-us | ICE Data Services | Data Scientist, Global Quantitative Research (Atlanta)
+- [ ] https://careers.statestreet.com/global/en/job/STSTGLOBALR790888EXTERNALENGLOBAL/Quantitative-Analyst-Assistant-Vice-President | State Street | Quantitative Analyst, AVP (Boston)
+- [ ] https://careers.statestreet.com/global/en/job/STSTGLOBALR790823EXTERNALENGLOBAL/eFX-Quantitative-Analyst-AVP-Global-Markets | State Street | eFX Quantitative Analyst, AVP (Boston)
+- [ ] https://careers.statestreet.com/global/en/job/R-792319/Macro-Strategy-Analyst-Assistant-Vice-President | State Street | Macro Strategy Analyst, AVP (London)
+- [ ] https://careers.statestreet.com/global/en/job/STSTGLOBALR792775EXTERNALENGLOBAL/Senior-Equity-Strategist-Vice-President | State Street | Senior Equity Strategist, VP (London)
+- [ ] https://careers.statestreet.com/global/en/job/STSTGLOBALR791161EXTERNALENGLOBAL/Quantitative-Risk-Analyst-Model-Risk-Management-Assistant-Vice-President | State Street | Quantitative Risk Analyst, Model Risk Mgmt (Boston)
+- [ ] https://careers.statestreet.com/global/en/job/STSTGLOBALR782637EXTERNALENGLOBAL/Quantitative-Analyst-Officer | State Street | Quantitative Analyst, Officer (Krakow)
+- [ ] https://jobs.fidelity.com/en/jobs/2122513/quantitative-equity-research-analyst/ | Fidelity | Quantitative Equity Research Analyst (Boston)
+- [ ] https://jobs.fidelity.com/en/jobs/2126917/senior-manager-portfolio-strategist/ | Fidelity | Senior Manager, Portfolio Strategist (TX/RI)
+- [ ] https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/Lead-Quantitative-Researcher---Alternatives-Risk_R26472 | FactSet | Lead Quantitative Researcher - Alternatives Risk
+- [ ] https://careers.morningstar.com/us/en/job/REQ-053563/Associate-Quantitative-Analyst | Morningstar | Associate Quantitative Analyst (Navi Mumbai)
+- [ ] https://careers.morningstar.com/us/en/job/REQ-055393/Analyst-Quant-Structured-Finance-Analytics-Mathematical-Modelling | Morningstar | Analyst, Quant, Structured Finance Analytics (Madrid)
+- [ ] https://www.vanguardjobs.com/job/23359725/multi-asset-investment-product-strategist-malvern-pa/ | Vanguard | Multi-Asset Investment Product Strategist (Malvern PA)
+- [ ] https://www.vanguardjobs.com/job/23570861/quantitative-mbs-research-analyst-malvern-pa/ | Vanguard | Quantitative MBS Research Analyst (Malvern PA)
+- [ ] https://www.vanguardjobs.com/job/23569429/equity-product-strategist-malvern-pa/ | Vanguard | Equity Product Strategist (Malvern PA)
+- [ ] https://www.amazon.jobs/en/jobs/2964046/senior-economist | Amazon | Senior Economist
+- [ ] https://careers.google.com/jobs/results/133103531564376774-senior-economist/ | Google | Senior Economist, Economic Impact Estimation
+- [ ] https://www.metacareers.com/profile/job_details/1016147127616653/ | Meta | Research Scientist, Demography and Survey Sciences
