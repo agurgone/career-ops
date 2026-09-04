@@ -567,3 +567,14 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://www.amazon.jobs/en/jobs/2964046/senior-economist | Amazon | Senior Economist
 - [ ] https://careers.google.com/jobs/results/133103531564376774-senior-economist/ | Google | Senior Economist, Economic Impact Estimation
 - [ ] https://www.metacareers.com/profile/job_details/1016147127616653/ | Meta | Research Scientist, Demography and Survey Sciences
+
+### Hedge Funds & Asset Managers — Chunk 3 refresh (2026-09-04)
+- [ ] https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher-trading-research&jobCode=CSS-0010080 | Point72 | Quantitative Researcher, Trading Research
+- [ ] https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher-machine-learning&jobCode=CSS-0013280 | Point72 | Quantitative Researcher – Machine Learning
+- [ ] https://boards.greenhouse.io/bridgewater89/jobs/5921864002 | Bridgewater | Quantitative Research Associate – Sustainable Investing
+- [ ] https://boards.greenhouse.io/bridgewater89/jobs/5719909002 | Bridgewater | Macro Equity Research Associate
+- [ ] https://boards.greenhouse.io/bridgewater89/jobs/5725475002 | Bridgewater | Quantitative Equities Research Associate
+- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4549637101 | Man Group | Quantitative Researcher – Specialist Strategies (Hong Kong)
+- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4682351101 | Man Group | Quantitative Researcher (verify title)
+- [ ] https://job-boards.greenhouse.io/worldquant/jobs/4673030006 | WorldQuant | Quantitative Researcher, Quant Macro
+- [ ] https://schroders.referrals.selectminds.com/careers/jobs/quantitative-analyst-5678 | Schroders | Quantitative Analyst
