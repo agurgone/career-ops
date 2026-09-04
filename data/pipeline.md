@@ -578,3 +578,10 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4682351101 | Man Group | Quantitative Researcher (verify title)
 - [ ] https://job-boards.greenhouse.io/worldquant/jobs/4673030006 | WorldQuant | Quantitative Researcher, Quant Macro
 - [ ] https://schroders.referrals.selectminds.com/careers/jobs/quantitative-analyst-5678 | Schroders | Quantitative Analyst
+
+### Macro Advisory & Think Tanks — Chunk 2 (2026-09-04)
+- [ ] https://careers.oxfordeconomics.com/postings/e5c6722d-81c8-4349-9412-27341eefaf0a | Oxford Economics | Economist - Scenarios & Macro Modelling (London / Oxford)
+- [ ] https://careers.oxfordeconomics.com/postings/7a335963-ac62-4347-bcb5-105ee4303fe6 | Oxford Economics | Sr. Economist / Data Scientist - Economic Impact (London)
+- [ ] https://careers.oxfordeconomics.com/postings/eb3bd47a-c6d6-4fba-a043-99f4dd6deae8 | Oxford Economics | Economist - Product Development - Tourism Economics (London)
+- [ ] https://careers.oxfordeconomics.com/jobs/243636 | Oxford Economics | Senior Economist - Tourism Economics (Americas / Philadelphia)
+- [ ] https://careers.oxfordeconomics.com/postings/5a2c302e-f172-4a06-a93e-addbf94b01d3 | Oxford Economics | Senior Economist – EMEA Consulting - Tourism Economics (Dubai)
