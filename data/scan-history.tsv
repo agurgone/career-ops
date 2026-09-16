@@ -561,3 +561,4 @@ https://careers.oxfordeconomics.com/postings/5a2c302e-f172-4a06-a93e-addbf94b01d
 SCAN_FAILED	2026-09-07	chunk1-central-banks-sep07	EGRESS_BLOCKED	all-companies	failed
 SCAN_FAILED\t2026-09-08\tchunk2-macro-advisory-think-tanks-sep08\tEGRESS_BLOCKED\tall-companies\tfailed
 SCAN_FAILED	2026-09-15	chunk2-macro-advisory-think-tanks-sep15	EGRESS_BLOCKED	all-companies	failed
+SCAN_FAILED	2026-09-16	chunk3-hedge-funds-asset-managers-sep16	EGRESS_BLOCKED	all-companies	failed
