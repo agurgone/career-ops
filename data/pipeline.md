@@ -585,3 +585,23 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://careers.oxfordeconomics.com/postings/eb3bd47a-c6d6-4fba-a043-99f4dd6deae8 | Oxford Economics | Economist - Product Development - Tourism Economics (London)
 - [ ] https://careers.oxfordeconomics.com/jobs/243636 | Oxford Economics | Senior Economist - Tourism Economics (Americas / Philadelphia)
 - [ ] https://careers.oxfordeconomics.com/postings/5a2c302e-f172-4a06-a93e-addbf94b01d3 | Oxford Economics | Senior Economist – EMEA Consulting - Tourism Economics (Dubai)
+
+### Banks, Data, Tech & Fintech — Chunk 4 refresh (2026-09-17)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5154112008 | Anthropic | Research Operations, Economic Research
+- [ ] https://www.amazon.jobs/en/jobs/10427276/senior-economist | Amazon | Senior Economist
+- [ ] https://www.amazon.jobs/en/jobs/10427265/economist-ii | Amazon | Economist II
+- [ ] https://www.amazon.jobs/en/jobs/10510781/principal-economist-fulfillment-by-amazon | Amazon | Principal Economist, Fulfillment by Amazon
+- [ ] https://jobs.citi.com/job/london/equity-quantitative-research-analyst-vice-president/287/99664786960 | Citigroup | Equity Quantitative Research Analyst VP (London)
+- [ ] https://jobs.citi.com/job/new-york/gsmg-research-senior-associate-global-macro-strategy/287/99436923888 | Citigroup | GSMG Research Senior Associate – Global Macro Strategy
+- [ ] https://jobs.citi.com/job/new-york/gsmg-research-senior-associate-global-macro-quantitative-research/287/99436923840 | Citigroup | GSMG Research Senior Associate – Global Macro Quantitative Research
+- [ ] https://jobs.citi.com/job/new-york/emerging-markets-fx-and-rates-research-strategist-latam-senior-associate/287/99751153904 | Citigroup | EM FX & Rates Research Strategist LATAM, Senior Associate
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Economics-US-Senior-Economist/16197 | Bloomberg | US Senior Economist
+- [ ] https://careers.ice.com/jobs/13168?lang=en-us | ICE Data Services | Analyst, Global Quantitative Research (London)
+- [ ] https://www.vanguardjobs.com/job/23387237/senior-quantitative-credit-strategist-malvern-pa/ | Vanguard | Senior Quantitative Credit Strategist
+- [ ] https://jobs.fidelity.com/en/jobs/2131918/quantitative-portfolio-analyst-portfolio-engineering/ | Fidelity | Quantitative Portfolio Analyst, Portfolio Engineering
+- [ ] https://careers.msci.com/job/research/norman/associate-financial-engineering-research-and-development/2026-5846 | MSCI | Associate, Financial Engineering, Research & Development
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=340560 | UBS | Macro Desk Strategist
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=327034 | UBS | Research – Economics & Strategy, Global Cross Assets
+- [ ] https://www.janestreet.com/join-jane-street/position/8573726002/ | Jane Street | Quantitative Researcher
+- [ ] https://higher.gs.com/roles/180084 | Goldman Sachs | GIR US Economics Research Associate
+- [ ] https://apply.careers.hsbc.com/job/Central-Associate-Director,-Global-FX-Strategist-Hong/1347686357/ | HSBC | Associate Director, Global FX Strategist (Hong Kong)
