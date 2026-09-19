@@ -605,3 +605,11 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://www.janestreet.com/join-jane-street/position/8573726002/ | Jane Street | Quantitative Researcher
 - [ ] https://higher.gs.com/roles/180084 | Goldman Sachs | GIR US Economics Research Associate
 - [ ] https://apply.careers.hsbc.com/job/Central-Associate-Director,-Global-FX-Strategist-Hong/1347686357/ | HSBC | Associate Director, Global FX Strategist (Hong Kong)
+
+### Macro Advisory & Think Tanks — Chunk 2 (2026-09-19)
+- [ ] https://careers.oxfordeconomics.com/postings/396ca8e0-6dea-4d25-ac54-078f17af1577 | Oxford Economics | Lead Economist - US Construction and Infrastructure (Philadelphia)
+- [ ] https://careers.chathamhouse.org/jobs/8389579-research-fellow-west-africa-africa-programme | Chatham House | Research Fellow (West Africa) - Africa Programme ⚠️ deadline Sep 29
+- [ ] https://www.ippr.org/job/research-fellow-economist-centre-for-economic-justice | IPPR | Research Fellow/Economist - Centre for Economic Justice
+- [ ] https://app.beapplied.com/apply/cgoihiahf3 | Resolution Foundation | Senior Economist - Net Zero
+- [ ] https://app.beapplied.com/apply/ejs5bakqcm | Resolution Foundation | Economist/Research and Policy Analyst
+- [ ] https://uk.linkedin.com/jobs/view/economist-senior-economist-at-cambridge-econometrics-4263103037 | Cambridge Econometrics | Economist / Senior Economist
