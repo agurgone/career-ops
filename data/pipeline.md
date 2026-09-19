@@ -613,3 +613,25 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://app.beapplied.com/apply/cgoihiahf3 | Resolution Foundation | Senior Economist - Net Zero
 - [ ] https://app.beapplied.com/apply/ejs5bakqcm | Resolution Foundation | Economist/Research and Policy Analyst
 - [ ] https://uk.linkedin.com/jobs/view/economist-senior-economist-at-cambridge-econometrics-4263103037 | Cambridge Econometrics | Economist / Senior Economist
+
+### Banks, Data, Tech & Fintech — Chunk 4 refresh (2026-09-19)
+- [ ] https://higher.gs.com/roles/159268 | Goldman Sachs | Global Macro Research, Economics — PhD Fellowship (NY)
+- [ ] https://group.bnpparibas/en/careers/job-offer/quantitative-analyst-gmqr-quant-strategists | BNP Paribas | Quantitative Analyst - GMQR Quant Strategists
+- [ ] https://group.bnpparibas/en/careers/job-offer/macro-quant-analyst-2 | BNP Paribas | Macro Quant Analyst
+- [ ] https://group.bnpparibas/en/careers/job-offer/quantitative-analyst-4 | BNP Paribas | Quantitative Analyst
+- [ ] https://group.bnpparibas/en/careers/job-offer/associate-quantitative-analyst-ir-options | BNP Paribas | Associate Quantitative Analyst - IR Options
+- [ ] https://group.bnpparibas/en/careers/job-offer/equity-quantitative-analyst | BNP Paribas | Equity Quantitative Analyst
+- [ ] https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Senior-Quantitative-Analyst/175559 | HSBC | Senior Quantitative Analyst
+- [ ] https://jobs.citi.com/job/singapore/research-senior-associate-emerging-markets-economics-assistant-vice-president/287/99487052016 | Citigroup | Research Senior Associate, EM Economics - AVP (Singapore)
+- [ ] https://jobs.citi.com/job/new-york/us-economics-research-senior-associate-avp-new-york-ny/287/81834244672 | Citigroup | US Economics Research Senior Associate, AVP (NY)
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=343945 | UBS | Quantitative Analyst, Agency Algorithmic Trading
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=342483 | UBS | Electronic Trading Quantitative Analyst
+- [ ] https://drw.com/work-at-drw/listings/quantitative-researcher-2581873 | DRW | Quantitative Researcher
+- [ ] https://optiver.com/working-at-optiver/career-opportunities/8455668002/ | Optiver | Quantitative Researcher - SVT
+- [ ] https://careers.nomura.com/Nomura/job/New-York-Research-Analyst,-US-Fixed-Income-NY-10019/1311268700/ | Nomura | Research Analyst, US Fixed Income (NY)
+- [ ] https://careers.nomura.com/Nomura/job/New-York-Securitized-Products-Research-Analyst,-US-Fixed-Income-NY-10019/1403125400/ | Nomura | Securitized Products Research Analyst, US Fixed Income (NY)
+- [ ] https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Macro-Research--d-m-w-_R0407515 | Deutsche Bank | Macro Research
+- [ ] https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Senior-Financial-Economist_175519 | Vanguard | Senior Financial Economist
+- [ ] https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quantitative-Research-Analyst--Officer_R-789457 | State Street | Quantitative Research Analyst, Officer
+- [ ] https://www.amazon.jobs/en/jobs/10482932/economist-stores-economics-and-science | Amazon | Economist, Stores Economics and Science
+- [ ] https://careers.google.com/jobs/results/141603000018707142-senior-economist/ | Google | Senior Economist, Economic Impact Estimation
