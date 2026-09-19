@@ -9,6 +9,25 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 
 ## Pendientes
 
+### Central Banks & Policy — manual local scan, chunk 1 (2026-09-19)
+
+Cloud routine "Scan Chunk 1" has failed 4 consecutive runs due to egress block in the cloud sandbox (career-portal domains return 403 from the proxy). Ran manually in a local interactive session instead — real network access confirmed, all 31 companies fully checked via WebFetch + Playwright (JS-rendered SPAs needed Playwright).
+
+**Confirmed zero relevant postings** (fully verified, not just blocked): BoE (9 open roles, none economist/macro), CBI (3 roles: resilience/supervisor/regulatory panel), Bank of Canada (17 roles, only Senior Economist listed separately below), BIS (2 roles: IT architect, audit manager), FSB (staffed via BIS secretariat, same result), ESRB (staffed via ECB, see ECB result), EU Careers/EPSO (0 economics competitions open, only IT/audit/legal), IMF (3 results for "Economist": Deputy Division Chief — too senior; Research Analyst Program — too junior; Communications Officer — irrelevant), OECD (8 roles, no economist title, you already have an active pooled application there — #151), WTO (1 role: internship only), UN Careers (interface not efficiently scannable — enormous duty-station filter list; historical pattern here is nationality-restricted National Officer posts), EBRD (3 roles: junior Analyst/Associate in unrelated verticals), RBA (0 for "Economist").
+
+**Not fully verified — manual check recommended:** SNB (9 total openings, results table didn't render in this pass), HM Treasury/Civil Service Jobs (blocked by an "I'm not a robot" check — not bypassed), Riksbank/Norges Bank/Bundesbank (confirmed "no vacancies"/internship-only via WebFetch, not re-verified with Playwright).
+
+**New finds — added to pipeline:**
+- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Research-Analyst-ESCB-IO-European-Systemic-Risk-Board-Secretariat/14801 | ECB (ESRB Secretariat) | Research Analyst (ESCB/IO) | Closes 22-Sep-2026 (URGENT — 3 days)
+- [ ] https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Economist-Senior-Economist-Economic-Advisor---Macroeconomics_R-0000033014-2 | Federal Reserve Bank of Chicago | Economist/Senior Economist/Economic Advisor – Macroeconomics
+- [ ] https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Economist-Senior-Economist-Economic-Advisor---Financial-Economics_R-0000033195-1 | Federal Reserve Bank of Chicago | Economist/Senior Economist/Economic Advisor – Financial Economics
+- [ ] https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Principal-Business-Economist-Regional-Policy-Advisor_R-0000032751-1 | Federal Reserve Bank of Chicago | Principal Business Economist/Regional Policy Advisor
+- [ ] /job/Ottawa-%28Downtown%29-Senior-Economist-ON/605890217/ (careers.bankofcanada.ca) | Bank of Canada | Senior Economist | Closes 22-Sep-2026 (URGENT — 3 days)
+- [ ] https://worldbankgroup.csod.com/ux/ats/careersite/1/home/requisition/38298?c=worldbankgroup | World Bank | Economist, Dhaka | Country-office role — verify nationality/local-hire restrictions before evaluating
+- [ ] https://worldbankgroup.csod.com/ux/ats/careersite/1/home/requisition/38312?c=worldbankgroup | World Bank | Economist, Lomé | Country-office role — verify nationality/local-hire restrictions before evaluating
+- [ ] https://bdf.wd103.myworkdayjobs.com/en-US/recrutement-banque-de-France/job/PARIS/Economiste-chercheur-senior--H-F-_JR100415 | Banque de France | Économiste chercheur senior (H/F) | Posting is in French; French not in Andrea's language set (Italian native, English fluent, German/Spanish basic) — verify actual language requirement before evaluating
+- [ ] https://bdf.wd103.myworkdayjobs.com/en-US/recrutement-banque-de-France/job/PARIS/conomiste-statisticien--H-F-_JR100669 | Banque de France | Économiste statisticien (H/F) | Same French-language caveat as above
+
 ### Playwright Nivel 1 scan — 2026-06-12 (22 companies, repaired URLs)
 
 ### Playwright Nivel 1 scan — 2026-06-11 (22 high-priority tracked companies)
