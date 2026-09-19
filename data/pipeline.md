@@ -635,3 +635,22 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 - [ ] https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quantitative-Research-Analyst--Officer_R-789457 | State Street | Quantitative Research Analyst, Officer
 - [ ] https://www.amazon.jobs/en/jobs/10482932/economist-stores-economics-and-science | Amazon | Economist, Stores Economics and Science
 - [ ] https://careers.google.com/jobs/results/141603000018707142-senior-economist/ | Google | Senior Economist, Economic Impact Estimation
+
+### Hedge Funds & Asset Managers — Chunk 3 refresh (2026-09-19)
+- [ ] https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Two-Sigma-Securities/13550 | Two Sigma | Quantitative Researcher, Two Sigma Securities
+- [ ] https://job-boards.greenhouse.io/worldquant/jobs/4372598006 | WorldQuant | Quantitative Researcher, Quant Macro (Taipei)
+- [ ] https://careers.blackrock.com/job/13929384/associate-vice-president-fixed-income-macro-quantitative-pm-researcher-san-francisco-san-francisco-ca/ | BlackRock | Associate/VP Fixed Income Macro Quantitative PM/Researcher (SF)
+- [ ] https://apply.workable.com/caxton/j/01A054D8C3/ | Caxton | Discretionary Macro Portfolio Manager (New York)
+- [ ] https://apply.workable.com/caxton/j/01EC6C5D5F/ | Caxton | Discretionary Macro Portfolio Manager (Dubai)
+- [ ] https://apply.workable.com/caxton/j/FB866FD99F/ | Caxton | Associate PM Programme, EM Macro (NYC)
+- [ ] https://apply.workable.com/caxton/j/C27F858E52/ | Caxton | Associate PM Program, Systematic Strategies
+- [ ] https://apply.workable.com/caxton/j/662FE1FB8B/ | Caxton | Associate PM Program (Singapore)
+- [ ] https://apply.workable.com/caxton/j/8B8041EE9F/ | Caxton | Associate PM Program (Dubai)
+- [ ] https://apply.workable.com/caxton/j/36FF1FBBA4/ | Caxton | Associate PM Program (NY)
+- [ ] https://apply.workable.com/caxton/j/845E6B3A88/ | Caxton | Portfolio Manager (New York)
+- [ ] https://job-boards.greenhouse.io/winton/jobs/4026232101 | Winton | Commodity Fundamentals Portfolio Manager
+- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4724413101 | Man Group | Quantitative Researcher [role TBC]
+- [ ] https://job-boards.greenhouse.io/grahamcapitalmanagement/jobs/4672741005 | Graham Capital | Research Role [role TBC]
+- [ ] https://job-boards.greenhouse.io/exoduspoint/jobs/7986685002 | ExodusPoint | Research Role [role TBC]
+- [ ] https://schroders.referrals.selectminds.com/careers/jobs/quantitative-analyst-3221 | Schroders | Quantitative Analyst
+- [ ] https://schroders.referrals.selectminds.com/careers/jobs/research-analyst-5205 | Schroders | Research Analyst
