@@ -9,6 +9,9 @@ Inbox of pending URLs to evaluate. Add URLs here; run `/career-ops pipeline` to 
 
 ## Pendientes
 
+### Manual addition (2026-09-21)
+- [ ] https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Systematic-Macro-Portfolio-Management/13975 | Two Sigma | Quantitative Researcher - Systematic Macro Portfolio Management | Surfaced during #203 evaluation as a much better-fit alternative to the HFT-arm listing scored there
+
 ### Central Banks & Policy — manual local scan, chunk 1 (2026-09-19)
 
 Cloud routine "Scan Chunk 1" has failed 4 consecutive runs due to egress block in the cloud sandbox (career-portal domains return 403 from the proxy). Ran manually in a local interactive session instead — real network access confirmed, all 31 companies fully checked via WebFetch + Playwright (JS-rendered SPAs needed Playwright).
