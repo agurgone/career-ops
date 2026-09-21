@@ -18,11 +18,9 @@ Cloud routine "Scan Chunk 1" has failed 4 consecutive runs due to egress block i
 **Not fully verified — manual check recommended:** SNB (9 total openings, results table didn't render in this pass), HM Treasury/Civil Service Jobs (blocked by an "I'm not a robot" check — not bypassed), Riksbank/Norges Bank/Bundesbank (confirmed "no vacancies"/internship-only via WebFetch, not re-verified with Playwright).
 
 **New finds — added to pipeline:**
-- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Research-Analyst-ESCB-IO-European-Systemic-Risk-Board-Secretariat/14801 | ECB (ESRB Secretariat) | Research Analyst (ESCB/IO) | Closes 22-Sep-2026 (URGENT — 3 days)
 - [ ] https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Economist-Senior-Economist-Economic-Advisor---Macroeconomics_R-0000033014-2 | Federal Reserve Bank of Chicago | Economist/Senior Economist/Economic Advisor – Macroeconomics
 - [ ] https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Economist-Senior-Economist-Economic-Advisor---Financial-Economics_R-0000033195-1 | Federal Reserve Bank of Chicago | Economist/Senior Economist/Economic Advisor – Financial Economics
 - [ ] https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Principal-Business-Economist-Regional-Policy-Advisor_R-0000032751-1 | Federal Reserve Bank of Chicago | Principal Business Economist/Regional Policy Advisor
-- [ ] /job/Ottawa-%28Downtown%29-Senior-Economist-ON/605890217/ (careers.bankofcanada.ca) | Bank of Canada | Senior Economist | Closes 22-Sep-2026 (URGENT — 3 days)
 - [ ] https://worldbankgroup.csod.com/ux/ats/careersite/1/home/requisition/38298?c=worldbankgroup | World Bank | Economist, Dhaka | Country-office role — verify nationality/local-hire restrictions before evaluating
 - [ ] https://worldbankgroup.csod.com/ux/ats/careersite/1/home/requisition/38312?c=worldbankgroup | World Bank | Economist, Lomé | Country-office role — verify nationality/local-hire restrictions before evaluating
 - [ ] https://bdf.wd103.myworkdayjobs.com/en-US/recrutement-banque-de-France/job/PARIS/Economiste-chercheur-senior--H-F-_JR100415 | Banque de France | Économiste chercheur senior (H/F) | Posting is in French; French not in Andrea's language set (Italian native, English fluent, German/Spanish basic) — verify actual language requirement before evaluating
@@ -65,6 +63,8 @@ Cloud routine "Scan Chunk 1" has failed 4 consecutive runs due to egress block i
 - [x] https://www.metacareers.com/profile/job_details/1287393622479232 | Meta | Research Scientist, Demography and Survey Sciences | SKIP: wrong domain (demography)
 - [x] https://www.amazon.jobs/en/jobs/3170645/economist-people-experience-and-technology-central-science | Amazon | Economist, People Experience and Technology Central Science | SKIP: internal HR economics
 - [x] https://www.amazon.jobs/en/jobs/10387098/economist-economic-decision-science | Amazon | Economist, Economic Decision Science | SKIP: internal ops economics
+- [x] #171 | https://talent.ecb.europa.eu/careers/JobDetail/Research-Analyst-ESCB-IO-European-Systemic-Risk-Board-Secretariat/14801 | ECB (ESRB Secretariat) | Research Analyst (ESCB/IO) | 1.0/5 | PDF ❌ | SKIP: ESCB/IO secondment eligibility blocker
+- [x] #168 | /job/Ottawa-%28Downtown%29-Senior-Economist-ON/605890217/ (careers.bankofcanada.ca) | Bank of Canada | Senior Economist | 1.3/5 | PDF ❌ | SKIP: citizenship/clearance/no-relocation blockers
 - [!] https://www.amazon.jobs/en/jobs/3195143/senior-economist-people-experience-and-technology-central-science | Amazon | Senior Economist, People Experience and Technology Central Science — EXPIRED
 - [x] https://www.amazon.jobs/en/jobs/3060591/senior-economist-last-mile-economics | Amazon | Senior Economist, Last Mile Economics | SKIP: internal ops
 - [x] https://www.amazon.jobs/en/jobs/2959606/principal-economist-stores-economics-and-science | Amazon | Principal Economist, Stores Economics and Science | SKIP: US-only (Seattle), seller fee pricing/supply chain — not macro research

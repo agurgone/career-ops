@@ -190,6 +190,14 @@ search_queries:
     query: 'site:efinancialcareers.co.uk "Macro" OR "Economist" OR "Strategist"'
     enabled: true
 
+  - name: JobLeads - Economist/Macro
+    query: 'site:jobleads.com "Economist" OR "Macro" OR "Economic Research" OR "Policy Economist"'
+    enabled: true
+
+  - name: JobLeads - Quant
+    query: 'site:jobleads.com "Quantitative Researcher" OR "Quant Analyst" OR "Systematic Macro"'
+    enabled: true
+
   # --- Quant Research / Systematic Trading ---
   - name: eFinancialCareers - Quant
     query: 'site:efinancialcareers.co.uk "Quant" OR "Quantitative Analyst" OR "Quantitative Researcher"'

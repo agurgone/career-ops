@@ -28,6 +28,11 @@ PhD macroeconomist with a track record across central banking (Central Bank of I
 - Python, Matlab, R
 - Data pipelines, version control, and reproducibility
 - Familiarity with Bayesian frameworks and HPC
+- AI-assisted development: Claude Code, Codex, GitHub Copilot
+
+**AI Tools**
+- LLM APIs (OpenAI, Anthropic), MCP (Model Context Protocol)
+- AI-assisted research: Perplexity, NotebookLM
 
 ---
 
