@@ -736,7 +736,7 @@ Cloud routine "Scan Chunk 1" has failed 4 consecutive runs due to egress block i
 - [x] #190 | https://www.ippr.org/job/research-fellow-economist-centre-for-economic-justice | IPPR | Research Fellow/Economist - Centre for Economic Justice | 2.0/5 | PDF ❌ | UK domestic policy focus mismatch
 - [ ] https://app.beapplied.com/apply/cgoihiahf3 | Resolution Foundation | Senior Economist - Net Zero
 - [ ] https://app.beapplied.com/apply/ejs5bakqcm | Resolution Foundation | Economist/Research and Policy Analyst
-- [x] #191 | https://uk.linkedin.com/jobs/view/economist-senior-economist-at-cambridge-econometrics-4263103037 | Cambridge Econometrics | Economist / Senior Economist | 3.4/5 | PDF ❌ | Strongest methodological fit in batch but comp uncertain, JD unverified
+- [x] #191 | https://uk.linkedin.com/jobs/view/economist-senior-economist-at-cambridge-econometrics-4263103037 | Cambridge Econometrics | Economist / Senior Economist | 3.4/5 | PDF ❌ | CONFIRMED DEAD 2026-09-21 (camecon.com/careers shows zero current vacancies)
 
 ### Banks, Data, Tech & Fintech — Chunk 4 refresh (2026-09-19)
 - [x] #192 | https://higher.gs.com/roles/159268 | Goldman Sachs | Global Macro Research, Economics — PhD Fellowship (NY) | 1.5/5 | PDF ❌ | Ineligible: fellowship for currently-enrolled PhD candidates, not graduates
@@ -746,15 +746,15 @@ Cloud routine "Scan Chunk 1" has failed 4 consecutive runs due to egress block i
 - [ ] https://group.bnpparibas/en/careers/job-offer/associate-quantitative-analyst-ir-options | BNP Paribas | Associate Quantitative Analyst - IR Options
 - [ ] https://group.bnpparibas/en/careers/job-offer/equity-quantitative-analyst | BNP Paribas | Equity Quantitative Analyst
 - [x] #195 | https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Senior-Quantitative-Analyst/175559 | HSBC | Senior Quantitative Analyst | 2.2/5 | PDF ❌ | No archetype fits well
-- [x] #196 | https://jobs.citi.com/job/singapore/research-senior-associate-emerging-markets-economics-assistant-vice-president/287/99487052016 | Citigroup | Research Senior Associate, EM Economics - AVP (Singapore) | 4.0/5 | PDF ❌ | Legitimacy flagged Suspicious (posting mirror shows closed) — verify live before proceeding
-- [x] #197 | https://jobs.citi.com/job/new-york/us-economics-research-senior-associate-avp-new-york-ny/287/81834244672 | Citigroup | US Economics Research Senior Associate, AVP (NY) | 3.8/5 | PDF ❌ | Decent match, strong stated comp, but posting freshness unconfirmed
+- [x] #196 | https://jobs.citi.com/job/singapore/research-senior-associate-emerging-markets-economics-assistant-vice-president/287/99487052016 | Citigroup | Research Senior Associate, EM Economics - AVP (Singapore) | 4.0/5 | PDF ❌ | CONFIRMED DEAD 2026-09-21 (404 Job Not Found)
+- [x] #197 | https://jobs.citi.com/job/new-york/us-economics-research-senior-associate-avp-new-york-ny/287/81834244672 | Citigroup | US Economics Research Senior Associate, AVP (NY) | 3.8/5 | PDF ❌ | CONFIRMED DEAD 2026-09-21 (404 Job Not Found)
 - [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=343945 | UBS | Quantitative Analyst, Agency Algorithmic Trading
 - [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=342483 | UBS | Electronic Trading Quantitative Analyst
 - [ ] https://drw.com/work-at-drw/listings/quantitative-researcher-2581873 | DRW | Quantitative Researcher
 - [ ] https://optiver.com/working-at-optiver/career-opportunities/8455668002/ | Optiver | Quantitative Researcher - SVT
 - [x] #198 | https://careers.nomura.com/Nomura/job/New-York-Research-Analyst,-US-Fixed-Income-NY-10019/1311268700/ | Nomura | Research Analyst, US Fixed Income (NY) | 2.0/5 | PDF ❌ | Posting confirmed filled/closed; severe seniority mismatch
 - [ ] https://careers.nomura.com/Nomura/job/New-York-Securitized-Products-Research-Analyst,-US-Fixed-Income-NY-10019/1403125400/ | Nomura | Securitized Products Research Analyst, US Fixed Income (NY)
-- [x] #199 | https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Macro-Research--d-m-w-_R0407515 | Deutsche Bank | Macro Research | 3.8/5 | PDF ❌ | Strong archetype/location fit; seniority/scope unverified
+- [x] #199 | https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Macro-Research--d-m-w-_R0407515 | Deutsche Bank | Macro Research | 3.8/5 | PDF ❌ | CONFIRMED DEAD 2026-09-21 ("page doesn't exist" on Workday)
 - [x] #200 | https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Senior-Financial-Economist_175519 | Vanguard | Senior Financial Economist | 3.1/5 | PDF ❌ | Same req rejected Jan 2026, still live 4+ months — recommend against reapplying
 - [x] #201 | https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quantitative-Research-Analyst--Officer_R-789457 | State Street | Quantitative Research Analyst, Officer | 3.7/5 | PDF ❌ | Officer-tier downlevel + productization framing
 - [ ] https://www.amazon.jobs/en/jobs/10482932/economist-stores-economics-and-science | Amazon | Economist, Stores Economics and Science
