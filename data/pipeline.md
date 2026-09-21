@@ -728,39 +728,39 @@ Cloud routine "Scan Chunk 1" has failed 4 consecutive runs due to egress block i
 - [ ] https://apply.careers.hsbc.com/job/Central-Associate-Director,-Global-FX-Strategist-Hong/1347686357/ | HSBC | Associate Director, Global FX Strategist (Hong Kong)
 
 ### Macro Advisory & Think Tanks — Chunk 2 (2026-09-19)
-- [ ] https://careers.oxfordeconomics.com/postings/396ca8e0-6dea-4d25-ac54-078f17af1577 | Oxford Economics | Lead Economist - US Construction and Infrastructure (Philadelphia)
-- [ ] https://careers.chathamhouse.org/jobs/8389579-research-fellow-west-africa-africa-programme | Chatham House | Research Fellow (West Africa) - Africa Programme ⚠️ deadline Sep 29
-- [ ] https://www.ippr.org/job/research-fellow-economist-centre-for-economic-justice | IPPR | Research Fellow/Economist - Centre for Economic Justice
+- [x] #188 | https://careers.oxfordeconomics.com/postings/396ca8e0-6dea-4d25-ac54-078f17af1577 | Oxford Economics | Lead Economist - US Construction and Infrastructure (Philadelphia) | 2.3/5 | PDF ❌ | Sector-specific (construction/infra) mismatch vs macro-financial background
+- [x] #189 | https://careers.chathamhouse.org/jobs/8389579-research-fellow-west-africa-africa-programme | Chatham House | Research Fellow (West Africa) - Africa Programme ⚠️ deadline Sep 29 | 2.1/5 | PDF ❌ | Regional specialization (West Africa) mismatch
+- [x] #190 | https://www.ippr.org/job/research-fellow-economist-centre-for-economic-justice | IPPR | Research Fellow/Economist - Centre for Economic Justice | 2.0/5 | PDF ❌ | UK domestic policy focus mismatch
 - [ ] https://app.beapplied.com/apply/cgoihiahf3 | Resolution Foundation | Senior Economist - Net Zero
 - [ ] https://app.beapplied.com/apply/ejs5bakqcm | Resolution Foundation | Economist/Research and Policy Analyst
-- [ ] https://uk.linkedin.com/jobs/view/economist-senior-economist-at-cambridge-econometrics-4263103037 | Cambridge Econometrics | Economist / Senior Economist
+- [x] #191 | https://uk.linkedin.com/jobs/view/economist-senior-economist-at-cambridge-econometrics-4263103037 | Cambridge Econometrics | Economist / Senior Economist | 3.4/5 | PDF ❌ | Strongest methodological fit in batch but comp uncertain, JD unverified
 
 ### Banks, Data, Tech & Fintech — Chunk 4 refresh (2026-09-19)
-- [ ] https://higher.gs.com/roles/159268 | Goldman Sachs | Global Macro Research, Economics — PhD Fellowship (NY)
-- [ ] https://group.bnpparibas/en/careers/job-offer/quantitative-analyst-gmqr-quant-strategists | BNP Paribas | Quantitative Analyst - GMQR Quant Strategists
-- [ ] https://group.bnpparibas/en/careers/job-offer/macro-quant-analyst-2 | BNP Paribas | Macro Quant Analyst
+- [x] #192 | https://higher.gs.com/roles/159268 | Goldman Sachs | Global Macro Research, Economics — PhD Fellowship (NY) | 1.5/5 | PDF ❌ | Ineligible: fellowship for currently-enrolled PhD candidates, not graduates
+- [x] #193 | https://group.bnpparibas/en/careers/job-offer/quantitative-analyst-gmqr-quant-strategists | BNP Paribas | Quantitative Analyst - GMQR Quant Strategists | 2.0/5 | PDF ❌ | Domain mismatch: front-office derivatives-pricing quant research
+- [x] #194 | https://group.bnpparibas/en/careers/job-offer/macro-quant-analyst-2 | BNP Paribas | Macro Quant Analyst | 3.0/5 | PDF ❌ | Hybrid macro/quant fit but below threshold
 - [ ] https://group.bnpparibas/en/careers/job-offer/quantitative-analyst-4 | BNP Paribas | Quantitative Analyst
 - [ ] https://group.bnpparibas/en/careers/job-offer/associate-quantitative-analyst-ir-options | BNP Paribas | Associate Quantitative Analyst - IR Options
 - [ ] https://group.bnpparibas/en/careers/job-offer/equity-quantitative-analyst | BNP Paribas | Equity Quantitative Analyst
-- [ ] https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Senior-Quantitative-Analyst/175559 | HSBC | Senior Quantitative Analyst
-- [ ] https://jobs.citi.com/job/singapore/research-senior-associate-emerging-markets-economics-assistant-vice-president/287/99487052016 | Citigroup | Research Senior Associate, EM Economics - AVP (Singapore)
-- [ ] https://jobs.citi.com/job/new-york/us-economics-research-senior-associate-avp-new-york-ny/287/81834244672 | Citigroup | US Economics Research Senior Associate, AVP (NY)
+- [x] #195 | https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Senior-Quantitative-Analyst/175559 | HSBC | Senior Quantitative Analyst | 2.2/5 | PDF ❌ | No archetype fits well
+- [x] #196 | https://jobs.citi.com/job/singapore/research-senior-associate-emerging-markets-economics-assistant-vice-president/287/99487052016 | Citigroup | Research Senior Associate, EM Economics - AVP (Singapore) | 4.0/5 | PDF ❌ | Legitimacy flagged Suspicious (posting mirror shows closed) — verify live before proceeding
+- [x] #197 | https://jobs.citi.com/job/new-york/us-economics-research-senior-associate-avp-new-york-ny/287/81834244672 | Citigroup | US Economics Research Senior Associate, AVP (NY) | 3.8/5 | PDF ❌ | Decent match, strong stated comp, but posting freshness unconfirmed
 - [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=343945 | UBS | Quantitative Analyst, Agency Algorithmic Trading
 - [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=342483 | UBS | Electronic Trading Quantitative Analyst
 - [ ] https://drw.com/work-at-drw/listings/quantitative-researcher-2581873 | DRW | Quantitative Researcher
 - [ ] https://optiver.com/working-at-optiver/career-opportunities/8455668002/ | Optiver | Quantitative Researcher - SVT
-- [ ] https://careers.nomura.com/Nomura/job/New-York-Research-Analyst,-US-Fixed-Income-NY-10019/1311268700/ | Nomura | Research Analyst, US Fixed Income (NY)
+- [x] #198 | https://careers.nomura.com/Nomura/job/New-York-Research-Analyst,-US-Fixed-Income-NY-10019/1311268700/ | Nomura | Research Analyst, US Fixed Income (NY) | 2.0/5 | PDF ❌ | Posting confirmed filled/closed; severe seniority mismatch
 - [ ] https://careers.nomura.com/Nomura/job/New-York-Securitized-Products-Research-Analyst,-US-Fixed-Income-NY-10019/1403125400/ | Nomura | Securitized Products Research Analyst, US Fixed Income (NY)
-- [ ] https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Macro-Research--d-m-w-_R0407515 | Deutsche Bank | Macro Research
-- [ ] https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Senior-Financial-Economist_175519 | Vanguard | Senior Financial Economist
-- [ ] https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quantitative-Research-Analyst--Officer_R-789457 | State Street | Quantitative Research Analyst, Officer
+- [x] #199 | https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Macro-Research--d-m-w-_R0407515 | Deutsche Bank | Macro Research | 3.8/5 | PDF ❌ | Strong archetype/location fit; seniority/scope unverified
+- [x] #200 | https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Senior-Financial-Economist_175519 | Vanguard | Senior Financial Economist | 3.1/5 | PDF ❌ | Same req rejected Jan 2026, still live 4+ months — recommend against reapplying
+- [x] #201 | https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quantitative-Research-Analyst--Officer_R-789457 | State Street | Quantitative Research Analyst, Officer | 3.7/5 | PDF ❌ | Officer-tier downlevel + productization framing
 - [ ] https://www.amazon.jobs/en/jobs/10482932/economist-stores-economics-and-science | Amazon | Economist, Stores Economics and Science
-- [ ] https://careers.google.com/jobs/results/141603000018707142-senior-economist/ | Google | Senior Economist, Economic Impact Estimation
+- [x] #202 | https://careers.google.com/jobs/results/141603000018707142-senior-economist/ | Google | Senior Economist, Economic Impact Estimation | 3.3/5 | PDF ❌ | Product/platform economic-impact role, not macro-financial
 
 ### Hedge Funds & Asset Managers — Chunk 3 refresh (2026-09-19)
-- [ ] https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Two-Sigma-Securities/13550 | Two Sigma | Quantitative Researcher, Two Sigma Securities
-- [ ] https://job-boards.greenhouse.io/worldquant/jobs/4372598006 | WorldQuant | Quantitative Researcher, Quant Macro (Taipei)
-- [ ] https://careers.blackrock.com/job/13929384/associate-vice-president-fixed-income-macro-quantitative-pm-researcher-san-francisco-san-francisco-ca/ | BlackRock | Associate/VP Fixed Income Macro Quantitative PM/Researcher (SF)
+- [x] #203 | https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Two-Sigma-Securities/13550 | Two Sigma | Quantitative Researcher, Two Sigma Securities | 2.3/5 | PDF ❌ | Market-microstructure/HFT mismatch; consider Systematic Macro PM listing instead (job 13975)
+- [x] #204 | https://job-boards.greenhouse.io/worldquant/jobs/4372598006 | WorldQuant | Quantitative Researcher, Quant Macro (Taipei) | 3.1/5 | PDF ❌ | No markets/alpha-research background; entry-level track
+- [x] #205 | https://careers.blackrock.com/job/13929384/associate-vice-president-fixed-income-macro-quantitative-pm-researcher-san-francisco-san-francisco-ca/ | BlackRock | Associate/VP Fixed Income Macro Quantitative PM/Researcher (SF) | 4.0/5 | PDF ✅ | Best of the batch — direct match to Quant Researcher/Macro archetype
 - [ ] https://apply.workable.com/caxton/j/01A054D8C3/ | Caxton | Discretionary Macro Portfolio Manager (New York)
 - [ ] https://apply.workable.com/caxton/j/01EC6C5D5F/ | Caxton | Discretionary Macro Portfolio Manager (Dubai)
 - [ ] https://apply.workable.com/caxton/j/FB866FD99F/ | Caxton | Associate PM Programme, EM Macro (NYC)
@@ -770,8 +770,8 @@ Cloud routine "Scan Chunk 1" has failed 4 consecutive runs due to egress block i
 - [ ] https://apply.workable.com/caxton/j/36FF1FBBA4/ | Caxton | Associate PM Program (NY)
 - [ ] https://apply.workable.com/caxton/j/845E6B3A88/ | Caxton | Portfolio Manager (New York)
 - [ ] https://job-boards.greenhouse.io/winton/jobs/4026232101 | Winton | Commodity Fundamentals Portfolio Manager
-- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4724413101 | Man Group | Quantitative Researcher [role TBC]
-- [ ] https://job-boards.greenhouse.io/grahamcapitalmanagement/jobs/4672741005 | Graham Capital | Research Role [role TBC]
-- [ ] https://job-boards.greenhouse.io/exoduspoint/jobs/7986685002 | ExodusPoint | Research Role [role TBC]
-- [ ] https://schroders.referrals.selectminds.com/careers/jobs/quantitative-analyst-3221 | Schroders | Quantitative Analyst
-- [ ] https://schroders.referrals.selectminds.com/careers/jobs/research-analyst-5205 | Schroders | Research Analyst
+- [x] #206 | https://job-boards.eu.greenhouse.io/mangroup/jobs/4724413101 | Man Group | Quantitative Researcher [role TBC] | 1.5/5 | PDF ❌ | Posting confirmed dead (Greenhouse API 404)
+- [x] #207 | https://job-boards.greenhouse.io/grahamcapitalmanagement/jobs/4672741005 | Graham Capital | Research Role [role TBC] | 2.4/5 | PDF ❌ | Posting URL dead; analyst-level HF trading support vs PhD policy modeller
+- [x] #208 | https://job-boards.greenhouse.io/exoduspoint/jobs/7986685002 | ExodusPoint | Research Role [role TBC] | 2.2/5 | PDF ❌ | Req 404s on Greenhouse API (posting dead)
+- [x] #209 | https://schroders.referrals.selectminds.com/careers/jobs/quantitative-analyst-3221 | Schroders | Quantitative Analyst | 2.4/5 | PDF ❌ | JD fetch failed; title-only eval
+- [x] #210 | https://schroders.referrals.selectminds.com/careers/jobs/research-analyst-5205 | Schroders | Research Analyst | 2.0/5 | PDF ❌ | Bottom-up Pan Asia SMID equity research — hard domain mismatch
