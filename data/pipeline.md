@@ -377,6 +377,168 @@ Cloud routine "Scan Chunk 1" has failed 4 consecutive runs due to egress block i
 - [x] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477224 | University of North Carolina Greensboro | Director of Economic Analysis and Public Scholarship | SKIP: academic admin role — outside profile archetypes
 - [x] https://www.aeaweb.org/joe/listing.php?JOE_ID=2026-01_111477408 | University of Tennessee | Post-Doctoral Research Associate | SKIP: academic postdoc — outside profile archetypes
 
+### Central Banks & Policy Institutions — Chunk 1 refresh (2026-06-10)
+- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Economists-Prices-and-Costs/13480 | ECB | Economists – Prices and Costs
+- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Economist-Monetary-Analysis/13620 | ECB | Economist – Monetary Analysis (Money, Credit and Financial Accounts)
+- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Economist-External-Developments/4849 | ECB | Economist – External Developments
+- [ ] https://careers.un.org/jobSearchDescription/261859?language=en | United Nations | Senior Economic Affairs Officer (Macroeconomic), P5
+- [ ] https://jobs.smartrecruiters.com/OECD/744000130505898-economist-policy-analyst- | OECD | Economist / Policy Analyst (Athens, deadline 28 Jun 2026)
+- [ ] https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1785043 | HM Treasury | Head of Fiscal Forecast and OBR Branch
+
+### Banks, Data, Tech & Fintech — Chunk 4 refresh (2026-06-11)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5231205008 | Anthropic | Regional Research Economist, Economic Research
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4555010008 | Anthropic | Economist
+- [ ] https://globalcareers-msci.icims.com/jobs/2850/quantitative-researcher/job | MSCI | Quantitative Researcher
+- [ ] https://stripe.com/jobs/listing/data-scientist-economic-insights-research/7980402 | Stripe | Data Scientist, Economic Insights & Research
+- [ ] https://block.xyz/careers/jobs/4814639008?gh_jid=4814639008 | Square (Block) | Senior Economist, Advanced Insights and Modeling
+- [ ] https://careers.bloomberg.com/job/detail/123928 | Bloomberg | Quantitative Analyst (Data Visualization), Bloomberg Economics
+- [ ] https://careers.bloomberg.com/job/detail/100440 | Bloomberg | CEE & Russia Economist
+- [ ] https://careers.bloomberg.com/job/detail/96430 | Bloomberg | Nordic Economist
+- [ ] https://careers.bloomberg.com/job/detail/93382 | Bloomberg | Quantitative Researcher - Enterprise Data
+- [ ] https://careers.google.com/jobs/results/123967399538893510-senior-economist/ | Google | Senior Economist, Economic Impact Estimation
+- [ ] https://careers.google.com/jobs/results/137389842756444870-regulatory-competition-economist/ | Google | Regulatory Competition Economist
+- [ ] https://careers.google.com/jobs/results/74638639891391174-macroeconomist/ | Google | Macroeconomist
+- [ ] https://careers.google.com/jobs/results/144082303916614342-competition-economist/ | Google | Competition Economist
+- [ ] https://www.janestreet.com/join-jane-street/position/8092053002/ | Jane Street | Quantitative Researcher, London
+- [ ] https://www.amazon.jobs/en/jobs/3192620/economist-economic-decision-science | Amazon | Economist, Economic Decision Science
+- [ ] https://www.amazon.jobs/en/jobs/2963641/economist-ii | Amazon | Economist II
+- [ ] https://www.amazon.jobs/en/jobs/2964072/economist | Amazon | Economist
+- [ ] https://www.amazon.jobs/en/jobs/2611886/economist | Amazon | Economist
+- [ ] https://www.amazon.jobs/en/jobs/1988297/economist-economic-and-community-impact | Amazon | Economist, Economic and Community Impact
+- [ ] https://www.amazon.jobs/en/jobs/3005549/economist-ii-amz9442285 | Amazon | Economist II - AMZ9442285
+
+### Hedge Funds & Asset Managers — Chunk 3 refresh (2026-06-24)
+- [ ] https://www.deshawindia.com/careers/senior-analyst-lead-analyst-macro-economist-financial-research-6101 | D.E. Shaw | Senior Analyst/Lead Analyst – Macro (Economist), Financial Research
+- [ ] https://www.deshaw.com/careers/economist-analyst-discretionary-macro-new-york-3934 | D.E. Shaw | Economist Analyst, Discretionary Macro
+- [ ] https://job-boards.greenhouse.io/point72/jobs/8233916002 | Point72 | Research Analyst, Global Macro
+- [ ] https://careers.point72.com/CSJobDetail?jobCode=CSS-0002897&jobName=macro-research-analyst&retURL=%2FCSCareerSearch | Point72 | Macro Research Analyst
+- [ ] https://careers.point72.com/CSJobDetail?jobName=quantitative-analyst-global-macro&jobCode=CSS-0013509&location=New+York&locale=English&retURL=/CSCareerSearch | Point72 | Quantitative Analyst, Global Macro
+- [ ] https://careers.point72.com/CSJobDetail?jobName=quantitative-strategist-macro-data-analytics&jobCode=PIT-0014438&location=New+York&locale=English&retURL=%2FCSCareerSearch | Point72 | Quantitative Strategist, Macro Data Analytics
+- [ ] https://startup.jobs/macro-sector-analyst-point72-4474904 | Point72 | Macro Sector Analyst
+- [ ] https://job-boards.greenhouse.io/bridgewater89/jobs/8219433002 | Bridgewater | Research Associate, Fiscal and Trade Policy
+- [ ] https://job-boards.greenhouse.io/bridgewater89/jobs/8203810002 | Bridgewater | Commodities Research Associate
+- [ ] https://boards.greenhouse.io/bridgewater89/jobs/6478365002 | Bridgewater | Geopolitics Research Associate
+- [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-central-liquidity-book-at-balyasny-asset-management-l-p-3748811334 | Balyasny | Quantitative Researcher - Central Liquidity Book
+- [ ] https://www.linkedin.com/jobs/view/quantitative-researcher-pm-engagement-at-balyasny-asset-management-l-p-4181449865 | Balyasny | Quantitative Researcher, PM Engagement
+- [ ] https://www.tealhq.com/job/quantitative-researcher-credit_45377646-f31a-4f4e-b620-24693d771f20 | Balyasny | Quantitative Researcher - Credit
+- [ ] https://www.theladders.com/job/treasury-senior-quantitative-researcher-balyasnyassetmanagement-new-york-ny_83084294 | Balyasny | Treasury Senior Quantitative Researcher
+- [ ] https://builtin.com/job/quantitative-researcher-macro/4385913 | Qube Research & Technologies | Quantitative Researcher - Macro
+- [ ] https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/7947279002 | Qube Research & Technologies | Quantitative Strategist
+- [ ] https://www.theladders.com/job/senior-quant-researcher-cta-fixed-income-squarepoint-capital-houston-mn_77313399 | Squarepoint | Senior Quant Researcher - CTA/Fixed Income
+- [ ] https://www.quantblueprint.com/job/squarepoint-senior-quant-researcher-cta-short-term-1 | Squarepoint | Senior Quant Researcher - CTA/Short-Term
+- [ ] https://www.worldquant.com/career-listing/?id=4069466006 | WorldQuant | Quantitative Researcher
+- [ ] https://builtin.com/job/quantitative-researcher-quant-macro/3755266 | WorldQuant | Quantitative Researcher, Quant Macro
+- [ ] https://careers.blackrock.com/job/new-york/blackrock-investment-institute-bii-us-macro-strategist-vice-president/45831/68931340912 | BlackRock | BlackRock Investment Institute (BII) - US Macro Strategist, VP
+- [ ] https://careers.blackrock.com/job/new-york/managing-director-global-head-of-macro-blackrock-investment-institute/45831/95674962736 | BlackRock | Managing Director, Global Head of Macro - BlackRock Investment Institute
+- [ ] https://careers.blackrock.com/job/new-york/senior-quantitative-researcher-fixed-income-markets-research-director/45831/95589919856 | BlackRock | Senior Quantitative Researcher – Fixed Income Markets Research, Director
+- [ ] https://careers.blackrock.com/job/mumbai/index-fixed-income-quant-researcher-investment-vice-president/45831/77268597264 | BlackRock | Index Fixed Income Quant Researcher, Investment, VP
+- [ ] https://careers.blackrock.com/job/mexico-city/associate-quantitative-research-and-portfolio-management-multi-asset-strategies-and-solutions-mass/45831/95265574352 | BlackRock | Associate, Quantitative Research and Portfolio Management (MASS)
+- [ ] https://careers.aqr.com/jobs/research/greenwich-ct/research-analyst-discretionary-macro/7979589?gh_jid=7979589 | AQR | Research Analyst - Discretionary Macro
+- [ ] https://careers.aqr.com/jobs/research/greenwich-ct/research-associate-discretionary-macro/7979593?gh_jid=7979593 | AQR | Research Associate - Discretionary Macro
+- [ ] https://careers.aqr.com/jobs/research/greenwich-ct/integrated-research-analyst-associate/7013706?gh_jid=7013706 | AQR | Integrated Research – Analyst/Associate
+- [ ] https://boards.greenhouse.io/winton/jobs/4047683101 | Winton | MENA Equities Quantitative Researcher
+- [ ] https://boards.greenhouse.io/winton/jobs/4069455101 | Winton | Quantitative Risk
+- [ ] https://wd3.myworkdaysite.com/en-US/recruiting/brevanhoward/BH_ExternalCareers/job/London-82/Junior-Economist_JR100950 | Brevan Howard | Junior Economist
+- [ ] https://wd3.myworkdaysite.com/en-US/recruiting/brevanhoward/BH_ExternalCareers/job/London-82/Senior-Quant-Analyst---Rates_JR101138 | Brevan Howard | Senior Quant Analyst - Rates
+- [ ] https://wd3.myworkdaysite.com/en-US/recruiting/brevanhoward/BH_ExternalCareers/job/London-82/Quant-Analyst---Credit_JR101139 | Brevan Howard | Quant Analyst - Credit
+- [ ] https://www.linkedin.com/jobs/view/credit-quantitative-researcher-at-capula-investment-management-llp-4315692101 | Capula | Credit Quantitative Researcher
+- [ ] https://www.linkedin.com/jobs/view/credit-quantitative-researcher-at-capula-investment-management-llp-4340598030 | Capula | Credit Quantitative Researcher
+
+### Central Banks & Policy — Chunk 1 (2026-06-29)
+- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Senior-Economist-External-Developments/10393 | ECB | Senior Economist – External Developments
+- [ ] https://talent.ecb.europa.eu/careers/JobDetail/Senior-Economist-ESCB-IO-Monetary-Policy-Strategy/13177 | ECB | Senior Economist (ESCB/IO) – Monetary Policy Strategy (restricted to seconded Eurosystem/NCB staff)
+- [ ] https://www.bis.org/careers/vacancies/jr100198.htm | BIS | Senior/Principal Economist
+- [ ] https://www.bis.org/careers/vacancies/jr100388.htm | BIS | Financial Policy Analyst
+- [ ] https://www.careers.eba.europa.eu/en/our-vacancies/policy-expert-23 | EBA | Policy Expert – credit risk & non-bank finance
+- [ ] https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1888688 | HM Treasury (National Infrastructure Commission) | Senior Economists – Energy and Transport
+- [ ] https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1937936 | HM Treasury | Senior Policy Adviser – Access to Finance
+- [ ] https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1937389 | HM Treasury | Assistant Economist – Trade Policy Analysis
+- [ ] https://imf.wd5.myworkdayjobs.com/en-US/IMF/job/USA-Washington-DC/Economist-Sr-Economist---STAFI_26-R8940 | IMF | Economist/Sr. Economist – STAFI (Financial Institutions Division, Statistics Dept)
+- [ ] https://jobs.smartrecruiters.com/OECD/744000130747518-economist-policy-analyst- | OECD | Economist – Policy Analyst (OECD Crete Centre, Athens)
+- [ ] https://jobs.smartrecruiters.com/OECD/744000072464505-chief-economist | OECD | Chief Economist (Economics Department, Paris)
+
+### Macro Advisory & Think Tanks — Chunk 2 refresh (2026-07-21)
+- [ ] https://careers.oxfordeconomics.com/postings/a05f7819-6fe2-43c4-86a5-64f7b90ff638 | Oxford Economics | Lead Economist - EMEA Consulting - Tourism Economics
+- [ ] https://careers.oxfordeconomics.com/postings/6361d32c-ca8d-43d6-b80b-be576e0c2c32 | Oxford Economics | (Sr.) Economist / Data Scientist - EMEA Macro Consulting
+- [ ] https://careers.oxfordeconomics.com/postings/ac64098a-407c-4cbe-8bef-2b37a164c5cf | Oxford Economics | Senior Consultant - EMEA Macro Consulting
+- [ ] https://careers.oxfordeconomics.com/postings/4887cb3c-4082-4e8a-a576-aff2fba20db8 | Oxford Economics | Economist - Modelling Team, Macro Consulting
+- [ ] https://careers.oxfordeconomics.com/postings/11c14f49-5c8e-41ed-b851-c20cdab765b8 | Oxford Economics | Senior Economist – EMEA Consulting - Tourism Economics
+- [ ] https://careers.oxfordeconomics.com/postings/ef2489e3-c007-4042-b602-75d84d3af1b3 | Oxford Economics | Lead Economist / Associate Director - TMT - Economic Impact Consulting
+- [ ] https://careers.oxfordeconomics.com/en/postings/44314db2-1174-4bd8-848c-cfa71ee55af5 | Oxford Economics | Lead Economist - Economic Impact Consulting
+- [ ] https://careers.oxfordeconomics.com/postings/8251cb20-9e5e-4fea-9ecd-3417f14dc095 | Oxford Economics | Lead Economist - Geospatial Research
+- [ ] https://careers.oxfordeconomics.com/postings/2e5ed44c-33be-40ab-b6b8-0c3253ad8054 | Oxford Economics | Economist / Senior Economist - Macro Consulting - EMEA
+- [ ] https://careers.oxera.com/jobs/6884159-consultant-competition-economics-madrid | Oxera | Consultant Competition Economics (Madrid)
+- [ ] https://careers.oxera.com/jobs/6883998-consultant-competition-economics-italy | Oxera | Consultant Competition Economics (Italy)
+- [ ] https://apply.workable.com/capital-economics/j/3BB573A8DB | Capital Economics | China Economist
+- [ ] https://apply.workable.com/capital-economics/j/12B7B7D096/ | Capital Economics | Economist - Consultancy Team
+- [ ] https://www.ippr.org/jobs/chief-of-staff-and-senior-research-fellow | IPPR | Chief of Staff and Senior Research Fellow
+- [ ] https://www.ippr.org/jobs/senior-research-fellow-ippr-north-2 | IPPR | Senior Research Fellow, IPPR North
+- [ ] https://www.ippr.org/jobs/principal-research-fellow-health-policy | IPPR | Principal Research Fellow & Head of Health
+- [ ] https://www.ippr.org/jobs/director-of-policy-and-politics | IPPR | Director of Policy and Politics
+
+### Hedge Funds & Asset Managers — Chunk 3 refresh (2026-07-22)
+- [ ] https://job-boards.greenhouse.io/bridgewater89/jobs/8007466002 | Bridgewater | Macroeconomic Research Associate
+- [ ] https://job-boards.greenhouse.io/bridgewater89/jobs/8419108002 | Bridgewater | Research Associate, Quantitative Developer
+- [ ] https://job-boards.greenhouse.io/bridgewater89/jobs/8463805002 | Bridgewater | Investment Associate
+- [ ] https://careers.aqr.com/jobs/research/greenwich-connecticut-united-states/researcher-discretionary-macro-/2715686 | AQR | Researcher – Discretionary Macro
+- [ ] https://careers.blackrock.com/job/new-york/quantitative-investment-researcher-blackrock-investment-institute-vice-president/45831/93763593040 | BlackRock | Quantitative Investment Researcher, BII, VP
+- [ ] https://careers.blackrock.com/job/new-york/quantitative-modeler-associate/45831/79182164768 | BlackRock | Quantitative Modeler, Associate
+- [ ] https://careers.blackrock.com/job/new-york/associate-blackrock-investment-institute-portfolio-researcher/45831/84171444272 | BlackRock | Associate, BII Portfolio Researcher
+- [ ] https://job-boards.greenhouse.io/point72/jobs/8408286002 | Point72 | Quantitative Strategist, Macro Technology
+- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4882441101 | Man Group | Quantitative Researcher – AI/ML
+- [ ] https://career.mlp.com/careers/job/755930336287-portfolio-manager-senior-quantitative-researcher-systematic-equities-london-london-united-kingdom | Millennium | PM/Senior Quantitative Researcher, Systematic Equities (London)
+- [ ] https://career.mlp.com/careers/job/755954362828-quantitative-researcher-systematic-equities-london-united-kingdom | Millennium | Quantitative Researcher, Systematic Equities (London)
+- [ ] https://job-boards.greenhouse.io/exoduspoint/jobs/8060596002 | ExodusPoint | Junior Quantitative Researcher (London)
+- [ ] https://careers.twosigma.com/careers/JobDetail/New-York-Ny-United-States-Quantitative-Researcher-ETFs-and-Passive-Flows/13767 | Two Sigma | Quantitative Researcher – ETFs and Passive Flows
+- [ ] https://www.citadel.com/careers/details/macro-equity-vol-desk-analyst/ | Citadel | Macro Equity Vol Desk Analyst
+- [ ] https://www.deshaw.com/careers/fundamental-research-analyst-5255 | D.E. Shaw | Fundamental Research Analyst
+- [ ] https://www.qube-rt.com/careers/research-and-trading/london/experienced-candidates/research/job?gh_jid=6546880002 | Qube R&T | Quantitative Researcher – Portfolio Allocation Manager (London)
+- [ ] https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/4104490002 | Qube R&T | Quantitative Researcher – Experienced (Paris)
+- [ ] https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/7902894002 | Qube R&T | Quantitative Researcher – Macro (Mumbai)
+- [ ] https://jobs.amundi.com/job/job-quantitative-portfolio-manager-m-w-d-multi-asset-m-w-d_113001.aspx | Amundi | Quantitative Portfolio Manager – Multi Asset (Munich)
+- [ ] https://jobs.amundi.com/offre-de-emploi/emploi-quantitative-analyst-fixed-income_98449.aspx | Amundi | Quantitative Analyst – Fixed Income (Paris)
+- [ ] https://www.theladders.com/job/alpha-capture-quantitative-researcher-new-york-balyasnyassetmanagement-new-york-ny_83643382 | Balyasny | Quantitative Researcher – Alpha Capture (New York)
+- [ ] https://www.theladders.com/job/quantitative-researcher-multi-asset-arbitrage-balyasnyassetmanagement-new-york-ny_86747624 | Balyasny | Quantitative Researcher – Multi-Asset Arbitrage (New York)
+- [ ] https://www.theladders.com/job/quantitative-researcher-systematic-equities-new-york-balyasnyassetmanagement-new-york-ny_81768668 | Balyasny | Quantitative Researcher – Systematic Equities (New York)
+
+### Banks, Data, Tech & Fintech — Chunk 4 refresh (2026-07-23)
+- [ ] https://higher.gs.com/roles/155541 | Goldman Sachs | Quantitative Strategist, GSET
+- [ ] https://www.drw.com/work-at-drw/listings/macro-analyst-event-driven-3320026 | DRW | Macro Analyst - Event Driven
+- [ ] https://optiver.com/working-at-optiver/career-opportunities/8440604002/ | Optiver | Quantitative Trader/Researcher – Systematic Options Trading
+- [ ] https://block.xyz/careers/jobs/5026639008 | Block (Square) | Principal Market & Quant Researcher, Bitcoin
+- [ ] https://careers.statestreet.com/global/en/job/STSTGLOBALR772475EXTERNALENGLOBAL/Senior-Quantitative-Economic-Modeler-Officer | State Street | Senior Quantitative Economic Modeler
+- [ ] https://careers.statestreet.com/global/en/job/STSTGLOBALR770596EXTERNALENGLOBAL/Chief-Macro-Policy-Strategist-Managing-Director | State Street | Chief Macro Policy Strategist
+- [ ] https://careers.statestreet.com/global/en/job/STSTGLOBALR764218EXTERNALENGLOBAL/Quantitative-Researcher-Portfolio-Solutions-Officer-State-Street-Global-Advisors | State Street | Quantitative Researcher – Portfolio Solutions
+- [ ] https://careers.statestreet.com/global/en/job/STSTGLOBALR766659EXTERNALENGLOBAL/Quantitative-Research-Analyst-Systematic-Equity-State-Street-Global-Advisors-AVP | State Street | Quantitative Research Analyst, Systematic Equity
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4934439008 | Anthropic | Economist, Policy
+- [ ] https://openai.com/careers/economist-san-francisco/ | OpenAI | Economist
+- [ ] https://www.amazon.jobs/en/jobs/10468079/senior-economist-amazon-stores-economics-and-science-seas | Amazon | Senior Economist, Amazon Stores Economics and Science (SEAS)
+- [ ] https://www.amazon.jobs/en/jobs/1692950/principal-economist | Amazon | Principal Economist
+- [ ] https://www.amazon.jobs/en/jobs/10426946/senior-economist | Amazon | Senior Economist
+- [ ] https://www.amazon.jobs/en/jobs/10431868/principal-economist-aws-economic-development | Amazon | Principal Economist, AWS Economic Development
+- [ ] https://careers.msci.com/job/research/san-francisco/quantitative-researcher-model-scaling/2026-5140 | MSCI | Quantitative Researcher - Model Scaling
+- [ ] https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Quantitative-Equities-Strategy-Manager-HSBC-Global-Asset-Management/281493 | HSBC | Quantitative Equities Strategy Manager
+- [ ] https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Quantitative-Investment-Strategies-Structurer-Markets/273156 | HSBC | Quantitative Investment Strategies Structurer
+- [ ] https://jobs.citi.com/job/new-york/quantitative-analyst/287/92569427344 | Citigroup | Quantitative Analyst
+- [ ] https://jobs.citi.com/job/new-york/research-strategist/287/73953874368 | Citigroup | Research Strategist
+- [ ] https://careers.nomura.com/Nomura/job/New-York-Portfolio-Strategist-NY-10019/1377144200/ | Nomura | Portfolio Strategist
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=339448 | UBS | Quantitative Analyst
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=343997 | UBS | QIS Quantitative Analyst Director
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=312786 | UBS | G10 FX Strategist
+- [ ] https://www.vanguardjobs.com/job/22940908/senior-portfolio-strategist-malvern-pa/ | Vanguard | Senior Portfolio Strategist
+- [ ] https://jobs.fidelity.com/en/jobs/2123619/quantitative-analyst-multi-asset-systematic-strategies/ | Fidelity | Quantitative Analyst, Multi-Asset Systematic Strategies
+- [ ] https://jobs.fidelity.com/en/jobs/2128252/quantitative-investment-analyst/ | Fidelity | Quantitative Investment Analyst
+- [ ] https://jobs.fidelity.com/en/jobs/2132163/quantitative-analyst/ | Fidelity | Quantitative Analyst
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Economics-Data-Scientist/19933 | Bloomberg | Bloomberg Economics Data Scientist
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Team-Leader-Macro-Economics-Data/16924 | Bloomberg | Team Leader - Macro Economics Data
+- [ ] https://careers.ice.com/jobs/9973?lang=en-us | ICE Data Services | Lead Quantitative Analyst
+- [ ] https://careers.ice.com/jobs/11499?lang=en-us | ICE Data Services | Quantitative Analyst
+- [ ] https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/Senior-Quantitative-Researcher--Structured-Products-_R25637 | FactSet | Senior Quantitative Researcher, Structured Products
+- [ ] https://careers.morningstar.com/us/en/job/REQ-055988/Portfolio-Manager-Senior-Quantitative-Researcher | Morningstar | Portfolio Manager & Senior Quantitative Researcher
+- [ ] https://careers.morningstar.com/us/en/job/REQ-056226/Senior-Quantitative-Analyst | Morningstar | Senior Quantitative Analyst
+- [ ] https://group.bnpparibas/en/careers/job-offer/risk-esg-senior-quantitative-analyst | BNP Paribas | Senior Quantitative Analyst (Risk & ESG)
+- [ ] https://www.janestreet.com/join-jane-street/position/4794171002/ | Jane Street | Quantitative Trader
+
 ## Procesadas
 
 - [x] #120 | https://careers.blackrock.com/job/new-york/managing-director-global-head-of-macro-blackrock-investment-institute/45831/95674962736 | BlackRock | Managing Director, Global Head of Macro - BlackRock Investment Institute (New York) | 1.8/5 | PDF ❌
@@ -410,3 +572,206 @@ Cloud routine "Scan Chunk 1" has failed 4 consecutive runs due to egress block i
 - [x] #126 | https://www.squarepoint-capital.com/opportunity-details?id=253411 | Squarepoint | Senior Quant Researcher - Equity Mid/Low Frequency | 1.8/5 | PDF ❌
 - [x] #127 | https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Quantitative-Research-Analyst---Client-Analytics_R106268 | PIMCO | Quantitative Research Analyst – Client Analytics | 2.9/5 | PDF ❌
 - [x] #128 | https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Product-Strategist_R106312 | PIMCO | Product Strategist | 1.6/5 | PDF ❌
+### Macro Advisory & Think Tanks — Chunk 2 scan (2026-07-28)
+
+- [ ] https://careers.oxfordeconomics.com/postings/72d25903-a8c2-4497-b0fa-69453a5fcdff | Oxford Economics | Senior Economist, Tourism Economics - Americas
+- [ ] https://frontiereconomics.wd3.myworkdayjobs.com/en-US/Frontier_Economics_Careers/job/Economic-Consultant--Competition---Energy-_JR10072 | Frontier Economics | Economic Consultant (Pool) - Competition & Energy
+- [ ] https://frontiereconomics.wd3.myworkdayjobs.com/en-US/Frontier_Economics_Careers/job/Economist_JR10009 | Frontier Economics | Economist - Speculative Applications Pool
+- [ ] https://apply.workable.com/capital-economics/j/A1238CCD1B | Capital Economics | North America Economist
+- [ ] https://www.resolutionfoundation.org/about-us/opportunities/research-director/ | Resolution Foundation | Research Director
+- [ ] https://www.bruegel.org/careers/energy-and-climate-economist | Bruegel | Energy and Climate Economist
+- [ ] https://spe.org.uk/careers/jobs/senior-economist-4/ | Society of Professional Economists | Senior Economist (OMFIF)
+
+### Banks, Data, Tech & Fintech — Chunk 4 refresh (2026-07-30)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5149802008 | Anthropic | Transformative AI Research Economist, Economic Research
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5232055008 | Anthropic | Data Scientist, Policy
+- [ ] https://careers.google.com/jobs/results/92768759820755654-competition-economist/ | Google | Competition Economist
+- [ ] https://www.amazon.jobs/en/jobs/10427279/senior-economist | Amazon | Senior Economist
+- [ ] https://www.amazon.jobs/en/jobs/10457261/principal-economist-stores-economics-and-science | Amazon | Principal Economist, Stores Economics and Science
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Economics-UK-Economist/12522 | Bloomberg | UK Economist
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Quant-Researcher-Agentic-AI-CTO-Office/18880 | Bloomberg | Quant Researcher, Agentic AI CTO Office
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Senior-Quantitative-Analyst-Interest-Rate-Modeling-Risk-Analytics/13711 | Bloomberg | Senior Quantitative Analyst – Interest Rate Modeling & Risk Analytics
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Equity-Index-Quantitative-Researcher/19854 | Bloomberg | Equity Index Quantitative Researcher
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Economics-Geoeconomics-Climate-Economist/10097 | Bloomberg | Climate Economist / Econometrician (Geoeconomics)
+- [ ] https://jobs.citi.com/job/new-york/research-strategist/287/77319213040 | Citigroup | Research Strategist
+- [ ] https://jobs.citi.com/job/new-york/quantitative-analyst-avp/287/79561409024 | Citigroup | Quantitative Analyst, AVP
+- [ ] https://jobs.citi.com/job/london/junior-research-equity-strategist/287/98220945056 | Citigroup | Junior Research Equity Strategist
+- [ ] https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Senior-Economist-Global-Risk/216508 | HSBC | Senior Economist – Global Risk
+- [ ] https://www.janestreet.com/join-jane-street/position/4808264002/ | Jane Street | Quantitative Researcher
+- [ ] https://www.drw.com/work-at-drw/listings/quantitative-researcher-3481214 | DRW | Quantitative Researcher
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=327278 | UBS | Quantitative Analyst
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=343919 | UBS | Quantitative Analyst - QIS
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=317873 | UBS | Quantitative Analyst
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=328192 | UBS | Quant Analyst, Corporate & Wholesale Credit Risk Scenario Models
+- [ ] https://careers.nomura.com/Nomura/job/New-York-US-Economic-Research-Analyst-NY-10019/1400789000/ | Nomura | US Economic Research Analyst
+- [ ] https://careers.nomura.com/Nomura/job/Philadelphia-Associate,-Senior-Quantitative-Analyst-PA-19106/1348533000/ | Nomura | Associate, Senior Quantitative Analyst
+- [ ] https://careers.nomura.com/Nomura/job/Philadelphia-Head-of-FI-Risk-and-Quantitative-Research-PA-19106/1362146500/ | Nomura | Head of FI Risk and Quantitative Research
+- [ ] https://group.bnpparibas/en/careers/job-offer/vice-president-quantitative-research-1 | BNP Paribas | VP, Quantitative Research
+- [ ] https://group.bnpparibas/en/careers/job-offer/analyst-associate-equity-flow-strategist | BNP Paribas | Analyst/Associate – Equity Flow Strategist
+- [ ] https://careers.statestreet.com/global/en/job/STSTGLOBALR793399EXTERNALENGLOBAL/Machine-Learning-Quantitative-Research-Analyst | State Street | Machine Learning Quantitative Research Analyst
+- [ ] https://careers.statestreet.com/global/en/job/STSTGLOBALR784329EXTERNALENGLOBAL/Quantitative-Research-a-k-a-Researcher | State Street | Quantitative Research (Researcher)
+- [ ] https://careers.msci.com/job/research/budapest/quantitative-researcher-financial-engineer/2024-1721 | MSCI | Quantitative Researcher - Financial Engineer (Budapest)
+- [ ] https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/Senior-Quantitative-Researcher---Equity-Risk_R23657 | FactSet | Senior Quantitative Researcher - Equity Risk
+- [ ] https://careers.morningstar.com/us/en/job/REQ-052541/Quantitative-Analyst | Morningstar | Quantitative Analyst
+- [ ] https://careers.morningstar.com/us/en/job/REQ-049652/Lead-Quantitative-Analyst | Morningstar | Lead Quantitative Analyst
+- [ ] https://www.vanguardjobs.com/job/23415922/us-economist-malvern-pa/ | Vanguard | US Economist
+- [ ] https://jobs.fidelity.com/en/jobs/2125214/quantitative-researcher-portfolio-optimization/ | Fidelity | Quantitative Researcher, Portfolio Optimization
+- [ ] https://careers.societegenerale.com/en/job-offers/desk-head-quantitative-advisor-260008UB-en | Société Générale | Desk Head Quantitative Advisor
+- [ ] https://careers.ice.com/jobs/12154?lang=en-us | ICE Data Services | Analyst, Quantitative Research (London)
+- [ ] https://openai.com/careers/quantitative-intelligence-analyst-san-francisco/ | OpenAI | Quantitative Intelligence Analyst
+- [ ] https://www.optiver.com/join-us/jobs/institutional-sales-and-trading/chicago/macro-analyst/ | Optiver | Macro Analyst
+
+### Hedge Funds & Asset Managers — Chunk 3 refresh (2026-08-05)
+- [ ] https://job-boards.greenhouse.io/point72/jobs/7297625002 | Point72 | Quantitative Researcher - Systematic Credit
+- [ ] https://boards.greenhouse.io/exoduspoint/jobs/6988611002 | ExodusPoint | Junior Quantitative Modeler
+- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4866654101 | Man Group | Quantitative Researcher - Discretionary
+- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4890008101 | Man Group | Quantitative Portfolio Implementation Analyst
+- [ ] https://career.mlp.com/careers/job/755956179163 | Millennium | Quantitative Researcher
+- [ ] https://wd3.myworkdaysite.com/en-US/recruiting/brevanhoward/BH_ExternalCareers/job/London-82/Quant-Analyst---Rates_JR100513 | Brevan Howard | Quant Analyst - Rates
+- [ ] https://wd3.myworkdaysite.com/en-US/recruiting/brevanhoward/BH_ExternalCareers/job/London-82/Quantitative-Analyst_JR100995 | Brevan Howard | Quantitative Analyst
+- [ ] https://careers.blackrock.com/job/san-francisco/associate-quantitative-research/45831/91108048384 | BlackRock | Associate, Quantitative Research (San Francisco)
+- [ ] https://schroders.referrals.selectminds.com/careers/jobs/quantitative-portfolio-manager-8167 | Schroders | Quantitative Portfolio Manager
+- [ ] https://boards.greenhouse.io/winton/jobs/4026099101 | Winton | Equities Quantitative Researcher (Alpha Capture)
+- [ ] https://job-boards.greenhouse.io/bridgewater89/jobs/8632073002 | Bridgewater | Commodities Research Associate
+- [ ] https://apply.workable.com/caxton/j/6121E9AA35/ | Caxton | Global Macro Portfolio Manager
+
+### Hedge Funds & Asset Managers — Chunk 3 refresh (2026-08-12)
+- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4724414101 | Man Group | Senior Quantitative Researcher - Macro
+- [ ] https://boards.greenhouse.io/bridgewater89/jobs/6863882002 | Bridgewater | Research Associate, Quantitative Equities
+- [ ] https://careers.blackrock.com/job/london/associate-quantitative-researcher-systematic-active-equity/45831/99017512480 | BlackRock | Associate, Quantitative Researcher - Systematic Active Equity (London)
+- [ ] https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Systematic-Macro-Portfolio-Management/13975 | Two Sigma | Quantitative Researcher - Systematic Macro Portfolio Management
+- [ ] https://www.deshaw.com/careers/macro-trader-5914 | D.E. Shaw | Macro Trader
+- [ ] https://www.qube-rt.com/careers/job?gh_jid=6486059002 | QRT | Quantitative Researcher, Equity Mid-High Frequency
+- [ ] https://schroders.referrals.selectminds.com/careers/jobs/quantitative-analyst-4665 | Schroders | Quantitative Analyst
+- [ ] https://schroders.referrals.selectminds.com/careers/jobs/solutions-strategist-7808 | Schroders | Solutions Strategist
+
+### Banks, Data, Tech & Fintech — Chunk 4 refresh (2026-08-13)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5103788008 | Anthropic | Research Scientist, Frontier Red Team (Emerging Risks)
+- [ ] https://higher.gs.com/roles/159288 | Goldman Sachs | Global Macro Research, Economics, PhD Fellowship (London)
+- [ ] https://openai.com/careers/applied-data-scientist-unit-economics-understanding-san-francisco/ | OpenAI | Applied Data Scientist, Unit Economics Understanding
+- [ ] https://group.bnpparibas/en/careers/job-offer/macro-quant-analyst-1 | BNP Paribas | Macro Quant Analyst
+- [ ] https://group.bnpparibas/en/careers/job-offer/quantitative-analyst-gmqr-prime-strategist | BNP Paribas | Quantitative Analyst - GMQR Prime Strategist
+- [ ] https://group.bnpparibas/en/careers/job-offer/mexico-economist-temporary-role-up-to-12-months | BNP Paribas | Mexico Economist (Temporary 12 months)
+- [ ] https://jobs.citi.com/job/new-york/global-macro-research-strategist-vp-ny/287/78567765072 | Citigroup | Global Macro Research Strategist (VP), NY
+- [ ] https://careers.nomura.com/Nomura/job/London-Credit-Quantitative-Research-AssociateVice-President-Lond-EC4R-3AB/1410899300/ | Nomura | Credit Quantitative Research - Associate/VP (London)
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=345451&codes=IINDD | UBS | US Rates Strategist
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=348712 | UBS | Algorithmic Trading - Quantitative Analyst
+- [ ] https://search.jobs.barclays/job/london/quantitative-strategist-carbon-and-environmental-products/13015/89658084240 | Barclays | Quantitative Strategist - Carbon & Environmental Products (London)
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Intelligence-US-Equity-Strategist/18197 | Bloomberg | US Equity Strategist
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Equity-Index-Quantitative-Researcher/19778 | Bloomberg | Equity Index Quantitative Researcher
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Intelligence-Developed-Asia-Rates-Market-Strategist-Japan/14532 | Bloomberg | Developed Asia Rates Market Strategist (Japan)
+- [ ] https://careers.moodys.com/associate-economist-2/job/13223 | Moody's Analytics | Associate Economist 2
+- [ ] https://careers.moodys.com/job/19374213/economist-e1-economic-research-edinburgh-gb/ | Moody's Analytics | Economist E1 - Economic Research (Edinburgh)
+- [ ] https://careers.moodys.com/assc-dir-senior-economist/job/29096892 | Moody's Analytics | Associate Director - Senior Economist (Remote)
+- [ ] https://globalcareers-msci.icims.com/jobs/5008/quantitative-researcher/job | MSCI | Quantitative Researcher (Budapest)
+- [ ] https://globalcareers-msci.icims.com/jobs/4287/quantitative-researcher---factor-model/job | MSCI | Quantitative Researcher - Factor Model (Mexico City)
+- [ ] https://careers.ice.com/jobs/13315?lang=en-us | ICE Data Services | Quantitative Analyst, Quantitative Research (Atlanta)
+- [ ] https://careers.ice.com/jobs/4739?lang=en-us | ICE Data Services | Senior Analyst, Global Quantitative Research (Atlanta)
+- [ ] https://careers.ice.com/jobs/11201?lang=en-us | ICE Data Services | Analyst, Quantitative Research (Atlanta)
+- [ ] https://careers.ice.com/jobs/13107?lang=en-us | ICE Data Services | Analyst, Quantitative Research (Hyderabad)
+- [ ] https://careers.ice.com/jobs/13447?lang=en-us | ICE Data Services | Data Scientist, Global Quantitative Research (Atlanta)
+- [ ] https://careers.statestreet.com/global/en/job/STSTGLOBALR790888EXTERNALENGLOBAL/Quantitative-Analyst-Assistant-Vice-President | State Street | Quantitative Analyst, AVP (Boston)
+- [ ] https://careers.statestreet.com/global/en/job/STSTGLOBALR790823EXTERNALENGLOBAL/eFX-Quantitative-Analyst-AVP-Global-Markets | State Street | eFX Quantitative Analyst, AVP (Boston)
+- [ ] https://careers.statestreet.com/global/en/job/R-792319/Macro-Strategy-Analyst-Assistant-Vice-President | State Street | Macro Strategy Analyst, AVP (London)
+- [ ] https://careers.statestreet.com/global/en/job/STSTGLOBALR792775EXTERNALENGLOBAL/Senior-Equity-Strategist-Vice-President | State Street | Senior Equity Strategist, VP (London)
+- [ ] https://careers.statestreet.com/global/en/job/STSTGLOBALR791161EXTERNALENGLOBAL/Quantitative-Risk-Analyst-Model-Risk-Management-Assistant-Vice-President | State Street | Quantitative Risk Analyst, Model Risk Mgmt (Boston)
+- [ ] https://careers.statestreet.com/global/en/job/STSTGLOBALR782637EXTERNALENGLOBAL/Quantitative-Analyst-Officer | State Street | Quantitative Analyst, Officer (Krakow)
+- [ ] https://jobs.fidelity.com/en/jobs/2122513/quantitative-equity-research-analyst/ | Fidelity | Quantitative Equity Research Analyst (Boston)
+- [ ] https://jobs.fidelity.com/en/jobs/2126917/senior-manager-portfolio-strategist/ | Fidelity | Senior Manager, Portfolio Strategist (TX/RI)
+- [ ] https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/Lead-Quantitative-Researcher---Alternatives-Risk_R26472 | FactSet | Lead Quantitative Researcher - Alternatives Risk
+- [ ] https://careers.morningstar.com/us/en/job/REQ-053563/Associate-Quantitative-Analyst | Morningstar | Associate Quantitative Analyst (Navi Mumbai)
+- [ ] https://careers.morningstar.com/us/en/job/REQ-055393/Analyst-Quant-Structured-Finance-Analytics-Mathematical-Modelling | Morningstar | Analyst, Quant, Structured Finance Analytics (Madrid)
+- [ ] https://www.vanguardjobs.com/job/23359725/multi-asset-investment-product-strategist-malvern-pa/ | Vanguard | Multi-Asset Investment Product Strategist (Malvern PA)
+- [ ] https://www.vanguardjobs.com/job/23570861/quantitative-mbs-research-analyst-malvern-pa/ | Vanguard | Quantitative MBS Research Analyst (Malvern PA)
+- [ ] https://www.vanguardjobs.com/job/23569429/equity-product-strategist-malvern-pa/ | Vanguard | Equity Product Strategist (Malvern PA)
+- [ ] https://www.amazon.jobs/en/jobs/2964046/senior-economist | Amazon | Senior Economist
+- [ ] https://careers.google.com/jobs/results/133103531564376774-senior-economist/ | Google | Senior Economist, Economic Impact Estimation
+- [ ] https://www.metacareers.com/profile/job_details/1016147127616653/ | Meta | Research Scientist, Demography and Survey Sciences
+
+### Hedge Funds & Asset Managers — Chunk 3 refresh (2026-09-04)
+- [ ] https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher-trading-research&jobCode=CSS-0010080 | Point72 | Quantitative Researcher, Trading Research
+- [ ] https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher-machine-learning&jobCode=CSS-0013280 | Point72 | Quantitative Researcher – Machine Learning
+- [ ] https://boards.greenhouse.io/bridgewater89/jobs/5921864002 | Bridgewater | Quantitative Research Associate – Sustainable Investing
+- [ ] https://boards.greenhouse.io/bridgewater89/jobs/5719909002 | Bridgewater | Macro Equity Research Associate
+- [ ] https://boards.greenhouse.io/bridgewater89/jobs/5725475002 | Bridgewater | Quantitative Equities Research Associate
+- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4549637101 | Man Group | Quantitative Researcher – Specialist Strategies (Hong Kong)
+- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4682351101 | Man Group | Quantitative Researcher (verify title)
+- [ ] https://job-boards.greenhouse.io/worldquant/jobs/4673030006 | WorldQuant | Quantitative Researcher, Quant Macro
+- [ ] https://schroders.referrals.selectminds.com/careers/jobs/quantitative-analyst-5678 | Schroders | Quantitative Analyst
+
+### Macro Advisory & Think Tanks — Chunk 2 (2026-09-04)
+- [ ] https://careers.oxfordeconomics.com/postings/e5c6722d-81c8-4349-9412-27341eefaf0a | Oxford Economics | Economist - Scenarios & Macro Modelling (London / Oxford)
+- [ ] https://careers.oxfordeconomics.com/postings/7a335963-ac62-4347-bcb5-105ee4303fe6 | Oxford Economics | Sr. Economist / Data Scientist - Economic Impact (London)
+- [ ] https://careers.oxfordeconomics.com/postings/eb3bd47a-c6d6-4fba-a043-99f4dd6deae8 | Oxford Economics | Economist - Product Development - Tourism Economics (London)
+- [ ] https://careers.oxfordeconomics.com/jobs/243636 | Oxford Economics | Senior Economist - Tourism Economics (Americas / Philadelphia)
+- [ ] https://careers.oxfordeconomics.com/postings/5a2c302e-f172-4a06-a93e-addbf94b01d3 | Oxford Economics | Senior Economist – EMEA Consulting - Tourism Economics (Dubai)
+
+### Banks, Data, Tech & Fintech — Chunk 4 refresh (2026-09-17)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5154112008 | Anthropic | Research Operations, Economic Research
+- [ ] https://www.amazon.jobs/en/jobs/10427276/senior-economist | Amazon | Senior Economist
+- [ ] https://www.amazon.jobs/en/jobs/10427265/economist-ii | Amazon | Economist II
+- [ ] https://www.amazon.jobs/en/jobs/10510781/principal-economist-fulfillment-by-amazon | Amazon | Principal Economist, Fulfillment by Amazon
+- [ ] https://jobs.citi.com/job/london/equity-quantitative-research-analyst-vice-president/287/99664786960 | Citigroup | Equity Quantitative Research Analyst VP (London)
+- [ ] https://jobs.citi.com/job/new-york/gsmg-research-senior-associate-global-macro-strategy/287/99436923888 | Citigroup | GSMG Research Senior Associate – Global Macro Strategy
+- [ ] https://jobs.citi.com/job/new-york/gsmg-research-senior-associate-global-macro-quantitative-research/287/99436923840 | Citigroup | GSMG Research Senior Associate – Global Macro Quantitative Research
+- [ ] https://jobs.citi.com/job/new-york/emerging-markets-fx-and-rates-research-strategist-latam-senior-associate/287/99751153904 | Citigroup | EM FX & Rates Research Strategist LATAM, Senior Associate
+- [ ] https://bloomberg.avature.net/careers/JobDetail/Bloomberg-Economics-US-Senior-Economist/16197 | Bloomberg | US Senior Economist
+- [ ] https://careers.ice.com/jobs/13168?lang=en-us | ICE Data Services | Analyst, Global Quantitative Research (London)
+- [ ] https://www.vanguardjobs.com/job/23387237/senior-quantitative-credit-strategist-malvern-pa/ | Vanguard | Senior Quantitative Credit Strategist
+- [ ] https://jobs.fidelity.com/en/jobs/2131918/quantitative-portfolio-analyst-portfolio-engineering/ | Fidelity | Quantitative Portfolio Analyst, Portfolio Engineering
+- [ ] https://careers.msci.com/job/research/norman/associate-financial-engineering-research-and-development/2026-5846 | MSCI | Associate, Financial Engineering, Research & Development
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=340560 | UBS | Macro Desk Strategist
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=327034 | UBS | Research – Economics & Strategy, Global Cross Assets
+- [ ] https://www.janestreet.com/join-jane-street/position/8573726002/ | Jane Street | Quantitative Researcher
+- [ ] https://higher.gs.com/roles/180084 | Goldman Sachs | GIR US Economics Research Associate
+- [ ] https://apply.careers.hsbc.com/job/Central-Associate-Director,-Global-FX-Strategist-Hong/1347686357/ | HSBC | Associate Director, Global FX Strategist (Hong Kong)
+
+### Macro Advisory & Think Tanks — Chunk 2 (2026-09-19)
+- [ ] https://careers.oxfordeconomics.com/postings/396ca8e0-6dea-4d25-ac54-078f17af1577 | Oxford Economics | Lead Economist - US Construction and Infrastructure (Philadelphia)
+- [ ] https://careers.chathamhouse.org/jobs/8389579-research-fellow-west-africa-africa-programme | Chatham House | Research Fellow (West Africa) - Africa Programme ⚠️ deadline Sep 29
+- [ ] https://www.ippr.org/job/research-fellow-economist-centre-for-economic-justice | IPPR | Research Fellow/Economist - Centre for Economic Justice
+- [ ] https://app.beapplied.com/apply/cgoihiahf3 | Resolution Foundation | Senior Economist - Net Zero
+- [ ] https://app.beapplied.com/apply/ejs5bakqcm | Resolution Foundation | Economist/Research and Policy Analyst
+- [ ] https://uk.linkedin.com/jobs/view/economist-senior-economist-at-cambridge-econometrics-4263103037 | Cambridge Econometrics | Economist / Senior Economist
+
+### Banks, Data, Tech & Fintech — Chunk 4 refresh (2026-09-19)
+- [ ] https://higher.gs.com/roles/159268 | Goldman Sachs | Global Macro Research, Economics — PhD Fellowship (NY)
+- [ ] https://group.bnpparibas/en/careers/job-offer/quantitative-analyst-gmqr-quant-strategists | BNP Paribas | Quantitative Analyst - GMQR Quant Strategists
+- [ ] https://group.bnpparibas/en/careers/job-offer/macro-quant-analyst-2 | BNP Paribas | Macro Quant Analyst
+- [ ] https://group.bnpparibas/en/careers/job-offer/quantitative-analyst-4 | BNP Paribas | Quantitative Analyst
+- [ ] https://group.bnpparibas/en/careers/job-offer/associate-quantitative-analyst-ir-options | BNP Paribas | Associate Quantitative Analyst - IR Options
+- [ ] https://group.bnpparibas/en/careers/job-offer/equity-quantitative-analyst | BNP Paribas | Equity Quantitative Analyst
+- [ ] https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Senior-Quantitative-Analyst/175559 | HSBC | Senior Quantitative Analyst
+- [ ] https://jobs.citi.com/job/singapore/research-senior-associate-emerging-markets-economics-assistant-vice-president/287/99487052016 | Citigroup | Research Senior Associate, EM Economics - AVP (Singapore)
+- [ ] https://jobs.citi.com/job/new-york/us-economics-research-senior-associate-avp-new-york-ny/287/81834244672 | Citigroup | US Economics Research Senior Associate, AVP (NY)
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=343945 | UBS | Quantitative Analyst, Agency Algorithmic Trading
+- [ ] https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=342483 | UBS | Electronic Trading Quantitative Analyst
+- [ ] https://drw.com/work-at-drw/listings/quantitative-researcher-2581873 | DRW | Quantitative Researcher
+- [ ] https://optiver.com/working-at-optiver/career-opportunities/8455668002/ | Optiver | Quantitative Researcher - SVT
+- [ ] https://careers.nomura.com/Nomura/job/New-York-Research-Analyst,-US-Fixed-Income-NY-10019/1311268700/ | Nomura | Research Analyst, US Fixed Income (NY)
+- [ ] https://careers.nomura.com/Nomura/job/New-York-Securitized-Products-Research-Analyst,-US-Fixed-Income-NY-10019/1403125400/ | Nomura | Securitized Products Research Analyst, US Fixed Income (NY)
+- [ ] https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Macro-Research--d-m-w-_R0407515 | Deutsche Bank | Macro Research
+- [ ] https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Senior-Financial-Economist_175519 | Vanguard | Senior Financial Economist
+- [ ] https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quantitative-Research-Analyst--Officer_R-789457 | State Street | Quantitative Research Analyst, Officer
+- [ ] https://www.amazon.jobs/en/jobs/10482932/economist-stores-economics-and-science | Amazon | Economist, Stores Economics and Science
+- [ ] https://careers.google.com/jobs/results/141603000018707142-senior-economist/ | Google | Senior Economist, Economic Impact Estimation
+
+### Hedge Funds & Asset Managers — Chunk 3 refresh (2026-09-19)
+- [ ] https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Two-Sigma-Securities/13550 | Two Sigma | Quantitative Researcher, Two Sigma Securities
+- [ ] https://job-boards.greenhouse.io/worldquant/jobs/4372598006 | WorldQuant | Quantitative Researcher, Quant Macro (Taipei)
+- [ ] https://careers.blackrock.com/job/13929384/associate-vice-president-fixed-income-macro-quantitative-pm-researcher-san-francisco-san-francisco-ca/ | BlackRock | Associate/VP Fixed Income Macro Quantitative PM/Researcher (SF)
+- [ ] https://apply.workable.com/caxton/j/01A054D8C3/ | Caxton | Discretionary Macro Portfolio Manager (New York)
+- [ ] https://apply.workable.com/caxton/j/01EC6C5D5F/ | Caxton | Discretionary Macro Portfolio Manager (Dubai)
+- [ ] https://apply.workable.com/caxton/j/FB866FD99F/ | Caxton | Associate PM Programme, EM Macro (NYC)
+- [ ] https://apply.workable.com/caxton/j/C27F858E52/ | Caxton | Associate PM Program, Systematic Strategies
+- [ ] https://apply.workable.com/caxton/j/662FE1FB8B/ | Caxton | Associate PM Program (Singapore)
+- [ ] https://apply.workable.com/caxton/j/8B8041EE9F/ | Caxton | Associate PM Program (Dubai)
+- [ ] https://apply.workable.com/caxton/j/36FF1FBBA4/ | Caxton | Associate PM Program (NY)
+- [ ] https://apply.workable.com/caxton/j/845E6B3A88/ | Caxton | Portfolio Manager (New York)
+- [ ] https://job-boards.greenhouse.io/winton/jobs/4026232101 | Winton | Commodity Fundamentals Portfolio Manager
+- [ ] https://job-boards.eu.greenhouse.io/mangroup/jobs/4724413101 | Man Group | Quantitative Researcher [role TBC]
+- [ ] https://job-boards.greenhouse.io/grahamcapitalmanagement/jobs/4672741005 | Graham Capital | Research Role [role TBC]
+- [ ] https://job-boards.greenhouse.io/exoduspoint/jobs/7986685002 | ExodusPoint | Research Role [role TBC]
+- [ ] https://schroders.referrals.selectminds.com/careers/jobs/quantitative-analyst-3221 | Schroders | Quantitative Analyst
+- [ ] https://schroders.referrals.selectminds.com/careers/jobs/research-analyst-5205 | Schroders | Research Analyst
