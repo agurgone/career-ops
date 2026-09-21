@@ -763,7 +763,7 @@ Cloud routine "Scan Chunk 1" has failed 4 consecutive runs due to egress block i
 ### Hedge Funds & Asset Managers — Chunk 3 refresh (2026-09-19)
 - [x] #203 | https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Two-Sigma-Securities/13550 | Two Sigma | Quantitative Researcher, Two Sigma Securities | 2.3/5 | PDF ❌ | Market-microstructure/HFT mismatch; consider Systematic Macro PM listing instead (job 13975)
 - [x] #204 | https://job-boards.greenhouse.io/worldquant/jobs/4372598006 | WorldQuant | Quantitative Researcher, Quant Macro (Taipei) | 3.1/5 | PDF ❌ | No markets/alpha-research background; entry-level track
-- [x] #205 | https://careers.blackrock.com/job/13929384/associate-vice-president-fixed-income-macro-quantitative-pm-researcher-san-francisco-san-francisco-ca/ | BlackRock | Associate/VP Fixed Income Macro Quantitative PM/Researcher (SF) | 4.0/5 | PDF ✅ | Best of the batch — direct match to Quant Researcher/Macro archetype
+- [x] #205 | https://careers.blackrock.com/job/13929384/associate-vice-president-fixed-income-macro-quantitative-pm-researcher-san-francisco-san-francisco-ca/ | BlackRock | Associate/VP Fixed Income Macro Quantitative PM/Researcher (SF) | 4.0/5 | PDF ✅ | CONFIRMED DEAD 2026-09-21 (Playwright: redirects to homepage, absent from live keyword search) — do not pursue without a live re-post
 - [ ] https://apply.workable.com/caxton/j/01A054D8C3/ | Caxton | Discretionary Macro Portfolio Manager (New York)
 - [ ] https://apply.workable.com/caxton/j/01EC6C5D5F/ | Caxton | Discretionary Macro Portfolio Manager (Dubai)
 - [ ] https://apply.workable.com/caxton/j/FB866FD99F/ | Caxton | Associate PM Programme, EM Macro (NYC)
